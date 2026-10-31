@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "market_daily_volume": "8-12",
+  "mix": {
+    "MUST READ": 3,
+    "IMPORTANT": "3-4",
+    "WATCH": "2-3",
+    "WILD CARD": 1
+  },
+  "score_weights": {
+    "business_relevance": 30,
+    "market_structure": 25,
+    "competitor_impact": 15,
+    "capital_flow": 15,
+    "time_horizon": 10,
+    "source_quality": 5
+  },
+  "source_priority": {
+    "S": [
+      "official company IR/news releases",
+      "MHLW",
+      "METI/GENIAC",
+      "timely disclosures / deal parties"
+    ],
+    "A": [
+      "M&A specialist sources",
+      "HR/tech specialist media",
+      "VC/investor releases",
+      "global staffing/HR-tech sources"
+    ],
+    "B": [
+      "Big4/strategy consulting research",
+      "adjacent SaaS/BPO/education/DX markets"
+    ],
+    "C": [
+      "general news for context only"
+    ]
+  },
+  "editorial_rules": [
+    "Primary sources first",
+    "Separate FACT / READ / ACTION",
+    "Do not mix speculation into FACT",
+    "For M&A identify acquired capability/customer/data/talent/geography",
+    "For global signals add Japan timing and business implication",
+    "Regulatory changes can override score into MUST READ"
+  ],
+  "weekly_market_map": [
+    "capital flow",
+    "competitor capability acquisition",
+    "AI substitution",
+    "policy direction",
+    "next signals"
+  ]
+}
