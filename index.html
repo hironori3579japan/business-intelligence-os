@@ -1,0 +1,168 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BUSINESS INTELLIGENCE OS</title>
+<style>
+:root{--bg:#07090d;--panel:#0f141c;--panel2:#141b25;--line:#28313e;--text:#f4f7f9;--muted:#98a5b5;--lime:#d9ff4d;--good:#91e6b5}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,"Noto Sans JP",sans-serif}
+.app{max-width:700px;margin:auto;padding:20px 17px 100px}.top{display:flex;align-items:center;justify-content:space-between}.brand{font-size:11px;font-weight:900;letter-spacing:.15em}.clock{font-size:11px;color:var(--muted)}
+h1{font-size:32px;line-height:1.12;margin:22px 0 7px}.lead{color:var(--muted);line-height:1.65;font-size:14px}.tabs{display:flex;gap:7px;overflow:auto;margin:22px 0 16px}.tab{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:9px 12px;font-size:11px;cursor:pointer}.tab.on{background:var(--lime);color:#090b0e;border-color:var(--lime);font-weight:900}
+.toolbar{display:flex;gap:8px;margin:10px 0 18px;flex-wrap:wrap}.btn{background:var(--panel);border:1px solid var(--line);color:var(--text);padding:9px 11px;border-radius:11px;font-size:11px;cursor:pointer}.btn.active{border-color:var(--good);color:var(--good)}
+.panel{display:none}.panel.on{display:block}.marketIntro{background:#10170f;border:1px solid #293b25;border-radius:17px;padding:17px;margin-bottom:15px}.marketIntro b{color:var(--lime)}.small{font-size:11px;color:var(--muted);line-height:1.6}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:19px;padding:18px;margin:12px 0}.rank{font-size:10px;color:var(--lime);font-weight:900;letter-spacing:.1em}.card h2{font-size:19px;line-height:1.45;margin:8px 0 10px}.chips{display:flex;gap:6px;flex-wrap:wrap}.chip{font-size:9px;padding:5px 7px;background:#19212c;border-radius:7px;color:#c8d1dc}.sec{border-top:1px solid var(--line);margin-top:12px;padding-top:11px}.sec b{font-size:9px;letter-spacing:.1em;color:#b7c2ce}.sec p{font-size:14px;line-height:1.7;margin:5px 0}.src{display:inline-block;margin-top:8px;color:var(--text);font-size:11px;text-decoration:none;border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.score{font-weight:900;color:var(--lime)}.empty{padding:28px 8px;color:var(--muted);line-height:1.7}.audio{position:sticky;bottom:10px;background:rgba(16,20,28,.96);backdrop-filter:blur(10px);border:1px solid var(--line);border-radius:17px;padding:11px 12px;display:flex;align-items:center;gap:10px;margin-top:20px}.audioTitle{flex:1}.audioTitle b{font-size:11px}.audioTitle div{font-size:9px;color:var(--muted);margin-top:3px}.vol{width:85px}.footer{color:var(--muted);font-size:10px;line-height:1.6;margin-top:22px}
+</style></head><body><main class="app">
+<div class="top"><div class="brand">BUSINESS INTELLIGENCE OS</div><div class="clock" id="date"></div></div>
+<h1>市場を読む。<br>事業に変える。</h1>
+<p class="lead">HR / AI / 政策 / MARKETを、FACTと解釈を混ぜずに読む。MARKETは競合・M&A・資金調達・隣接市場・海外動向を重点監視。</p>
+<div class="tabs">
+<div class="tab on" data-tab="today">TODAY</div><div class="tab" data-tab="hr">HR</div><div class="tab" data-tab="ai">AI</div><div class="tab" data-tab="policy">政策</div><div class="tab" data-tab="market">MARKET</div>
+</div>
+<div class="toolbar"><button class="btn" id="mustBtn">🔥 MUST READのみ</button><button class="btn" id="savedBtn">☆ 保存のみ</button></div>
+<div id="today" class="panel on"></div><div id="hr" class="panel"></div><div id="ai" class="panel"></div><div id="policy" class="panel"></div><div id="market" class="panel"></div>
+<section class="card" id="weeklyMap">
+<div class="rank">WEEKLY / MARKET MAP</div>
+<h2>今週の市場を5つの視点で統合</h2>
+<div class="chips"><span class="chip">CAPITAL</span><span class="chip">COMPETITOR</span><span class="chip">AI</span><span class="chip">POLICY</span><span class="chip">NEXT SIGNAL</span></div>
+<div class="sec"><b>WEEKLY OUTPUT</b><p>資金はどこへ動いたか / 競合は何を買ったか / AIは何を代替し始めたか / 政策はどちらへ動いたか / 来週見るべきシグナル。</p></div>
+</section>
+<div class="audio">
+<button class="btn" id="play">▶ PLAY</button>
+<div class="audioTitle"><b id="audioName">MORNING CAFÉ</b><div id="audioDesc">朝のカフェBGM。Sunny Terrace系の明るさを残しつつ、少し落ち着いたグルーヴ。</div></div>
+<select class="btn" id="mode">
+<option value="cafe">CAFÉ</option>
+<option value="classic">MORNING CLASSIC</option>
+<option value="terrace">SUNNY TERRACE</option>
+<option value="piano">MORNING PIANO</option>
+</select>
+<input class="vol" id="vol" type="range" min="0" max="2.20" value="0.88" step="0.02" title="BGM volume">
+</div>
+<p class="footer">LIVE BUILD v1.0. 静的HTMLでは公開Webの自動収集はできないため、data/feed.json を更新するバックエンド/定期ジョブ接続を前提にした構造です。音楽はCAFÉ / MORNING CLASSIC / SUNNY TERRACE / MORNING PIANOの4種類。ブラウザの自動再生制限により、初回のみPLAYを押して開始します。</p>
+</main>
+<script>
+const seed=[
+{tabs:["today","policy"],tier:"MUST READ",score:94,cat:"POLICY × LABOR",title:"2026年版労働経済白書：AI投資と人的資本投資を両輪に",fact:"厚生労働省は2026年9月29日、AI等技術革新が進む中での労働市場をテーマとする労働経済白書を公表。AI投資と人的資本投資の双方、労働移動・リスキリング、メタスキルの重要性を示した。",read:"AI導入支援をIT導入で終わらせず、人材戦略・育成・配置まで束ねる市場機会が強まる。",action:"Share HR / AI採用 / 戦略コンサルを『AI×Workforce Transformation』として横断商品化できるか検討。",source:"厚生労働省",url:"https://www.mhlw.go.jp/stf/newpage_75700.html"},
+{tabs:["today","ai","market"],tier:"MUST READ",score:91,cat:"AI × ENTERPRISE",title:"生成AI導入の共通課題はROI・組織・データ・ガバナンス",fact:"経産省GENIACの企業事例整理では、ROI・モニタリング、人材・組織、インフラ・データ基盤、セキュリティ・リスク管理が共通課題として整理されている。",read:"AIコンサルの競争軸はツール知識より『経営→業務→組織→データ→定着』へ移る。HRコンサルが入り込める領域が大きい。",action:"AI導入案件の標準診断項目にROI、CoE、評価制度、AI Readyデータ、ガバナンスを入れる。",source:"経済産業省 / GENIAC",url:"https://geniac.meti.go.jp/geniac_magazine/usercompanies_03.html"},
+{tabs:["today","hr","market"],tier:"IMPORTANT",score:78,cat:"HR × AI ADOPTION",title:"有償AI導入事業所31%、導入企業の78%が効果あり",fact:"厚労省の2026年2月調査では、AIを有償契約等で導入している事業所は31%。導入事業所の78%が効果ありと回答し、効果内容では作業負担軽減・効率改善が91%で最多。個人が独自導入したAIは定義から除外される。",read:"『社員がChatGPTを使っている』と『企業としてAI導入している』は別。組織導入・統制・定着支援にはまだ余地がある。",action:"顧客ヒアリングで個人利用率と会社導入率を分けて聞く。",source:"厚生労働省 労働経済動向調査",url:"https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/keizai/2602/dl/6siryo.pdf"},
+{tabs:["market"],tier:"WILD CARD",score:68,cat:"MARKET × ADJACENT",title:"隣接市場は『AIを入れる』から『AIが働ける組織を作る』へ",fact:"GENIAC事例ではAI活用の課題が経営関与、組織、評価、データ、セキュリティに広がっている。",read:"HR会社にとってAI市場は採用AIだけではない。組織設計・評価・人材育成・業務改革までが隣接市場になる。",action:"毎週1つ、HR外のAI実装事例をWILD CARDとして読む。",source:"経済産業省 / GENIAC",url:"https://geniac.meti.go.jp/geniac_magazine/usercompanies_03.html"}
+];
+
+async function loadLiveFeed(){
+ try{
+   const r=await fetch("./data/feed.json?ts="+Date.now(),{cache:"no-store"});
+   if(!r.ok) throw new Error("feed unavailable");
+   const d=await r.json();
+   if(Array.isArray(d.items) && d.items.length){
+     seed.splice(0,seed.length,...d.items);
+     render();
+     const el=document.getElementById("date");
+     if(d.generated_at) el.textContent=d.generated_at.slice(0,10).replaceAll("-",".");
+   }
+ }catch(e){ console.log("Using embedded fallback feed:",e.message); }
+}
+
+let must=false,savedOnly=false;
+const saved=new Set(JSON.parse(localStorage.getItem("bios_saved_v1")||"[]"));
+function card(x,i){let sid=x.title;return `<article class="card" data-tier="${x.tier}"><div class="rank">${x.tier} / ${x.cat}</div><h2>${x.title}</h2><div class="chips"><span class="chip score">IMPACT ${x.score}/100</span><span class="chip">FACT / READ分離</span></div><div class="sec"><b>FACT</b><p>${x.fact}</p></div><div class="sec"><b>READ</b><p>${x.read}</p></div><div class="sec"><b>ACTION</b><p>${x.action}</p></div><div class="sec"><b>SOURCE</b><p>${x.source}</p><a class="src" target="_blank" rel="noopener" href="${x.url}">原典を開く ↗</a> <button class="btn save" data-id="${encodeURIComponent(sid)}">${saved.has(sid)?"★ 保存済":"☆ 保存"}</button></div></article>`}
+function render(){
+ ["today","hr","ai","policy","market"].forEach(t=>{
+ let a=seed.filter(x=>x.tabs.includes(t)).filter(x=>!must||x.tier==="MUST READ").filter(x=>!savedOnly||saved.has(x.title));
+ let intro=t==="market"?`<div class="marketIntro"><b>MARKET DEEP DIVE</b><div class="small">本番ルール：8〜12本/日。MUST READ 3 / IMPORTANT 3〜4 / WATCH 2〜3 / WILD CARD 1。競合・M&A・資金調達・隣接市場・海外動向を重点監視し、「何の能力・顧客・データを獲得したか」まで読む。週次では MARKET MAP に統合する。</div></div>`:"";
+ document.getElementById(t).innerHTML=intro+(a.length?a.map(card).join(""):`<div class="empty">現在のサンプルフィードには該当記事なし。実運用ではバックエンドの収集結果がここへ入ります。</div>`);
+ });
+ document.querySelectorAll(".save").forEach(b=>b.onclick=()=>{let id=decodeURIComponent(b.dataset.id);saved.has(id)?saved.delete(id):saved.add(id);localStorage.setItem("bios_saved_v1",JSON.stringify([...saved]));render()})
+}
+render();loadLiveFeed();
+document.getElementById("date").textContent=new Intl.DateTimeFormat("ja-JP",{dateStyle:"medium"}).format(new Date());
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tab,.panel").forEach(x=>x.classList.remove("on"));b.classList.add("on");document.getElementById(b.dataset.tab).classList.add("on")});
+document.getElementById("mustBtn").onclick=e=>{must=!must;e.target.classList.toggle("active",must);render()};
+document.getElementById("savedBtn").onclick=e=>{savedOnly=!savedOnly;e.target.classList.toggle("active",savedOnly);render()};
+// Two light background modes generated locally with Web Audio.
+let ctx,master,nodes=[],timers=[],playing=false;
+const modeEl=document.getElementById("mode"), nameEl=document.getElementById("audioName"), descEl=document.getElementById("audioDesc");
+function tone(freq,when,dur,gain=.025,type="sine"){
+ let o=ctx.createOscillator(),g=ctx.createGain();o.type=type;o.frequency.value=freq;
+ g.gain.setValueAtTime(0.0001,when);g.gain.exponentialRampToValueAtTime(gain,when+.025);
+ g.gain.exponentialRampToValueAtTime(0.0001,when+dur);o.connect(g);g.connect(master);o.start(when);o.stop(when+dur+.03);nodes.push(o,g);
+}
+function cafeLoop(){
+ // MORNING CAFÉ: warm major-7 / 6/9 voicings, relaxed café pulse
+ const chords=[
+ [220,277.18,329.63,415.30],
+ [246.94,311.13,369.99,493.88],
+ [196,246.94,293.66,392],
+ [261.63,329.63,392,493.88]];
+ let step=0;
+ const bar=()=>{if(!playing)return;let now=ctx.currentTime+.03,c=chords[step%chords.length];
+   c.forEach((f,k)=>tone(f,now+k*.028,1.72,.034,k===0?"triangle":"sine"));
+   tone(c[0]/2,now,.18,.040,"triangle");
+   tone(c[2],now+.58,.14,.018,"sine");
+   tone(c[3],now+1.12,.17,.015,"sine");
+   tone(c[1]*2,now+1.46,.11,.010,"sine");
+   step++;
+ };
+ bar();timers.push(setInterval(bar,1880));
+}
+function classicLoop(){
+ // MORNING CLASSIC: airy chamber-like broken chords, still bright and easy
+ const prog=[
+ [261.63,329.63,392,523.25,659.25,783.99],
+ [293.66,369.99,440,587.33,739.99,880],
+ [349.23,440,523.25,698.46,880,1046.5],
+ [246.94,329.63,392,493.88,659.25,783.99]];
+ let bar=0,n=0;
+ const tick=()=>{if(!playing)return;let s=prog[bar%prog.length],now=ctx.currentTime+.015;
+   tone(s[n%s.length],now,.38,.040,n%3===0?"triangle":"sine");
+   if(n===0){tone(s[0]/2,now,.85,.020,"triangle");tone(s[2],now+.08,.72,.012,"sine")}
+   if(n===3)tone(s[4],now+.12,.24,.012,"sine");
+   n++;if(n>=s.length){n=0;bar++}
+ };
+ tick();timers.push(setInterval(tick,330));
+}
+function terraceLoop(){
+ // brighter café variation: major-7 / add9 colors and a gentle pulse
+ const chords=[[261.63,329.63,392,493.88],[293.66,369.99,440,554.37],[220,277.18,329.63,440],[349.23,440,523.25,659.25]];
+ let step=0;
+ const bar=()=>{if(!playing)return;let now=ctx.currentTime+.03,c=chords[step%chords.length];
+   c.forEach((f,k)=>tone(f,now+k*.035,1.55,.036,k===0?"triangle":"sine"));
+   [0,.46,.92,1.38].forEach((d,j)=>tone((j%2?c[2]:c[0])/2,now+d,.12,.035,"triangle"));
+   tone(c[3],now+.70,.18,.018,"sine"); step++;
+ };
+ bar();timers.push(setInterval(bar,1750));
+}
+function pianoLoop(){
+ // MORNING PIANO: lyrical bright arpeggios with a gentle upper melody
+ const prog=[
+ [261.63,329.63,392,523.25,659.25,783.99,659.25,523.25],
+ [220,277.18,329.63,440,554.37,659.25,554.37,440],
+ [293.66,369.99,440,587.33,739.99,880,739.99,587.33],
+ [349.23,440,523.25,698.46,880,1046.5,880,698.46]];
+ let bar=0,n=0;
+ const tick=()=>{if(!playing)return;let s=prog[bar%prog.length],now=ctx.currentTime+.015;
+   tone(s[n],now,.34,.043,n%4===0?"triangle":"sine");
+   if(n===0)tone(s[0]/2,now,.72,.024,"triangle");
+   if(n===2||n===6)tone(s[Math.min(n+1,7)]*1.25,now+.08,.20,.010,"sine");
+   n++;if(n>=s.length){n=0;bar++}
+ };
+ tick();timers.push(setInterval(tick,300));
+}
+function startAudio(){
+ ctx=ctx||new (window.AudioContext||window.webkitAudioContext)();
+ if(ctx.state==="suspended") ctx.resume();
+ master=ctx.createGain();master.gain.value=+document.getElementById("vol").value;
+ let comp=ctx.createDynamicsCompressor();comp.threshold.value=-14;comp.knee.value=14;comp.ratio.value=4;comp.attack.value=.008;comp.release.value=.18;
+ master.connect(comp);comp.connect(ctx.destination);nodes.push(comp);playing=true;
+ if(modeEl.value==="classic") classicLoop();
+ else if(modeEl.value==="terrace") terraceLoop();
+ else if(modeEl.value==="piano") pianoLoop();
+ else cafeLoop();
+}
+function stopAudio(){playing=false;timers.forEach(clearInterval);timers=[];nodes.forEach(n=>{try{if(n.stop)n.stop()}catch(e){}});nodes=[];if(master){try{master.disconnect()}catch(e){}}}
+function updateModeCopy(){
+ if(modeEl.value==="classic"){nameEl.textContent="MORNING CLASSIC";descEl.textContent="Sunny Terrace系の明るさをクラシック寄りに。軽快な室内楽風アルペジオ。"}
+ else if(modeEl.value==="terrace"){nameEl.textContent="SUNNY TERRACE";descEl.textContent="晴れた朝のテラスカフェ風。明るいコードと軽いパルス。"}
+ else if(modeEl.value==="piano"){nameEl.textContent="MORNING PIANO";descEl.textContent="Sunny Terrace系の爽やかさ＋透明感あるピアノ風アルペジオ。"}
+ else{nameEl.textContent="MORNING CAFÉ";descEl.textContent="朝のカフェBGM。Sunny Terrace系の明るさを残しつつ、少し落ち着いたグルーヴ。"}
+}
+modeEl.onchange=()=>{let was=playing;if(was)stopAudio();updateModeCopy();if(was)startAudio()};
+document.getElementById("play").onclick=e=>{if(!playing){startAudio();e.target.textContent="■ STOP";e.target.classList.add("active")}else{stopAudio();e.target.textContent="▶ PLAY";e.target.classList.remove("active")}};
+document.getElementById("vol").oninput=e=>{if(master)master.gain.value=+e.target.value};
+</script></body></html>
