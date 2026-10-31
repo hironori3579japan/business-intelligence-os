@@ -1,6 +1,7 @@
-name: Update Business Intelligence Feed v1
+name: Update Business Intelligence Feed
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron: "0 21 * * *"
