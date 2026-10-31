@@ -1,4 +1,4 @@
-name: Update Business Intelligence Feed
+name: Update Business Intelligence Feed v1
 
 on:
   workflow_dispatch:
