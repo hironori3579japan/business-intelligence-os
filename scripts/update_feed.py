@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os, json, urllib.request
+import os, json, subprocess, urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -48,6 +48,46 @@ def openai_request(prompt):
             if c.get("type")=="output_text": texts.append(c.get("text",""))
     return json.loads("".join(texts))
 
+def load_archive():
+    if ARCHIVE.exists():
+        try: return json.loads(ARCHIVE.read_text(encoding="utf-8"))
+        except Exception: pass
+    return {"days":[]}
+
+def save_days(days):
+    days.sort(key=lambda d:(d.get("date",""),d.get("generated_at","")),reverse=True)
+    # The UI is date-based, so keep the latest snapshot for each calendar day.
+    unique={}
+    for d in days:
+        date=d.get("date")
+        if date and date not in unique: unique[date]=d
+    ARCHIVE.write_text(json.dumps({"days":list(unique.values())[:90]},ensure_ascii=False,indent=2),encoding="utf-8")
+
+def backfill_archive_from_git():
+    """Recover historical feed snapshots already present in Git history."""
+    archive=load_archive(); days=list(archive.get("days",[])); known={d.get("date") for d in days}
+    try:
+        commits=subprocess.check_output(["git","log","--format=%H","--","data/feed.json"],cwd=ROOT,text=True).splitlines()
+        recovered={}
+        for sha in commits:
+            try:
+                raw=subprocess.check_output(["git","show",f"{sha}:data/feed.json"],cwd=ROOT,text=True,stderr=subprocess.DEVNULL)
+                feed=json.loads(raw)
+            except Exception:
+                continue
+            if not feed.get("items"): continue
+            generated=feed.get("generated_at") or ""
+            date=generated[:10]
+            if not date or date in known: continue
+            candidate={"date":date,"generated_at":generated,"items":feed["items"]}
+            if date not in recovered or generated>recovered[date].get("generated_at",""):
+                recovered[date]=candidate
+        days.extend(recovered.values())
+        save_days(days)
+        if recovered: print(f"Recovered {len(recovered)} historical day(s) from Git history")
+    except Exception as e:
+        print(f"Backfill warning: {e}")
+
 def archive_previous_feed():
     if not OUT.exists(): return
     try:
@@ -55,14 +95,10 @@ def archive_previous_feed():
         if not old.get("items"): return
         date=(old.get("generated_at") or "")[:10]
         if not date: return
-        archive={"days":[]}
-        if ARCHIVE.exists():
-            try: archive=json.loads(ARCHIVE.read_text(encoding="utf-8"))
-            except Exception: pass
+        archive=load_archive()
         days=[d for d in archive.get("days",[]) if d.get("date")!=date]
         days.append({"date":date,"generated_at":old.get("generated_at"),"items":old["items"]})
-        days.sort(key=lambda d:d.get("date",""),reverse=True)
-        ARCHIVE.write_text(json.dumps({"days":days[:90]},ensure_ascii=False,indent=2),encoding="utf-8")
+        save_days(days)
     except Exception as e:
         print(f"Archive warning: {e}")
 
@@ -79,6 +115,7 @@ For global items explain Japan relevance in READ.
 Source registry:\n{registry}
 """
     result=openai_request(prompt)
+    backfill_archive_from_git()
     archive_previous_feed()
     payload={"generated_at":datetime.now(JST).isoformat(),"model":MODEL,"items":result["items"]}
     OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8")
