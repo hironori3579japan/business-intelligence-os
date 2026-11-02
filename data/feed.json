@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-11-02T06:25:09.842382+09:00",
+  "generated_at": "2026-11-03T06:31:27.857026+09:00",
   "model": "gpt-6-luna",
   "items": [
     {
       "tabs": [
         "today",
-        "market"
+        "market",
+        "ai"
       ],
-      "tier": "IMPORTANT",
-      "score": 77,
+      "tier": "MUST READ",
+      "score": 89,
       "cat": "MARKET",
-      "title": "米派遣市場：10月の雇用は前年同週比2.4%増",
-      "fact": "米国人材派遣協会（ASA）は10月27日、2026年10月の派遣雇用が前年同月比2.4%増、9月の月次報告比0.9%増と発表した。一方、10月12～18日の週次指数は前週比0.8%低下した。",
-      "read": "前年・月次ではプラスだが、週次では弱含みも見える。米国派遣需要の回復を一方向とみなさず、短期変動を確認する材料。日本企業の海外採用・派遣事業にも参考となる。",
-      "action": "米国の派遣・契約人員の受注、開始数、週次指標を月次売上と分けて追跡する。",
-      "source": "American Staffing Association",
-      "url": "([americanstaffing.net](https://americanstaffing.net/posts/2026/10/27/staffing-index-positive-in-october/?utm_source=openai))"
-    },
-    {
-      "tabs": [
-        "today",
-        "market"
-      ],
-      "tier": "IMPORTANT",
-      "score": 79,
-      "cat": "MARKET",
-      "title": "Elwood Staffing、CoWorx買収で米東部の派遣網を拡大",
-      "fact": "Elwood Staffingは10月19日、CoWorx Staffing Servicesの買収を発表した。CoWorxは米21州に45拠点を持ち、そのうち5州はElwoodにとって新規地域となる。",
-      "read": "買収で得たのは、米国内の拠点網と派遣サービスの顧客基盤。全米展開の拡大を狙う人材会社にとって、地域拠点の獲得が成長手段となる事例。",
-      "action": "日本企業の米国進出や派遣事業提携を検討する際、拠点数だけでなく顧客業種・人材供給網・地域重複を比較する。",
-      "source": "Elwood Staffing（会社発表・沿革）",
-      "url": "([elwoodstaffing.com](https://www.elwoodstaffing.com/newsroom/?utm_source=openai))"
+      "title": "SAP、TechWolf買収で「仕事・スキル情報」を人事基盤に統合へ",
+      "fact": "SAPは2026年10月6日、AIワークインテリジェンス企業TechWolfの買収契約を発表。タスク・スキル・外部労働市場を結ぶデータモデル、AIモデル、応用AI研究チームを取り込み、SuccessFactorsの人材計画、スキルマッピング、再配置などに活用する。買収額は非公表、2026年第4四半期の完了見込み。([news.sap.com](https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/?utm_source=openai))",
+      "read": "【日本への示唆】人材データの価値が、スキルの可視化だけでなく、事業計画と要員・再教育・採用の連動に移る。国内HR SaaSや人事コンサルは、スキルデータの精度と既存業務データとの接続力が競争軸になる。",
+      "action": "SAP導入企業は、買収完了後のSuccessFactors連携方針と、スキルデータの取り扱い・他社システム接続条件を確認する。",
+      "source": "SAP News Center（一次資料） ([news.sap.com](https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/?utm_source=openai))",
+      "url": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/"
     },
     {
       "tabs": [
@@ -39,171 +25,159 @@
         "ai"
       ],
       "tier": "MUST READ",
-      "score": 84,
+      "score": 86,
       "cat": "MARKET",
-      "title": "Dayforce、Ribbon AI買収へ—音声・動画面接と候補者探索を統合",
-      "fact": "Dayforceは10月23日、AI採用テクノロジー企業Ribbon AIの買収契約を発表した。Ribbonの会話型音声・動画面接、AIソーシング、既存候補者の再発掘、候補者への連絡機能を、取引完了後にDayforceの採用機能へ統合する計画。",
-      "read": "獲得対象は採用初期工程のAI機能と候補者接点技術。大手HCMが採用支援を自社プラットフォームに取り込み、採用業務の一体提供を強める動き。日本への提供時期は発表されておらず、国内展開は未確認。",
-      "action": "競合HCM・ATSの面接自動化、候補者データ活用、AI評価の説明責任と導入条件を確認する。",
-      "source": "Dayforce（会社発表）",
-      "url": "([dayforce.com](https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=openai))"
+      "title": "Dayforce、Ribbon AI買収で音声・動画のAI面接機能を獲得",
+      "fact": "Dayforceは2026年10月23日、採用テクノロジー企業Ribbon AIの買収契約を発表。Ribbonの会話型音声・動画AIを採用プラットフォームに加え、大量採用の初期スクリーニングを自動化する計画。買収金額などの詳細は発表資料に記載されていない。([dayforce.com](https://www.dayforce.com/uk/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=openai))",
+      "read": "【日本への示唆】グローバルHCM各社が面接機能を自社基盤に取り込む動き。採用工数の削減だけでなく、日本語・職種別の評価妥当性、候補者への説明、面接記録の管理が導入判断の差になる。",
+      "action": "自社採用でAI面接を検討する場合、評価基準の監査可能性、候補者への通知・同意、ATS/HCMとの連携を要件化する。",
+      "source": "Dayforce Newsroom（一次資料） ([dayforce.com](https://www.dayforce.com/uk/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=openai))",
+      "url": "https://www.dayforce.com/uk/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
     },
     {
       "tabs": [
+        "today",
         "market",
-        "ai",
+        "policy",
+        "ai"
+      ],
+      "tier": "MUST READ",
+      "score": 83,
+      "cat": "MARKET",
+      "title": "OutSolve、Legets買収で雇用規制のAI監視と専門家支援を一体化",
+      "fact": "HRコンプライアンス事業者OutSolveは2026年10月27日、AI開発企業Reis Holdings傘下のLegetsを買収したと発表。Legetsの規制変更モニタリング技術をCompliance Intelligenceに組み込み、法改正の検知から専門家による影響評価・対応計画までをつなぐ。([globenewswire.com](https://www.globenewswire.com/news-release/2026/10/27/3388822/0/en/outsolve-acquires-legets-adding-ai-horsepower-to-its-hr-compliance-as-a-service-solution.html?utm_source=openai))",
+      "read": "【日本への示唆】法令・規制の変化を追うSaaSに、解釈や実務対応を担うコンサルを束ねるモデル。日本でも労務コンプライアンスBPOや社労士事務所のサービス高度化・統合余地がある。",
+      "action": "労務支援事業者は、法改正情報の検知だけでなく、顧客ごとの適用判定、対応タスク管理、証跡保存までを提供範囲として点検する。",
+      "source": "OutSolve発表（GlobeNewswire配信） ([globenewswire.com](https://www.globenewswire.com/news-release/2026/10/27/3388822/0/en/outsolve-acquires-legets-adding-ai-horsepower-to-its-hr-compliance-as-a-service-solution.html?utm_source=openai))",
+      "url": "https://www.globenewswire.com/news-release/2026/10/27/3388822/0/en/outsolve-acquires-legets-adding-ai-horsepower-to-its-hr-compliance-as-a-service-solution.html"
+    },
+    {
+      "tabs": [
+        "today",
+        "market",
+        "hr"
+      ],
+      "tier": "MUST READ",
+      "score": 81,
+      "cat": "MARKET",
+      "title": "Revuud、RoundTable買収で医療人材ネットワークに約1.2万人を追加",
+      "fact": "医療人材プラットフォームRevuudは2026年10月27日、医療特化の人材・コンサル会社RoundTable Strategic Solutionsの買収を発表。医療IT、収益サイクル、暫定経営人材、医療コーディング等の専門性と顧客・チームを取り込み、ネットワークに約12,000人のコンサルタント・専門職を加える。([prweb.com](https://www.prweb.com/releases/revuud-acquires-roundtable-strategic-solutions-to-build-a-more-flexible-healthcare-workforce-model-302917806.html?utm_source=openai))",
+      "read": "【日本への示唆】医療・介護の専門人材不足に対し、デジタル人材プラットフォームとハイタッチ型人材紹介・コンサルの併用モデルが広がる可能性。規模だけでなく既存顧客関係と専門職の供給力を獲得する案件。",
+      "action": "医療系人材事業者は、専門人材の登録数だけでなく、稼働率、再配置、顧客別の運用支援を組み合わせた提供モデルを比較する。",
+      "source": "Revuud発表（PRWeb配信） ([prweb.com](https://www.prweb.com/releases/revuud-acquires-roundtable-strategic-solutions-to-build-a-more-flexible-healthcare-workforce-model-302917806.html?utm_source=openai))",
+      "url": "https://www.prweb.com/releases/revuud-acquires-roundtable-strategic-solutions-to-build-a-more-flexible-healthcare-workforce-model-302917806.html"
+    },
+    {
+      "tabs": [
+        "today",
+        "market",
         "hr"
       ],
       "tier": "IMPORTANT",
       "score": 78,
       "cat": "MARKET",
-      "title": "MentorcliQ、Neobrainを買収—スキル情報と社内キャリア支援を接続",
-      "fact": "MentorcliQはNeobrainを買収した。Neobrainのスキルインテリジェンス、キャリア開発機能、AIエージェントをMentorcliQのメンタリング・従業員コミュニティ領域に加え、同社は米国と欧州での展開拡大を掲げている。",
-      "read": "買収で得たのはスキル基盤とAI人材開発機能に加え、Neobrainの欧州顧客基盤。メンタリングからスキル可視化・社内異動支援まで、従業員開発をまとめる競争が進む。",
-      "action": "人材育成・タレントマネジメント製品の選定では、スキルデータの更新、既存HRISとの連携、社内公募・育成への接続を確認する。",
-      "source": "MentorcliQ（会社情報）・Work Insiders",
-      "url": "([mentorcliq.com](https://www.mentorcliq.com/neobrain?utm_source=openai))"
+      "title": "MentorcliQ、NeoBrain買収でスキル分析・社内キャリア開発を統合",
+      "fact": "MentorcliQはNeoBrainを買収し、スキルインテリジェンス、キャリア開発、従業員コミュニティを自社プラットフォームに統合すると説明。MentorcliQの米国基盤にNeoBrainの欧州顧客基盤を加え、スキル情報を社内異動や人材育成につなげる。買収金額は公表されていない。([mentorcliq.com](https://www.mentorcliq.com/neobrain?utm_source=openai))",
+      "read": "【日本への示唆】人材育成SaaSが研修・メンタリング単体から、スキル可視化と社内流動性を扱うタレントマーケットプレイスへ拡張する流れ。日本企業でも採用難を社内配置で補う用途が焦点になる。",
+      "action": "社内公募・配置施策の評価で、スキルデータの更新頻度、職務要件との対応、利用者のキャリア情報管理を確認する。",
+      "source": "MentorcliQ（一次資料） ([mentorcliq.com](https://www.mentorcliq.com/neobrain?utm_source=openai))",
+      "url": "https://www.mentorcliq.com/neobrain"
     },
     {
       "tabs": [
+        "today",
         "market",
-        "ai",
-        "policy"
-      ],
-      "tier": "IMPORTANT",
-      "score": 75,
-      "cat": "MARKET",
-      "title": "OutSolve、Legetsを買収—雇用法令の監視をコンプライアンス支援に統合",
-      "fact": "OutSolveは10月26日、AI開発企業Reis HoldingsからLegetsを買収したと発表した。Legetsの法令変更モニタリング技術を、雇用法令の適用判断や対応計画を支援するOutSolveのHRコンプライアンスサービスに組み込む。",
-      "read": "獲得したのは規制変更を検知・整理する技術で、OutSolveの専門家による解釈・顧客支援と接続する設計。法令情報の提供にとどまらず、企業ごとの対応実務まで支援する競争に向かう。",
-      "action": "日本でも、労務法令の更新監視から適用判定・社内対応・監査記録までを一連のサービスとして提供できるか検討する。",
-      "source": "OutSolve（会社発表）",
-      "url": "([outsolve.com](https://www.outsolve.com/blog/outsolve-acquires-legets?utm_source=openai))"
-    },
-    {
-      "tabs": [
-        "market",
-        "ai",
-        "hr"
+        "ai"
       ],
       "tier": "IMPORTANT",
       "score": 77,
       "cat": "MARKET",
-      "title": "Firstwork、シリーズAで1,500万ドル調達—現場人材の初出勤までを自動化",
-      "fact": "FirstworkはシリーズAで1,500万ドルを調達したと発表した。AIエージェントで書類確認、就労資格・身元確認、研修調整、オンボーディング、コンプライアンス対応などを処理し、既存のHR・給与・スクリーニングシステム上で稼働する。",
-      "read": "対象は採用後から初出勤までの現場人材の手続き。月15万人超が同社経由で就業開始すると同社は説明しており、派遣・大量採用の運用効率化が資金使途の中心。",
-      "action": "派遣・物流・小売などの採用で、応募から初出勤までの離脱率、確認作業時間、既存システム連携を測定し、導入効果を評価する。",
-      "source": "Firstwork（会社発表）",
-      "url": "([firstwork.com](https://www.firstwork.com/post/firstwork-raises-15m-series-a-to-scale-applied-ai-for-frontline-workforce-operations?utm_source=openai))"
+      "title": "Jooba、AIエージェントと人間の審査を組み合わせる採用支援で400万ドル調達",
+      "fact": "AIネイティブ採用会社Joobaは2026年10月20日、一般提供開始と400万ドルのシード調達を発表。a16z Speedrun、Scribble Ventures、Genius Venturesが出資し、役割ごとのAIエージェントによる候補者探索・接触と人間の採用担当者による支援を組み合わせる。([webwire.com](https://www.webwire.com/ViewPressRel.asp?aId=363059&utm_source=openai))",
+      "read": "【日本への示唆】採用SaaSの販売だけでなく、候補者探索から接触・候補者提示までを月額型の運用サービスとして請け負うモデルが資金を集めている。従来型紹介の成功報酬との競合が注目点。",
+      "action": "採用委託先の比較では、料金体系に加え、候補者データの出所、企業名義での接触管理、人間による品質確認の範囲を確認する。",
+      "source": "Jooba発表（WebWire配信） ([webwire.com](https://www.webwire.com/ViewPressRel.asp?aId=363059&utm_source=openai))",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=363059"
     },
     {
       "tabs": [
+        "today",
+        "market",
+        "ai"
+      ],
+      "tier": "IMPORTANT",
+      "score": 73,
+      "cat": "MARKET",
+      "title": "Roleo、求職者側のAIキャリアエージェント拡大に290万ユーロ調達",
+      "fact": "エストニアのRoleoは2026年11月2日、AIキャリアエージェントの欧州展開に向け290万ユーロを調達したと報じられた。Practica Capitalが主導しInventureなどが参加。利用者の経験・希望に合う求人を提示し、本人が選択した場合に採用企業と直接接続する構想。([tech.eu](https://tech.eu/2026/11/02/veriff-co-founders-roleo-raises-eur29m-to-expand-ai-career-agent-across-europe/?utm_source=openai))",
+      "read": "【日本への示唆】採用側の自動化に加え、個人側が常時求人を探索し、応募を介さず企業とつながる仲介モデルが出てきた。求人媒体・人材紹介は候補者との関係管理や非公開求人の流通で影響を受ける可能性がある。",
+      "action": "求人・人材紹介事業者は、候補者同意の取得、プロフィール更新、応募前の企業接続を含む「求職者側エージェント」の顧客体験を検討する。",
+      "source": "Tech.eu（報道） ([tech.eu](https://tech.eu/2026/11/02/veriff-co-founders-roleo-raises-eur29m-to-expand-ai-career-agent-across-europe/?utm_source=openai))",
+      "url": "https://tech.eu/2026/11/02/veriff-co-founders-roleo-raises-eur29m-to-expand-ai-career-agent-across-europe/"
+    },
+    {
+      "tabs": [
+        "today",
         "market",
         "ai"
       ],
       "tier": "WATCH",
       "score": 69,
       "cat": "MARKET",
-      "title": "AI採用会社Jooba、400万ドルを調達—月額制で人材紹介に挑戦",
-      "fact": "Joobaは10月20日、400万ドルのシード調達とサービス提供開始を発表した。職種ごとのAIソーシングと人による候補者確認を組み合わせ、採用成功ごとの紹介料ではなく、役割ごとの定額月額料金を掲げる。",
-      "read": "獲得資金を背景に、従来型紹介会社とセルフサービス型採用ソフトの中間に位置するモデルを試す。紹介手数料を置き換えられるかは、候補者品質と採用実績の検証が必要。",
-      "action": "日本の紹介事業者は、成功報酬と定額・運用支援型モデルの顧客別採算を比較し、AIによる候補者探索の品質を検証する。",
-      "source": "Jooba（会社サイト）・WebWire",
-      "url": "([webwire.com](https://www.webwire.com/ViewPressRel.asp?aId=363059&utm_source=openai))"
+      "title": "【WILD CARD】Marble Cognition、業務観察からAIエージェント向け業務手順を生成する構想で375万ドル調達",
+      "fact": "ミュンヘンのMarble Cognitionは2026年11月2日、事業開始と375万ドルのプレシード調達を発表したと報じられた。従業員のPC操作を観察して業務プロセスを構造化し、その手順をAIエージェントによる反復業務の実行に使う構想。出資者にはHeartcoreとSeedcampが含まれる。([siliconangle.com](https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/?utm_source=openai))",
+      "read": "【日本への示唆】業務自動化のボトルネックを「AIモデル」ではなく、暗黙知の把握・業務可視化と捉える発想。人事・BPO事業者には業務設計や再配置支援の機会がある一方、従業員モニタリング、プライバシー、労使説明が導入上の論点になり得る。",
+      "action": "同種技術を検討する企業は、取得データの範囲、匿名化、保存場所、従業員への説明・同意、導入後の職務設計を先に評価する。",
+      "source": "SiliconANGLE（報道） ([siliconangle.com](https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/?utm_source=openai))",
+      "url": "https://siliconangle.com/2026/11/02/marble-cognition-raises-3-75m-for-its-ai-agent-workers-that-watch-and-learn-how-people-work/"
     },
     {
       "tabs": [
-        "market",
-        "hr",
-        "ai"
-      ],
-      "tier": "IMPORTANT",
-      "score": 79,
-      "cat": "MARKET",
-      "title": "Randstad調査：AI人材需要が拡大、企業の86%が技術人員増を計画",
-      "fact": "Randstadは10月29日、調査レポートで、回答企業の86%が技術人員を増やす計画と発表した。AIスキルを求める初級技術職求人は2025年以降5倍超となり、回答企業の61%は技術スキルよりコミュニケーション等の人材確保が難しいとした。",
-      "read": "Randstadの調査結果では、AI導入が技術人材需要を消すのではなく、AI活用・統括人材と対人スキルの需要を押し上げている。日本企業にも、採用だけでなく社内育成・外部人材活用の組み合わせが論点となる。",
-      "action": "AI・データ人材の採用要件に、技術スキルに加えて業務設計、関係者調整、リスク管理を明示する。",
-      "source": "Randstad（調査発表）",
-      "url": "([randstad.com](https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/?utm_source=openai))"
-    },
-    {
-      "tabs": [
-        "market",
-        "hr",
-        "ai"
-      ],
-      "tier": "WATCH",
-      "score": 65,
-      "cat": "MARKET",
-      "title": "Adecco傘下EZRA、AI開発支援者と人間のコーチを組み合わせたサービスを開始",
-      "fact": "Adecco Groupは10月26日、コーチング事業EZRAが「Loop」を開始したと発表した。資格認定を受けた人間のコーチと、会話・優先事項を記憶するAI開発支援者を組み合わせる。",
-      "read": "コーチング・人材開発におけるAI活用の一例。AI単独での助言ではなく、人間のコーチとの併用を前面に出す設計で、継続的な学習支援のサービス化を狙う。",
-      "action": "企業研修・管理職育成でAIコーチを試す場合、個人情報の扱い、有人支援への切替条件、学習成果の測定方法を確認する。",
-      "source": "The Adecco Group（会社発表）",
-      "url": "([adeccogroup.com](https://www.adeccogroup.com/our-group/media/press-releases?tags=INVESTORS+ADHOC+PUBLICATION&utm_source=openai))"
-    },
-    {
-      "tabs": [
+        "today",
         "market",
         "hr"
       ],
       "tier": "WATCH",
-      "score": 58,
+      "score": 67,
       "cat": "MARKET",
-      "title": "WILD CARD：ShareWillow、技術職の報酬・コーチング支援で850万ドル調達",
-      "fact": "ShareWillowは10月29日、技術者向けプラットフォームの拡張に向け850万ドルのシード調達を公表した。既存の成果連動型報酬サービスを基に、現場作業の準備、コーチング、収入の可視化をつなぐ製品を展開する。",
-      "read": "採用・人材紹介ではなく、技術者の定着や現場生産性を支える周辺市場の動き。人手不足業種で、報酬設計と業務支援を結びつける事例として注視する。",
-      "action": "現場人材の定着施策を検討する際、賃金・インセンティブだけでなく、作業支援やスキル育成と組み合わせた効果を測る。",
-      "source": "Unite.AI・Dealroom",
-      "url": "([unite.ai](https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/?utm_source=openai))"
+      "title": "24 Seven、IT・専門職人材の供給力を強化するためSRIを買収",
+      "fact": "米国の人材サービス会社24 Sevenは2026年10月14日、IT・専門職に強いSoftware Resources, Inc.（SRI）の買収を発表した。SRIのIT、エンジニアリング、クリエイティブ、マーケティング、財務・会計分野の人材紹介・派遣能力と、メディア、政府、金融、ホスピタリティ等の顧客基盤を獲得する。24 Sevenにとって14件目の買収。([24seventalent.com](https://www.24seventalent.com/news/24-seven-acquires-staffing-firm-sri/?utm_source=openai))",
+      "read": "【日本への示唆】人材会社の成長手段として、隣接職種・業界の専門人材供給網をM&Aで積み上げる動きが続く。国内でもIT人材の採用競争を背景に、特化型事業者の統合・ロールアップが続くか注目。",
+      "action": "人材会社の買収検討では、登録者数に加え、稼働中人材、職種別の顧客構成、候補者関係の継続性を精査する。",
+      "source": "24 Seven（一次資料） ([24seventalent.com](https://www.24seventalent.com/news/24-seven-acquires-staffing-firm-sri/?utm_source=openai))",
+      "url": "https://www.24seventalent.com/news/24-seven-acquires-staffing-firm-sri/"
     },
     {
       "tabs": [
-        "market",
-        "ai",
-        "hr"
+        "today",
+        "hr",
+        "policy"
       ],
       "tier": "IMPORTANT",
-      "score": 73,
-      "cat": "MARKET",
-      "title": "PERSOLとデジタルハリウッド、AI時代のFDE人材を育成から転職支援まで支援",
-      "fact": "PERSOLキャリアとデジタルハリウッドは9月30日、AI時代に求められるFDE人材について、育成から転職支援まで一貫して提供する協業を発表した。",
-      "read": "国内人材会社が教育事業者と組み、学習後の人材紹介・転職支援まで接続するモデル。AI導入を支える実務人材の育成と採用を一体化する動きとして注目される。",
-      "action": "AI人材育成事業では、講座受講者数に加え、修了後の就職・転職、配置後の定着・業務成果まで追跡する。",
-      "source": "PERSOLグループ（会社発表）",
-      "url": "([persol-group.co.jp](https://www.persol-group.co.jp/news/corporate/?utm_source=openai))"
+      "score": 72,
+      "cat": "HR",
+      "title": "11月は厚労省の「人材開発促進月間」—支援策案内とリスキリング施策を展開",
+      "fact": "厚生労働省は2026年10月30日、11月を「人材開発促進月間」として、職業能力開発施策の周知や事業主・個人向け支援策の案内を行うと発表。11月1～10日は障害者人材開発促進旬間、11月26日には全世代型リスキリング国民運動のキックオフフォーラムを予定している。([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_77005.html?utm_source=openai))",
+      "read": "【日本への示唆】公的な能力開発支援と、企業の人材育成・教育サービスをつなぐ機会。助成・支援制度の案内にとどまらず、受講後のスキル可視化や配置・採用への接続が事業価値になる。",
+      "action": "人材開発・研修事業者は、10月版の厚労省支援策リーフレットを確認し、顧客向けの制度案内と11月の関連行事への参加計画を更新する。",
+      "source": "厚生労働省（一次資料） ([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_77005.html?utm_source=openai))",
+      "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
     },
     {
       "tabs": [
-        "policy",
-        "ai",
-        "hr"
-      ],
-      "tier": "MUST READ",
-      "score": 83,
-      "cat": "POLICY",
-      "title": "厚労省・2026年労働経済白書：AI導入と人的資本投資の両立を提起",
-      "fact": "厚生労働省は9月29日、2026年版「労働経済の分析」を公表した。AI等の技術革新をテーマに、AI投資と人的資本投資の推進、労働者の希望に応じた労働移動・リスキリング支援、AI時代のメタスキルの重要性を挙げている。",
-      "read": "政府の労働市場分析が、AI導入を人員削減だけでなく、職種別の需要変化・人材育成・労働移動と合わせて捉えている。日本のHR・人材サービス各社にとって、リスキリングと配置転換支援の事業機会を考える基礎資料。",
-      "action": "AI導入計画と人員計画を連動させ、影響を受ける職務の特定、再訓練、社内配置転換の仕組みを整備する。",
-      "source": "厚生労働省",
-      "url": "([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_75700.html?utm_source=openai))"
-    },
-    {
-      "tabs": [
+        "today",
         "policy",
         "hr"
       ],
       "tier": "IMPORTANT",
-      "score": 76,
+      "score": 68,
       "cat": "POLICY",
-      "title": "10月1日施行：カスハラ・求職者へのセクハラ防止措置が事業主に義務化",
-      "fact": "厚生労働省は9月29日の大臣会見で、改正労働施策総合推進法等が2026年10月1日に施行され、全事業主にカスタマーハラスメントおよび求職者等へのセクシュアルハラスメントを防止するための相談体制整備等が義務付けられたと説明した。",
-      "read": "採用活動を含む求職者接点と、顧客対応現場の双方で雇用管理措置が必要となる。人材会社・採用代行は、顧客企業との役割分担や候補者相談窓口の運用確認が重要。",
-      "action": "社内規程、相談窓口、対応記録、採用面接担当者と顧客先の運用を点検し、委託先との責任分担を明文化する。",
-      "source": "厚生労働省（大臣記者会見）",
-      "url": "([mhlw.go.jp](https://www.mhlw.go.jp/stf/kaiken/daijin/0000194708_00971.html?utm_source=openai))"
+      "title": "厚労省の人材開発分科会、11月4日に産業人材育成と今後の政策を議論予定",
+      "fact": "厚生労働省の労働政策審議会・人材開発分科会は、2026年11月4日に開催予定。議題には経済産業省の産業人材育成の取組、国土交通省の建設キャリアアップシステム等、今後の人材開発政策が含まれる。([mhlw.go.jp](https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126986.html?utm_source=openai))",
+      "read": "【日本への示唆】産業政策と職業能力開発の接続が議題となる見込み。人材サービス企業・教育事業者にとって、成長分野や建設などの人手不足領域で、スキル形成と採用・配置を結ぶ施策が焦点になり得る。",
+      "action": "11月4日の公開資料・議事内容を確認し、対象分野、制度変更の方向性、民間事業者との連携余地を把握する。",
+      "source": "厚生労働省（一次資料） ([mhlw.go.jp](https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126986.html?utm_source=openai))",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126986.html"
     }
   ]
 }
