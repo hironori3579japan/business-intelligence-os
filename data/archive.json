@@ -1,6 +1,180 @@
 {
   "days": [
     {
+      "date": "2026-11-04",
+      "generated_at": "2026-11-04T06:30:37.034950+09:00",
+      "items": [
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "MUST READ",
+          "score": 87,
+          "cat": "MARKET",
+          "title": "Kelly、MSP/RPOを横断する人材調達基盤「Sevayo」に生成AIと市場データを追加",
+          "fact": "Kellyは10月29日、Sevayoに生成AIアシスタント、音声による求人要件受付、求人時点で参照できる市場賃金・ベンチマークデータを追加したと発表。既存のVMS・ATS・HRISデータを統合し、派遣・業務委託・フリーランス・直接調達などを横断すると説明している。",
+          "read": "採用依頼の段階で人材チャネル、単価、コンプライアンスを一体で判断する方向。日本のMSP/RPO各社にとっても、求人受付データと労働市場情報を結ぶ機能が差別化要素になる可能性がある（編集部の見立て）。",
+          "action": "MSP/RPO顧客への提案で、求人受付からチャネル選定・単価判断までのデータ連携と、既存VMS/ATSとの接続性を確認する。",
+          "source": "Kelly公式発表 ([kellyservices.com](https://www.kellyservices.com/press-releases/kelly-introduces-ai-powered-intake-and-workforce-intelligence-capabilities-in-sevayo?utm_source=openai))",
+          "url": "https://www.kellyservices.com/press-releases/kelly-introduces-ai-powered-intake-and-workforce-intelligence-capabilities-in-sevayo"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai",
+            "hr"
+          ],
+          "tier": "MUST READ",
+          "score": 86,
+          "cat": "MARKET",
+          "title": "Workday、AIエージェントのID・アクセス管理を強化するC1.ai買収へ",
+          "fact": "Workdayは10月13日、AIエージェントと従業員のID・アクセス権を管理するC1.aiの買収に関する確定契約を発表した。C1.aiの技術は、業務システムへのアクセス付与・変更・停止を管理するもので、買収完了はWorkdayの2027年度第4四半期を見込む。",
+          "read": "HRシステムが従業員だけでなくAIエージェントの権限・異動・停止も扱う基盤へ拡張する動き。日本企業でも人事データとエージェント権限を連動させるガバナンス需要が高まる可能性がある（編集部の見立て）。",
+          "action": "人事・IT・セキュリティ部門に、AIエージェントのID台帳、職務変更時の権限更新、退役時のアクセス停止の責任分担を確認する。",
+          "source": "Workday公式発表 ([investor.workday.com](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx?utm_source=openai))",
+          "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "MUST READ",
+          "score": 84,
+          "cat": "MARKET",
+          "title": "Dayforce、Ribbon AI買収で音声・動画面接と候補者発掘機能を取り込む",
+          "fact": "Dayforceは10月23日、AI採用テック企業Ribbon AIの買収契約を発表。買収対象の技術は、会話型の音声・動画面接、候補者ソーシング、既存候補者プールの再発掘、候補者への連絡機能で、取引完了後にDayforceの採用体験へ統合する予定。",
+          "read": "高ボリューム採用向けに、候補者接点・初期選考をHCM基盤へ取り込む動き。日本の人材会社・採用SaaSにとって、単機能の面接AIより、ATS/HCMとの統合度と候補者体験が競争軸になる可能性がある（編集部の見立て）。",
+          "action": "自社のAI面接・スクリーニング製品について、候補者プール連携、評価の一貫性、人による確認工程、統合先を比較する。",
+          "source": "Dayforce公式発表 ([dayforce.com](https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=openai))",
+          "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 79,
+          "cat": "MARKET",
+          "title": "PrismHR、PEO・給与サービス事業者向け「AI Orchestrator」を発表",
+          "fact": "PrismHRは10月27日、PEO・ASO・給与サービス事業者とその中小企業顧客向けに、AIエージェントの作成・導入・管理・ガバナンスを支援するAI Orchestratorを発表した。新しいDigital Capital Management提供の一部と位置付けている。",
+          "read": "中小企業の外部人事・給与を担うサービス事業者が、顧客企業のAIエージェント運用管理までサービス範囲を広げる動き。国内の社労士・給与BPO・中小企業向けHR SaaSでも、AI導入後の統制支援が新たな付加価値になる可能性がある（編集部の見立て）。",
+          "action": "中小企業向けBPO/給与サービスの提供範囲に、AI利用ルール、権限管理、ログ・監査、運用代行を含める余地を検討する。",
+          "source": "PrismHR公式発表 ([prismhr.com](https://www.prismhr.com/press-releases/prismhr-launches-ai-orchestrator-to-help-service-providers-manage-the-digital-workforce/?utm_source=openai))",
+          "url": "https://www.prismhr.com/press-releases/prismhr-launches-ai-orchestrator-to-help-service-providers-manage-the-digital-workforce/"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 78,
+          "cat": "MARKET",
+          "title": "DayforceとDeloitte、HR・給与変革で共同営業・導入・共同開発へ",
+          "fact": "Dayforceは10月27日、Deloitteとの戦略提携拡大を発表。共同で案件開拓・導入支援・ソリューション開発を進め、DeloitteはDayforce上で給与のSOX 404統制レビュー、差異確認、承認と監査証跡を扱うアプリを開発している。",
+          "read": "HCMベンダーと大手コンサルが、導入支援に加えて規制・統制機能の共同開発まで踏み込む事例。日本市場でもHR/給与システム導入後の内部統制や監査対応を組み込んだコンサル需要に示唆がある（編集部の見立て）。",
+          "action": "HR/給与システム案件で、導入後の統制設計・証跡管理を別売りの追加作業にせず、標準提案へ組み込めるか点検する。",
+          "source": "Dayforce公式発表 ([dayforce.com](https://www.dayforce.com/who-we-are/newsroom/dayforce-and-deloitte-form-strategic-alliance-to-advance-hr-and-payroll-transformation?utm_source=openai))",
+          "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-and-deloitte-form-strategic-alliance-to-advance-hr-and-payroll-transformation"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 77,
+          "cat": "MARKET",
+          "title": "Humanly、CareerArc買収で採用広報から選考までの導線を統合",
+          "fact": "AI採用プラットフォームHumanlyは10月14日、採用マーケティング企業CareerArcの買収を発表した。CareerArcの候補者への認知・集客・応募促進機能と、Humanlyの候補者対応、スクリーニング、面接、採用技術を組み合わせる。",
+          "read": "採用ファネル上流の集客・採用広報と、下流のAI選考を一体化するM&A。日本でも応募獲得と選考運用を別々に提供する会社は、データ連携や一気通貫の成果指標を問われる可能性がある（編集部の見立て）。",
+          "action": "採用支援のサービス設計を、認知・応募・選考・採用のファネル全体で棚卸しし、分断箇所と連携先を特定する。",
+          "source": "Humanly発表（PR Newswire） ([prnewswire.com](https://www.prnewswire.com/news-releases/humanly-acquires-careerarc-to-build-an-always-on-candidate-pipeline-for-high-volume-hiring-302907965.html?utm_source=openai))",
+          "url": "https://www.prnewswire.com/news-releases/humanly-acquires-careerarc-to-build-an-always-on-candidate-pipeline-for-high-volume-hiring-302907965.html"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "MARKET",
+          "title": "【WILD CARD】Firstwork、現場人材の採用後手続き自動化で1,500万ドル調達",
+          "fact": "Frontline workforce運用AIのFirstworkは、Earlybird主導のシリーズAで1,500万ドルを調達したと発表。応募後の書類確認、就労資格・身元確認、研修調整、オンボーディング、コンプライアンス対応などを自動化する。会社発表では、累計調達額は2,000万ドル。",
+          "read": "採用者を集めるだけでなく、初出勤までの手続き・離脱防止を自動化する領域への資金流入。日本の派遣・物流・医療・介護など大量採用業界でも、応募後から就業開始までの業務短縮が採用競争力になり得る（編集部の見立て）。",
+          "action": "大量採用顧客の応募から初出勤までを工程分解し、書類回収・資格確認・研修・給与登録の所要時間と離脱率を測定する。",
+          "source": "Firstwork公式発表 ([firstwork.com](https://www.firstwork.com/post/firstwork-raises-15m-series-a-to-scale-applied-ai-for-frontline-workforce-operations?utm_source=openai))",
+          "url": "https://www.firstwork.com/post/firstwork-raises-15m-series-a-to-scale-applied-ai-for-frontline-workforce-operations"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 74,
+          "cat": "MARKET",
+          "title": "Randstad調査：AIで技術職需要が変化、企業の86%がテック人員を増やす意向",
+          "fact": "Randstadは10月29日、グローバル調査を公表。企業の86%が技術チームを拡大しているとし、AIスキルを要件とする初級技術職の求人は2025年比で5倍、AIリスクガバナンス人材の需要は108%増と報告した。",
+          "read": "同社の調査では、AIが技術人材を一律に置き換えるのではなく、採用需要の構成を変えている。日本ではAI実装・運用人材の採用に加え、調整・コミュニケーション・ガバナンス人材の供給確保が論点になりそうだ（日本への適用は編集部の見立て）。",
+          "action": "求人要件と人材データを、AI活用スキルだけでなく、業務設計・部門間調整・リスク統制の職能まで見直す。",
+          "source": "Randstad公式発表 ([randstad.com](https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/?utm_source=openai))",
+          "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 73,
+          "cat": "MARKET",
+          "title": "doda調査：中途採用に課題を感じる企業は71.8%、人数確保が主な悩み",
+          "fact": "PERSOLキャリアのdodaは11月2日、管理職・経営者・役員2,000人を対象にした調査を公表。正社員の中途採用で71.8%が人材不足に課題感を持ち、約7割が要件適合人材の確保よりも人数の確保を大きな課題と回答した。",
+          "read": "採用難の主因が高度人材の不足だけでなく、必要人数の充足にも及ぶという企業側の認識。日本の採用支援では、経験者採用に加え、未経験採用・要件緩和・育成を含む供給設計が提案余地になる（調査結果に基づく編集部の見立て）。",
+          "action": "顧客の採用課題を「人数」「スキル適合」「採用後の育成」に分けて聞き、要件緩和や未経験者採用の選択肢を提案する。",
+          "source": "PERSOLキャリア発表 ([prtimes.jp](https://prtimes.jp/main/html/rd/p/000001115.000022215.html?utm_source=openai))",
+          "url": "https://prtimes.jp/main/html/rd/p/000001115.000022215.html"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "TODAY",
+          "title": "【国内労働市場】9月有効求人倍率1.19倍、新規求人は前年同月比0.4%減",
+          "fact": "厚生労働省が10月30日に公表した2026年9月の有効求人倍率は1.19倍で前月比0.01ポイント上昇、新規求人倍率は2.19倍で同0.13ポイント上昇。新規求人は前年同月比0.4%減で、製造業・情報通信業などは増加、卸売・小売業や宿泊・飲食サービス業などは減少した。",
+          "read": "求人倍率の上昇と新規求人の前年割れが併存しており、単一の全国指標だけで採用需要を判断しにくい。業種・地域別に求人量と採用難度を分けて、営業・要員計画を更新する局面。",
+          "action": "9月実績を業種・都道府県別に既存顧客の求人動向と照合し、需要増領域と採用抑制領域を営業計画へ反映する。",
+          "source": "厚生労働省公式統計 ([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_76960.html?utm_source=openai))",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76960.html"
+        },
+        {
+          "tabs": [
+            "policy",
+            "hr"
+          ],
+          "tier": "WATCH",
+          "score": 60,
+          "cat": "POLICY",
+          "title": "厚労省、11月を「人材開発促進月間」に設定—リスキリング関連行事を実施",
+          "fact": "厚生労働省は10月30日、11月を人材開発促進月間、11月10日を技能の日とする取組を公表。11月9日に「現代の名工」表彰、11月26日にリスキリングのキックオフフォーラムを予定し、事業主向け人材開発支援策の令和8年10月版リーフレットも案内している。",
+          "read": "制度改正の発表ではなく、職業能力開発・リスキリング施策の周知と行事の実施。研修・教育事業者や人材開発支援を行う企業は、助成・支援策の最新要件を確認する機会となる。",
+          "action": "顧客の人材育成案件で、厚労省の最新支援策リーフレットと対象要件を確認し、対象となる研修提案に反映する。",
+          "source": "厚生労働省公式発表 ([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_77005.html?utm_source=openai))",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "generated_at": "2026-11-03T06:31:27.857026+09:00",
       "items": [
