@@ -1,6 +1,209 @@
 {
   "days": [
     {
+      "date": "2026-11-05",
+      "generated_at": "2026-11-05T06:39:03.106367+09:00",
+      "items": [
+        {
+          "tabs": [
+            "today",
+            "hr",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 84,
+          "cat": "TODAY",
+          "title": "doda調査：中途採用の課題、66.9％が「人材の質」より「人数確保」",
+          "fact": "パーソルキャリアが管理職・経営者など2,000人を対象に実施した調査で、正社員中途採用に課題があるとの回答は71.8％。66.9％は「要件を満たす人材」より「人数の確保」をより大きな課題と回答し、不足人材は即戦力経験者が最多の40.0％だった。",
+          "read": "採用難は専門人材の獲得だけでなく、採用母集団の量にも広がっている。採用支援側は求人要件の見直し、未経験採用、配置・育成支援を組み合わせた提案余地がある。",
+          "action": "顧客の採用課題を「応募数・要件適合・育成期間」に分解し、求人要件緩和や未経験採用、社内配置の提案に反映する。",
+          "source": "パーソルキャリア／doda（2026年11月2日）",
+          "url": "https://doda.jp/guide/saiyo/019.html"
+        },
+        {
+          "tabs": [
+            "hr",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 76,
+          "cat": "HR",
+          "title": "厚労省：2026年9月の有効求人倍率は1.19倍",
+          "fact": "厚生労働省が10月30日に公表した2026年9月分の有効求人倍率（季節調整値）は1.19倍で、前月比0.01ポイント上昇。新規求人倍率は2.19倍、正社員有効求人倍率は1.01倍。新規求人は前年同月比0.4％減だった。",
+          "read": "求人倍率は小幅上昇した一方、新規求人は前年割れ。人材サービス各社は、採用需要の総量だけでなく業種・職種ごとの濃淡を見た営業配分が重要になる。",
+          "action": "自社の求人・成約データを産業別統計と照合し、需要変化が大きい職種の営業・候補者集客計画を更新する。",
+          "source": "厚生労働省",
+          "url": "https://www.mhlw.go.jp/stf/newpage_76960.html"
+        },
+        {
+          "tabs": [
+            "today",
+            "policy"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "POLICY",
+          "title": "厚労省の人材開発分科会、11月4日に「今後の人材開発政策」を議題に開催",
+          "fact": "労働政策審議会の第61回人材開発分科会は2026年11月4日に開催され、経済産業省の産業人材育成、建設キャリアアップシステム等、今後の人材開発政策を議題とした。厚労省の掲載ページでは議事録は未掲載。",
+          "read": "現時点で確認できるのは会議の開催と議題であり、新たな制度決定を示すものではない。今後の職業訓練・人材育成施策の方向性を把握するための政策ウォッチ対象。",
+          "action": "会議資料・議事録の公開後、企業向け訓練支援や人材育成事業に関わる変更点を確認する。",
+          "source": "厚生労働省・労働政策審議会",
+          "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126986.html"
+        },
+        {
+          "tabs": [
+            "ai",
+            "hr",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 72,
+          "cat": "AI",
+          "title": "doda求人分析：営業職で「巻き込み型」の要件が増加",
+          "fact": "dodaが2022年と2025年に掲載された営業職求人を比較。関係者との合意形成やプロジェクト推進など、同社が「巻き込み型営業」と定義した要件を含む求人は、件数ベースで5.8％増加した。記事公開日は2026年10月29日。",
+          "read": "AI・DXの普及と並行して、求人要件では関係者調整や組織横断の推進力が重視される傾向が示された。AI導入に伴う職務・スキル要件の変化を採用要件設計に反映する材料になる。",
+          "action": "営業職の求人票と評価基準を点検し、顧客課題の整理、社内外の合意形成、案件推進を具体的な要件として定義する。",
+          "source": "doda／パーソルキャリア",
+          "url": "https://doda.jp/guide/saiyo/018.html"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 86,
+          "cat": "MARKET",
+          "title": "Hudson Talent Solutions、北米のRPO企業Cornerstoneを買収",
+          "fact": "Hudson Talent Solutionsは11月3日、米バージニア州のCornerstone RPOを買収したと発表。Cornerstoneは米国・カナダ・メキシコで20年以上の採用支援実績を持ち、スタートアップから大企業までを顧客とする。",
+          "read": "買収対象から獲得したのは、北米でのRPOデリバリー能力、20年以上の採用運営経験、顧客基盤とチーム。Hudsonは既存のグローバル基盤・技術と組み合わせ、北米RPOを拡張する狙いを示している。日本のRPO事業者にとっても、地域デリバリーとグローバル技術基盤を組み合わせる競争モデルとして注目。",
+          "action": "買収後の顧客維持、統合状況、案件大型化の進捗を追い、北米展開・外資顧客支援の競争環境を見直す。",
+          "source": "Hudson Talent Solutions（GlobeNewswire掲載）",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394228/0/en/hudson-talent-solutions-acquires-cornerstone-rpo-expanding-north-american-delivery-capabilities.html"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 85,
+          "cat": "MARKET",
+          "title": "Dayforce、AI採用面接企業Ribbon AIの買収に合意",
+          "fact": "Dayforceは10月23日、Ribbon AIを買収する最終契約を締結したと発表。Ribbonの会話型音声・動画AI面接、候補者のソーシング、タレントプール再発掘機能を、取引完了後にDayforceの採用体験へ統合する予定。",
+          "read": "獲得するのは高ボリューム採用向けのAI一次面接技術、採用ソフトウェア、顧客基盤。HCMプラットフォームが候補者探索から初期選考までを内包する動きで、独立系採用ツールには統合・差別化圧力が強まる。日本企業では候補者体験、選考の妥当性、AI利用の説明責任も導入判断の論点となる。",
+          "action": "AI面接導入顧客は、評価基準の職務関連性、候補者への説明、録画・評価データの取扱いを調達要件に含める。",
+          "source": "Dayforce",
+          "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 83,
+          "cat": "MARKET",
+          "title": "Workday、AIエージェントのID・アクセス管理企業C1.ai買収へ",
+          "fact": "Workdayは10月13日、エージェントIDプラットフォームを提供するC1.aiの買収に関する最終契約を発表。C1.aiは企業システムに接続する人・AIエージェントのアクセス権を管理し、取引完了はWorkdayの2027年度第4四半期（2027年1月31日終了）までを見込む。",
+          "read": "取得対象は、従業員とAIエージェントの権限管理技術・人材・顧客基盤。人事イベントを起点に、入社・異動・退職とエージェントの権限付与・剥奪を結び付ける構想は、HRデータ基盤がAIガバナンスへ広がる動きを示す。日本でも人事システムとAIエージェントの統制連携が選定基準になり得る。",
+          "action": "人事・IT部門と、従業員およびAIエージェントの権限申請、異動時変更、退職時停止の責任分界を棚卸しする。",
+          "source": "Workday Investor Relations",
+          "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 82,
+          "cat": "MARKET",
+          "title": "Randstad調査：86％の企業がAI対応に向け技術人材チームを拡大",
+          "fact": "Randstadが10月29日に発表した2026年調査は、11市場の技術系意思決定者1,100人への調査と求人20百万件超の分析に基づく。86％の組織が技術人材チームを拡大と回答し、63％は柔軟な人材モデルをAIスキル不足への主要策に挙げた。日本も調査対象11市場に含まれる。",
+          "read": "調査ではAIが技術職を一律に置き換えるより、AI運用・ガバナンス等の需要を押し上げる構図が示された。柔軟人材の活用意向は、日本の派遣・業務委託・副業人材市場にも関連する。ただし調査結果であり、全企業の実採用動向を示す統計ではない。",
+          "action": "AI導入案件の職種・スキル要件を再分類し、正社員採用、専門人材の外部活用、社内育成の組み合わせを提案する。",
+          "source": "Randstad",
+          "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 77,
+          "cat": "MARKET",
+          "title": "Adecco傘下EZRA、人とAIを組み合わせた管理職コーチング「Loop」発表",
+          "fact": "Adecco Group傘下のEZRAは10月26日、AIパートナー「Cai」と認定人間コーチを連携させるコーチング体験「EZRA Loop」を発表。限定企業でプレビュー中で、EZRA顧客向け提供は2027年第1四半期を予定する。",
+          "read": "獲得・提供価値は、AIによる常時支援と人間コーチによる介入をつなぐ管理職育成サービス。日本の人材開発・組織変革市場でも、研修コンテンツ単体から、継続的な実践支援と人の専門性を組み合わせるモデルが競合になり得る。",
+          "action": "国内の管理職育成案件で、AI支援の頻度・人間コーチへの引継ぎ条件・成果測定方法を比較軸に加える。",
+          "source": "The Adecco Group",
+          "url": "https://www.adeccogroup.com/en/our-group/media/press-releases/ezra-launch-loop-human-ai-coaching"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "MARKET",
+          "title": "Firstwork、フロントライン人材運用AIでシリーズA 1,500万ドル調達",
+          "fact": "Firstworkは10月に1,500万ドルのシリーズAを調達したと発表。Earlybird Venture Capitalが主導し、既存投資家などが参加。AIエージェントで書類確認、就労資格・バックグラウンド確認、研修調整、オンボーディング、コンプライアンス対応を支援するとしている。",
+          "read": "資金は米国・欧州での拡大と、採用後の再確認・資格更新・継続研修などへの製品展開に充てる。採用サービスの競争領域が応募者獲得から、内定後の初出勤・定着まで広がる動きで、日本の物流・介護・小売など大量採用領域にも示唆がある。",
+          "action": "高ボリューム採用の顧客で、応募から初出勤までの離脱率・処理日数・書類確認工数を計測し、業務自動化の商機を探る。",
+          "source": "Firstwork",
+          "url": "https://www.firstwork.com/post/firstwork-raises-15m-series-a-to-scale-applied-ai-for-frontline-workforce-operations"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 68,
+          "cat": "MARKET",
+          "title": "【WILD CARD】福利厚生AIのAvante、シリーズAで3,000万ドル調達",
+          "fact": "従業員福利厚生業務向けソフトウェアを提供するAvanteは10月27日、Frist Cressey Ventures主導のシリーズAで3,000万ドルを調達したと発表。累計調達額は4,000万ドルとなり、同社は福利厚生業務を支援するAIエージェントのベータ版も開始した。",
+          "read": "人事・採用の周辺領域である福利厚生管理に資金が集まる事例。企業の福利厚生担当、保険仲介、ベンダー間の業務を横断する製品であり、HRテックのAI化が採用から従業員サービスへ広がる可能性を示す。米国市場の事例で、日本での導入実績を示すものではない。",
+          "action": "福利厚生・人事BPO顧客の問い合わせ、給付確認、ベンダー連携業務を棚卸しし、国内制度への適合性と自動化余地を検証する。",
+          "source": "Avante",
+          "url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 74,
+          "cat": "MARKET",
+          "title": "パーソルBPD、Copilot StudioのAIエージェント設計・開発・運用を受託",
+          "fact": "パーソルビジネスプロセスデザインは10月22日、Microsoft Copilot Studioを使ったAIエージェントの設計・開発・運用支援サービスを開始。先行事例として、通信系企業の問い合わせ対応自動化で営業1人あたり1〜1.5時間の工数削減、約15％の業務効率向上を公表した。",
+          "read": "BPOの業務設計・運用ノウハウとAIエージェント開発を束ねたサービス。導入後の運用・改善まで担うため、受託開発とBPOの境界が薄れる。人事・採用業務への横展開や、成果連動型サービスの展開を注視したい。",
+          "action": "自社の人事・採用業務で、問い合わせ対応や申請処理などCopilot Studioで自動化できる業務を選び、効果測定付きの小規模検証を設計する。",
+          "source": "パーソルビジネスプロセスデザイン",
+          "url": "https://www.persol-bd.co.jp/news/20261022/"
+        },
+        {
+          "tabs": [
+            "policy",
+            "hr"
+          ],
+          "tier": "WATCH",
+          "score": 61,
+          "cat": "POLICY",
+          "title": "厚労省、11月を「人材開発促進月間」に設定。リスキリング関連行事を予定",
+          "fact": "厚生労働省は11月を人材開発促進月間、11月10日を「技能の日」として案内。11月26日には「あなたのリスキリングアクション キックオフフォーラム2026」を開催予定としている。",
+          "read": "新たな助成制度の決定ではなく、職業能力開発とリスキリングを周知する施策。人材育成サービスや企業研修の提案では、既存の公的支援策・関連情報の確認機会となる。",
+          "action": "企業の人材育成担当者に、研修計画と公的支援策の適用状況を確認し、必要に応じて最新の厚労省資料を参照する。",
+          "source": "厚生労働省",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "generated_at": "2026-11-04T06:30:37.034950+09:00",
       "items": [

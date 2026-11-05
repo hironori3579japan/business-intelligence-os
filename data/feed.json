@@ -1,52 +1,191 @@
 {
-  "generated_at": "2026-11-05T06:39:03.106367+09:00",
+  "generated_at": "2026-11-06T06:33:43.665022+09:00",
   "model": "gpt-6-luna",
   "items": [
     {
       "tabs": [
-        "today",
+        "policy",
         "hr",
-        "market"
+        "today"
       ],
       "tier": "MUST READ",
-      "score": 84,
-      "cat": "TODAY",
-      "title": "doda調査：中途採用の課題、66.9％が「人材の質」より「人数確保」",
-      "fact": "パーソルキャリアが管理職・経営者など2,000人を対象に実施した調査で、正社員中途採用に課題があるとの回答は71.8％。66.9％は「要件を満たす人材」より「人数の確保」をより大きな課題と回答し、不足人材は即戦力経験者が最多の40.0％だった。",
-      "read": "採用難は専門人材の獲得だけでなく、採用母集団の量にも広がっている。採用支援側は求人要件の見直し、未経験採用、配置・育成支援を組み合わせた提案余地がある。",
-      "action": "顧客の採用課題を「応募数・要件適合・育成期間」に分解し、求人要件緩和や未経験採用、社内配置の提案に反映する。",
-      "source": "パーソルキャリア／doda（2026年11月2日）",
-      "url": "https://doda.jp/guide/saiyo/019.html"
+      "score": 86,
+      "cat": "POLICY",
+      "title": "派遣労働者の同一労働同一賃金ルールが10月1日施行",
+      "fact": "厚生労働省によると、2026年10月1日から派遣労働者の同一労働同一賃金に関する改正が施行・適用された。雇入れ時・派遣時の明示事項に、待遇差の内容・理由等について説明を求められる旨を追加するほか、ガイドラインの明確化や公正な評価による待遇改善を含む。",
+      "read": "派遣会社と派遣先の双方で、説明文書・契約手続き・待遇情報連携の運用確認が必要な実務変更。",
+      "action": "派遣元・派遣先の担当部門で、10月1日以降の雇入れ・派遣時の明示文面、労使協定、待遇説明の手順を点検する。",
+      "source": "厚生労働省（更新情報） ([mhlw.go.jp](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00001.html?utm_source=openai))",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00001.html"
     },
     {
       "tabs": [
+        "today",
         "hr",
+        "ai"
+      ],
+      "tier": "IMPORTANT",
+      "score": 78,
+      "cat": "HR",
+      "title": "パーソルBD、新卒採用の内定者フォローにAIアバターを導入",
+      "fact": "パーソルビジネスプロセスデザインは2026年11月5日、年間約500名規模の新卒採用でAIを使った内定者フォローを開始すると発表。AIアバター「Geny」と、UiPathを活用したAIエージェントを用い、内定者の相談対応や価値観・キャリア志向の整理を支援する。",
+      "read": "応募者の選考だけでなく、内定承諾から入社までの歩留まり・エンゲージメント改善にAIを当てる事例。成果の外部サービス化も視野に入れている。",
+      "action": "採用顧客には、選考AIだけでなく内定辞退抑制・入社前体験の改善を含むRPO提案の余地を検討する。",
+      "source": "パーソルビジネスプロセスデザイン（2026-11-05） ([persol-bd.co.jp](https://www.persol-bd.co.jp/news/20261105/))",
+      "url": "https://www.persol-bd.co.jp/news/20261105/"
+    },
+    {
+      "tabs": [
+        "today",
+        "ai",
         "market"
       ],
       "tier": "IMPORTANT",
       "score": 76,
-      "cat": "HR",
-      "title": "厚労省：2026年9月の有効求人倍率は1.19倍",
-      "fact": "厚生労働省が10月30日に公表した2026年9月分の有効求人倍率（季節調整値）は1.19倍で、前月比0.01ポイント上昇。新規求人倍率は2.19倍、正社員有効求人倍率は1.01倍。新規求人は前年同月比0.4％減だった。",
-      "read": "求人倍率は小幅上昇した一方、新規求人は前年割れ。人材サービス各社は、採用需要の総量だけでなく業種・職種ごとの濃淡を見た営業配分が重要になる。",
-      "action": "自社の求人・成約データを産業別統計と照合し、需要変化が大きい職種の営業・候補者集客計画を更新する。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_76960.html"
+      "cat": "AI",
+      "title": "ランスタッド、AI活用人材・求人の動向を3,500万件超の求人データで分析",
+      "fact": "ランスタッドは2026年11月5日、日本を含む11か国の求人データ3,500万件超を分析したと発表。自社分析として、AI関連スキルを持つ人材の昇進速度や米国の一部職種の賃金プレミアム、AI関連職の求人増加などを報告した。",
+      "read": "同社データでは、AI導入に伴いAI運用・業務自動化の人材需要と、人間固有スキルの需要が併存する構図。数値はランスタッドの分析対象・定義に依存するため、一般市場全体の因果効果とは区別したい。",
+      "action": "顧客のAI人材要件を「モデル開発」だけでなく、AI運用・業務設計・プロセス自動化に分解し、採用と育成の両面で提案する。",
+      "source": "ランスタッド（2026-11-05、自社分析） ([randstad.co.jp](https://www.randstad.co.jp/about/newsrelease/20261105-augmentation.html))",
+      "url": "https://www.randstad.co.jp/about/newsrelease/20261105-augmentation.html"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 78,
+      "cat": "MARKET",
+      "title": "日本企業のQ4雇用見通しは純雇用予測+7%、前年同期比では6ポイント低下",
+      "fact": "マンパワーグループの2026年第4四半期雇用予測調査では、日本の純雇用予測は+7%。前四半期比で2ポイント改善、前年同期比で6ポイント低下した。調査は東京・大阪・名古屋の企業等1,036社が対象。",
+      "read": "増員意欲はプラスを維持する一方、調査上はグローバル全体の+29%を大きく下回る。日本向け人材サービスでは、増員需要の一律拡大より欠員補充・職種別需給の差を見極める局面。",
+      "action": "営業計画では総採用数だけでなく、情報サービスなど増員意欲の高い業種と、顧客別の採用計画・欠員補充需要を分けて確認する。",
+      "source": "マンパワーグループ（2026-09-08） ([manpowergroup.jp](https://www.manpowergroup.jp/company/press/2026/20260908.html))",
+      "url": "https://www.manpowergroup.jp/company/press/2026/20260908.html"
+    },
+    {
+      "tabs": [
+        "market",
+        "today"
+      ],
+      "tier": "IMPORTANT",
+      "score": 75,
+      "cat": "MARKET",
+      "title": "米国9月の求人件数は750万件、採用・離職は大きく変わらず",
+      "fact": "米労働統計局（BLS）が11月3日に公表したJOLTSによると、2026年9月の求人件数は750万件でほぼ横ばい。採用は540万件、離職は530万件で大きな変化はなく、自発的離職は340万件に増加した。",
+      "read": "米国の求人ストックは底堅い一方、採用フローは強く加速していない。日本企業にとっては、米国の採用市場・人材獲得競争を読む補助指標として活用できる。",
+      "action": "米国採用を支援する顧客には、求人件数だけでなく採用数・自発的離職の推移も合わせて、採用難度と候補者流動性を確認する。",
+      "source": "U.S. Bureau of Labor Statistics（2026-11-03） ([bls.gov](https://www.bls.gov/news.release/jolts.htm))",
+      "url": "https://www.bls.gov/news.release/jolts.htm"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "MUST READ",
+      "score": 82,
+      "cat": "MARKET",
+      "title": "Hudson Talent SolutionsがCornerstone RPOを買収、企業顧客と北米営業力を獲得",
+      "fact": "Star Equity Holdingsは11月3日、傘下のHudson Talent Solutions（HTS）がCornerstone RPOを買収し、取引は11月2日に完了したと発表。Cornerstoneは米国・カナダ・メキシコで30社超のアクティブ顧客を持ち、200社超を支援してきたRPO会社。創業者Rodney AshbyはHTSの北米営業リーダーに就任し、Cornerstoneの従業員もHTSに移った。買収額は公表資料で確認できない。",
+      "read": "HTSはRPO能力だけでなく、既存の企業顧客、経験ある営業人材、北米の事業基盤を取り込んだ。大規模RPOやタレントアドバイザリーとのクロスセル余地がある。",
+      "action": "北米RPO市場の競合・提携先マップを更新し、顧客重複、業界別顧客基盤、営業人材の移籍後の統合状況を追う。",
+      "source": "Star Equity Holdings（2026-11-03） ([starequityholdings.gcs-web.com](https://starequityholdings.gcs-web.com/news-releases/news-release-details/stars-hudson-talent-solutions-business-acquires-cornerstone-rpo))",
+      "url": "https://starequityholdings.gcs-web.com/news-releases/news-release-details/stars-hudson-talent-solutions-business-acquires-cornerstone-rpo"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 75,
+      "cat": "MARKET",
+      "title": "doda調査：中途採用の人材不足、約7割が「人数確保」を大きな課題と回答",
+      "fact": "dodaが2026年9月に管理職・経営者等2,000人を対象に行った調査では、正社員の中途採用で71.8%が人材不足に課題感を示した。約7割が、要件を満たす人材の確保より人数の確保に課題を感じており、不足人材では「即戦力として活躍できる経験者」が40.0%で最多だった。",
+      "read": "採用難の課題が高度人材の質だけでなく採用人数にも及ぶという調査結果。採用要件の緩和だけでなく、母集団形成・選考速度・定着まで含む支援需要を示す。",
+      "action": "顧客の採用要件を「必須／入社後育成可能」に分け、応募数・選考歩留まり・早期離職を一続きで診断する。",
+      "source": "パーソルキャリア／doda（2026-11-02、PR TIMES掲載） ([prtimes.jp](https://prtimes.jp/main/html/rd/p/000001115.000022215.html?utm_source=openai))",
+      "url": "https://prtimes.jp/main/html/rd/p/000001115.000022215.html"
+    },
+    {
+      "tabs": [
+        "market",
+        "ai"
+      ],
+      "tier": "IMPORTANT",
+      "score": 73,
+      "cat": "MARKET",
+      "title": "doda分析：営業求人で「巻き込み型」要件が増加、該当求人の募集年収中央値は650万円",
+      "fact": "dodaは2022年と2025年に掲載された東京勤務想定の営業求人を比較。社内外の関係者調整・プロジェクト推進などに関連するキーワードを含む求人は、件数ベースで+5.8%。2025年の募集年収中央値は、該当求人650万円、非該当求人550万円だった。募集年収は求人票記載レンジから算出した中央値で、決定年収ではない。",
+      "read": "AI・DXの普及を背景に、定型的な提案情報の整理より、複数関係者を動かす営業力を評価する求人が増えている可能性を示す。調査はdoda掲載求人のキーワード分析であり、市場全体の変化とは同一視できない。",
+      "action": "営業職紹介・採用支援では、顧客折衝に加え、部門横断の案件推進や合意形成の実績を候補者評価・求人票に反映する。",
+      "source": "doda（2026-10-29公開） ([doda.jp](https://doda.jp/guide/saiyo/018.html/?sid=guide_new_2_261102))",
+      "url": "https://doda.jp/guide/saiyo/018.html/"
+    },
+    {
+      "tabs": [
+        "market",
+        "ai",
+        "hr"
+      ],
+      "tier": "MUST READ",
+      "score": 85,
+      "cat": "MARKET",
+      "title": "労働経済白書、AI普及下で職種・専攻間の需給ミスマッチを指摘",
+      "fact": "厚生労働省の令和8年版労働経済白書は、経済産業省の2040年推計として、AI・ロボット等の利活用人材が約340万人不足する可能性、事務職が約440万人余剰となる可能性、理系の大卒・大学院卒が約120万人不足する可能性を紹介。白書は推計に幅があることにも留意を促している。",
+      "read": "全体の雇用量よりも職種・学歴・地域間のスキル需給ギャップが、人材紹介・再教育・社内人材配置の中長期テーマになる。数値は将来推計であり、確定的な雇用予測ではない。",
+      "action": "中長期の事業計画で、AI活用人材・理系・現場人材の供給経路を採用、リスキリング、社内異動に分けて設計する。",
+      "source": "厚生労働省「令和8年版 労働経済の分析」 ([mhlw.go.jp](https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf))",
+      "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 70,
+      "cat": "MARKET",
+      "title": "Elwood Staffing、CoWorx買収で米国の拠点網を320超へ拡大",
+      "fact": "CoWorxが2026年10月19日に公表した買収情報によると、Elwood StaffingはCoWorxを買収。CoWorxの45拠点・21州の事業を取り込み、うち5州がElwoodにとって新規地域となった。CoWorxは派遣、直接採用、オンサイト運営、RPO、給与計算、人事コンサルティング等を提供し、既存ブランド・チーム・顧客関係を維持する。取引条件は非公表。",
+      "read": "地域拠点と複数サービスの束ね直しによる米国人材サービスの再編。顧客基盤・人材・拠点網を維持したまま全国インフラに接続する形。",
+      "action": "国内の地域人材会社・BPO事業者でも、拠点、顧客継続性、サービス横展開を軸に提携・買収候補を評価する。",
+      "source": "CoWorx Staffing Services（2026-10-19） ([coworxstaffing.com](https://www.coworxstaffing.com/resources/coworx-staffing-services-acquired-by-elwood-staffing-expanding-national-reach-and-resources/))",
+      "url": "https://www.coworxstaffing.com/resources/coworx-staffing-services-acquired-by-elwood-staffing-expanding-national-reach-and-resources/"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 70,
+      "cat": "MARKET",
+      "title": "doda転職求人倍率、9月は2.89倍に上昇",
+      "fact": "dodaが10月22日に発表した2026年9月の転職求人倍率は2.89倍で、前月比0.03ポイント上昇した。同指標はdoda会員登録者1人あたりの中途求人件数を示す。",
+      "read": "doda内の求人と登録者の需給を示す指標で、ハローワークの有効求人倍率などとは対象・算出方法が異なる。顧客の採用難度を把握する際は職種別データも確認したい。",
+      "action": "採用商談では全体倍率だけで結論を出さず、職種別・地域別倍率と顧客の応募・採用実績を照合する。",
+      "source": "doda（2026-10-22発表） ([doda.jp](https://doda.jp/guide/kyujin_bairitsu/?sid=guide_new_1_251124&utm_source=openai))",
+      "url": "https://doda.jp/guide/kyujin_bairitsu/"
     },
     {
       "tabs": [
         "today",
-        "policy"
+        "ai",
+        "market"
       ],
       "tier": "IMPORTANT",
-      "score": 70,
-      "cat": "POLICY",
-      "title": "厚労省の人材開発分科会、11月4日に「今後の人材開発政策」を議題に開催",
-      "fact": "労働政策審議会の第61回人材開発分科会は2026年11月4日に開催され、経済産業省の産業人材育成、建設キャリアアップシステム等、今後の人材開発政策を議題とした。厚労省の掲載ページでは議事録は未掲載。",
-      "read": "現時点で確認できるのは会議の開催と議題であり、新たな制度決定を示すものではない。今後の職業訓練・人材育成施策の方向性を把握するための政策ウォッチ対象。",
-      "action": "会議資料・議事録の公開後、企業向け訓練支援や人材育成事業に関わる変更点を確認する。",
-      "source": "厚生労働省・労働政策審議会",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126986.html"
+      "score": 72,
+      "cat": "WILD CARD",
+      "title": "WILD CARD：米Arena.ioが人材流動・定着予測基盤の拡大へ450万ドル調達",
+      "fact": "Arena.ioは11月5日、AIを用いた人材・労働市場分析プラットフォームの拡大に向け450万ドルの調達を発表。4百万人超のキャリアデータを活用し、採用後の実績データから職務適合や定着を予測すると説明。新資金は製品開発、雇用主・教育機関・政府機関との提携、エンジニアリング・データサイエンス人材の拡充に充てる。",
+      "read": "履歴書キーワード中心の候補者評価から、採用後の成果・定着データを活用するタレント分析への投資例。日本ではデータの利用権・説明可能性・雇用判断への適用が導入条件になる。",
+      "action": "採用・配置AIの評価時に、予測精度だけでなく学習データの出所、偏り検証、判断の人間関与、導入後の定着指標を確認する。",
+      "source": "Arena.io発表（Business Wire、2026-11-05） ([siouxfalls.newsnetmedia.com](https://siouxfalls.newsnetmedia.com/story/556573/arena-io-secures-4-5-million-in-closed-capital-to-accelerate-workforce-mobility-through-ai-powered-labor-market-intelligence/))",
+      "url": "https://siouxfalls.newsnetmedia.com/story/556573/arena-io-secures-4-5-million-in-closed-capital-to-accelerate-workforce-mobility-through-ai-powered-labor-market-intelligence/"
     },
     {
       "tabs": [
@@ -57,147 +196,12 @@
       "tier": "IMPORTANT",
       "score": 72,
       "cat": "AI",
-      "title": "doda求人分析：営業職で「巻き込み型」の要件が増加",
-      "fact": "dodaが2022年と2025年に掲載された営業職求人を比較。関係者との合意形成やプロジェクト推進など、同社が「巻き込み型営業」と定義した要件を含む求人は、件数ベースで5.8％増加した。記事公開日は2026年10月29日。",
-      "read": "AI・DXの普及と並行して、求人要件では関係者調整や組織横断の推進力が重視される傾向が示された。AI導入に伴う職務・スキル要件の変化を採用要件設計に反映する材料になる。",
-      "action": "営業職の求人票と評価基準を点検し、顧客課題の整理、社内外の合意形成、案件推進を具体的な要件として定義する。",
-      "source": "doda／パーソルキャリア",
-      "url": "https://doda.jp/guide/saiyo/018.html"
-    },
-    {
-      "tabs": [
-        "today",
-        "market"
-      ],
-      "tier": "MUST READ",
-      "score": 86,
-      "cat": "MARKET",
-      "title": "Hudson Talent Solutions、北米のRPO企業Cornerstoneを買収",
-      "fact": "Hudson Talent Solutionsは11月3日、米バージニア州のCornerstone RPOを買収したと発表。Cornerstoneは米国・カナダ・メキシコで20年以上の採用支援実績を持ち、スタートアップから大企業までを顧客とする。",
-      "read": "買収対象から獲得したのは、北米でのRPOデリバリー能力、20年以上の採用運営経験、顧客基盤とチーム。Hudsonは既存のグローバル基盤・技術と組み合わせ、北米RPOを拡張する狙いを示している。日本のRPO事業者にとっても、地域デリバリーとグローバル技術基盤を組み合わせる競争モデルとして注目。",
-      "action": "買収後の顧客維持、統合状況、案件大型化の進捗を追い、北米展開・外資顧客支援の競争環境を見直す。",
-      "source": "Hudson Talent Solutions（GlobeNewswire掲載）",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394228/0/en/hudson-talent-solutions-acquires-cornerstone-rpo-expanding-north-american-delivery-capabilities.html"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "MUST READ",
-      "score": 85,
-      "cat": "MARKET",
-      "title": "Dayforce、AI採用面接企業Ribbon AIの買収に合意",
-      "fact": "Dayforceは10月23日、Ribbon AIを買収する最終契約を締結したと発表。Ribbonの会話型音声・動画AI面接、候補者のソーシング、タレントプール再発掘機能を、取引完了後にDayforceの採用体験へ統合する予定。",
-      "read": "獲得するのは高ボリューム採用向けのAI一次面接技術、採用ソフトウェア、顧客基盤。HCMプラットフォームが候補者探索から初期選考までを内包する動きで、独立系採用ツールには統合・差別化圧力が強まる。日本企業では候補者体験、選考の妥当性、AI利用の説明責任も導入判断の論点となる。",
-      "action": "AI面接導入顧客は、評価基準の職務関連性、候補者への説明、録画・評価データの取扱いを調達要件に含める。",
-      "source": "Dayforce",
-      "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "MUST READ",
-      "score": 83,
-      "cat": "MARKET",
-      "title": "Workday、AIエージェントのID・アクセス管理企業C1.ai買収へ",
-      "fact": "Workdayは10月13日、エージェントIDプラットフォームを提供するC1.aiの買収に関する最終契約を発表。C1.aiは企業システムに接続する人・AIエージェントのアクセス権を管理し、取引完了はWorkdayの2027年度第4四半期（2027年1月31日終了）までを見込む。",
-      "read": "取得対象は、従業員とAIエージェントの権限管理技術・人材・顧客基盤。人事イベントを起点に、入社・異動・退職とエージェントの権限付与・剥奪を結び付ける構想は、HRデータ基盤がAIガバナンスへ広がる動きを示す。日本でも人事システムとAIエージェントの統制連携が選定基準になり得る。",
-      "action": "人事・IT部門と、従業員およびAIエージェントの権限申請、異動時変更、退職時停止の責任分界を棚卸しする。",
-      "source": "Workday Investor Relations",
-      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "MUST READ",
-      "score": 82,
-      "cat": "MARKET",
-      "title": "Randstad調査：86％の企業がAI対応に向け技術人材チームを拡大",
-      "fact": "Randstadが10月29日に発表した2026年調査は、11市場の技術系意思決定者1,100人への調査と求人20百万件超の分析に基づく。86％の組織が技術人材チームを拡大と回答し、63％は柔軟な人材モデルをAIスキル不足への主要策に挙げた。日本も調査対象11市場に含まれる。",
-      "read": "調査ではAIが技術職を一律に置き換えるより、AI運用・ガバナンス等の需要を押し上げる構図が示された。柔軟人材の活用意向は、日本の派遣・業務委託・副業人材市場にも関連する。ただし調査結果であり、全企業の実採用動向を示す統計ではない。",
-      "action": "AI導入案件の職種・スキル要件を再分類し、正社員採用、専門人材の外部活用、社内育成の組み合わせを提案する。",
-      "source": "Randstad",
-      "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "IMPORTANT",
-      "score": 77,
-      "cat": "MARKET",
-      "title": "Adecco傘下EZRA、人とAIを組み合わせた管理職コーチング「Loop」発表",
-      "fact": "Adecco Group傘下のEZRAは10月26日、AIパートナー「Cai」と認定人間コーチを連携させるコーチング体験「EZRA Loop」を発表。限定企業でプレビュー中で、EZRA顧客向け提供は2027年第1四半期を予定する。",
-      "read": "獲得・提供価値は、AIによる常時支援と人間コーチによる介入をつなぐ管理職育成サービス。日本の人材開発・組織変革市場でも、研修コンテンツ単体から、継続的な実践支援と人の専門性を組み合わせるモデルが競合になり得る。",
-      "action": "国内の管理職育成案件で、AI支援の頻度・人間コーチへの引継ぎ条件・成果測定方法を比較軸に加える。",
-      "source": "The Adecco Group",
-      "url": "https://www.adeccogroup.com/en/our-group/media/press-releases/ezra-launch-loop-human-ai-coaching"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "IMPORTANT",
-      "score": 75,
-      "cat": "MARKET",
-      "title": "Firstwork、フロントライン人材運用AIでシリーズA 1,500万ドル調達",
-      "fact": "Firstworkは10月に1,500万ドルのシリーズAを調達したと発表。Earlybird Venture Capitalが主導し、既存投資家などが参加。AIエージェントで書類確認、就労資格・バックグラウンド確認、研修調整、オンボーディング、コンプライアンス対応を支援するとしている。",
-      "read": "資金は米国・欧州での拡大と、採用後の再確認・資格更新・継続研修などへの製品展開に充てる。採用サービスの競争領域が応募者獲得から、内定後の初出勤・定着まで広がる動きで、日本の物流・介護・小売など大量採用領域にも示唆がある。",
-      "action": "高ボリューム採用の顧客で、応募から初出勤までの離脱率・処理日数・書類確認工数を計測し、業務自動化の商機を探る。",
-      "source": "Firstwork",
-      "url": "https://www.firstwork.com/post/firstwork-raises-15m-series-a-to-scale-applied-ai-for-frontline-workforce-operations"
-    },
-    {
-      "tabs": [
-        "market",
-        "ai"
-      ],
-      "tier": "IMPORTANT",
-      "score": 68,
-      "cat": "MARKET",
-      "title": "【WILD CARD】福利厚生AIのAvante、シリーズAで3,000万ドル調達",
-      "fact": "従業員福利厚生業務向けソフトウェアを提供するAvanteは10月27日、Frist Cressey Ventures主導のシリーズAで3,000万ドルを調達したと発表。累計調達額は4,000万ドルとなり、同社は福利厚生業務を支援するAIエージェントのベータ版も開始した。",
-      "read": "人事・採用の周辺領域である福利厚生管理に資金が集まる事例。企業の福利厚生担当、保険仲介、ベンダー間の業務を横断する製品であり、HRテックのAI化が採用から従業員サービスへ広がる可能性を示す。米国市場の事例で、日本での導入実績を示すものではない。",
-      "action": "福利厚生・人事BPO顧客の問い合わせ、給付確認、ベンダー連携業務を棚卸しし、国内制度への適合性と自動化余地を検証する。",
-      "source": "Avante",
-      "url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
-    },
-    {
-      "tabs": [
-        "ai",
-        "market"
-      ],
-      "tier": "IMPORTANT",
-      "score": 74,
-      "cat": "MARKET",
-      "title": "パーソルBPD、Copilot StudioのAIエージェント設計・開発・運用を受託",
-      "fact": "パーソルビジネスプロセスデザインは10月22日、Microsoft Copilot Studioを使ったAIエージェントの設計・開発・運用支援サービスを開始。先行事例として、通信系企業の問い合わせ対応自動化で営業1人あたり1〜1.5時間の工数削減、約15％の業務効率向上を公表した。",
-      "read": "BPOの業務設計・運用ノウハウとAIエージェント開発を束ねたサービス。導入後の運用・改善まで担うため、受託開発とBPOの境界が薄れる。人事・採用業務への横展開や、成果連動型サービスの展開を注視したい。",
-      "action": "自社の人事・採用業務で、問い合わせ対応や申請処理などCopilot Studioで自動化できる業務を選び、効果測定付きの小規模検証を設計する。",
-      "source": "パーソルビジネスプロセスデザイン",
-      "url": "https://www.persol-bd.co.jp/news/20261022/"
-    },
-    {
-      "tabs": [
-        "policy",
-        "hr"
-      ],
-      "tier": "WATCH",
-      "score": 61,
-      "cat": "POLICY",
-      "title": "厚労省、11月を「人材開発促進月間」に設定。リスキリング関連行事を予定",
-      "fact": "厚生労働省は11月を人材開発促進月間、11月10日を「技能の日」として案内。11月26日には「あなたのリスキリングアクション キックオフフォーラム2026」を開催予定としている。",
-      "read": "新たな助成制度の決定ではなく、職業能力開発とリスキリングを周知する施策。人材育成サービスや企業研修の提案では、既存の公的支援策・関連情報の確認機会となる。",
-      "action": "企業の人材育成担当者に、研修計画と公的支援策の適用状況を確認し、必要に応じて最新の厚労省資料を参照する。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
+      "title": "パーソル、AIで業務を再設計する「AXスキル」育成講座を開講",
+      "fact": "パーソルホールディングスは11月4日、社内アップスキリング施策「TECH UP CAMPUS」第5期を開始すると発表。生成AI×業務再設計、AIエージェント×業務再設計、AI×事業データ活用、AI×プロジェクトマネジメントを重点テーマとし、募集人数は1,000名。第1～4期の累計受講者は2,156名。",
+      "read": "人材サービス大手がAI利用の習熟だけでなく、業務プロセス再設計までを社内人材育成の対象にしている。研修・人事コンサル各社にとっては、研修後の実務適用を含む支援設計が競争軸になる。",
+      "action": "法人研修・AIコンサル提案では、講座受講者数に加え、対象業務、実装成果、定着率、業務時間削減などの指標を設定する。",
+      "source": "パーソルホールディングス（2026-11-04） ([persol-group.co.jp](https://www.persol-group.co.jp/news/20261104_1/))",
+      "url": "https://www.persol-group.co.jp/news/20261104_1/"
     }
   ]
 }
