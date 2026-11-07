@@ -1,6 +1,213 @@
 {
   "days": [
     {
+      "date": "2026-11-06",
+      "generated_at": "2026-11-06T06:33:43.665022+09:00",
+      "items": [
+        {
+          "tabs": [
+            "policy",
+            "hr",
+            "today"
+          ],
+          "tier": "MUST READ",
+          "score": 86,
+          "cat": "POLICY",
+          "title": "派遣労働者の同一労働同一賃金ルールが10月1日施行",
+          "fact": "厚生労働省によると、2026年10月1日から派遣労働者の同一労働同一賃金に関する改正が施行・適用された。雇入れ時・派遣時の明示事項に、待遇差の内容・理由等について説明を求められる旨を追加するほか、ガイドラインの明確化や公正な評価による待遇改善を含む。",
+          "read": "派遣会社と派遣先の双方で、説明文書・契約手続き・待遇情報連携の運用確認が必要な実務変更。",
+          "action": "派遣元・派遣先の担当部門で、10月1日以降の雇入れ・派遣時の明示文面、労使協定、待遇説明の手順を点検する。",
+          "source": "厚生労働省（更新情報） ([mhlw.go.jp](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00001.html?utm_source=openai))",
+          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00001.html"
+        },
+        {
+          "tabs": [
+            "today",
+            "hr",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 78,
+          "cat": "HR",
+          "title": "パーソルBD、新卒採用の内定者フォローにAIアバターを導入",
+          "fact": "パーソルビジネスプロセスデザインは2026年11月5日、年間約500名規模の新卒採用でAIを使った内定者フォローを開始すると発表。AIアバター「Geny」と、UiPathを活用したAIエージェントを用い、内定者の相談対応や価値観・キャリア志向の整理を支援する。",
+          "read": "応募者の選考だけでなく、内定承諾から入社までの歩留まり・エンゲージメント改善にAIを当てる事例。成果の外部サービス化も視野に入れている。",
+          "action": "採用顧客には、選考AIだけでなく内定辞退抑制・入社前体験の改善を含むRPO提案の余地を検討する。",
+          "source": "パーソルビジネスプロセスデザイン（2026-11-05） ([persol-bd.co.jp](https://www.persol-bd.co.jp/news/20261105/))",
+          "url": "https://www.persol-bd.co.jp/news/20261105/"
+        },
+        {
+          "tabs": [
+            "today",
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 76,
+          "cat": "AI",
+          "title": "ランスタッド、AI活用人材・求人の動向を3,500万件超の求人データで分析",
+          "fact": "ランスタッドは2026年11月5日、日本を含む11か国の求人データ3,500万件超を分析したと発表。自社分析として、AI関連スキルを持つ人材の昇進速度や米国の一部職種の賃金プレミアム、AI関連職の求人増加などを報告した。",
+          "read": "同社データでは、AI導入に伴いAI運用・業務自動化の人材需要と、人間固有スキルの需要が併存する構図。数値はランスタッドの分析対象・定義に依存するため、一般市場全体の因果効果とは区別したい。",
+          "action": "顧客のAI人材要件を「モデル開発」だけでなく、AI運用・業務設計・プロセス自動化に分解し、採用と育成の両面で提案する。",
+          "source": "ランスタッド（2026-11-05、自社分析） ([randstad.co.jp](https://www.randstad.co.jp/about/newsrelease/20261105-augmentation.html))",
+          "url": "https://www.randstad.co.jp/about/newsrelease/20261105-augmentation.html"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 78,
+          "cat": "MARKET",
+          "title": "日本企業のQ4雇用見通しは純雇用予測+7%、前年同期比では6ポイント低下",
+          "fact": "マンパワーグループの2026年第4四半期雇用予測調査では、日本の純雇用予測は+7%。前四半期比で2ポイント改善、前年同期比で6ポイント低下した。調査は東京・大阪・名古屋の企業等1,036社が対象。",
+          "read": "増員意欲はプラスを維持する一方、調査上はグローバル全体の+29%を大きく下回る。日本向け人材サービスでは、増員需要の一律拡大より欠員補充・職種別需給の差を見極める局面。",
+          "action": "営業計画では総採用数だけでなく、情報サービスなど増員意欲の高い業種と、顧客別の採用計画・欠員補充需要を分けて確認する。",
+          "source": "マンパワーグループ（2026-09-08） ([manpowergroup.jp](https://www.manpowergroup.jp/company/press/2026/20260908.html))",
+          "url": "https://www.manpowergroup.jp/company/press/2026/20260908.html"
+        },
+        {
+          "tabs": [
+            "market",
+            "today"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "MARKET",
+          "title": "米国9月の求人件数は750万件、採用・離職は大きく変わらず",
+          "fact": "米労働統計局（BLS）が11月3日に公表したJOLTSによると、2026年9月の求人件数は750万件でほぼ横ばい。採用は540万件、離職は530万件で大きな変化はなく、自発的離職は340万件に増加した。",
+          "read": "米国の求人ストックは底堅い一方、採用フローは強く加速していない。日本企業にとっては、米国の採用市場・人材獲得競争を読む補助指標として活用できる。",
+          "action": "米国採用を支援する顧客には、求人件数だけでなく採用数・自発的離職の推移も合わせて、採用難度と候補者流動性を確認する。",
+          "source": "U.S. Bureau of Labor Statistics（2026-11-03） ([bls.gov](https://www.bls.gov/news.release/jolts.htm))",
+          "url": "https://www.bls.gov/news.release/jolts.htm"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "MUST READ",
+          "score": 82,
+          "cat": "MARKET",
+          "title": "Hudson Talent SolutionsがCornerstone RPOを買収、企業顧客と北米営業力を獲得",
+          "fact": "Star Equity Holdingsは11月3日、傘下のHudson Talent Solutions（HTS）がCornerstone RPOを買収し、取引は11月2日に完了したと発表。Cornerstoneは米国・カナダ・メキシコで30社超のアクティブ顧客を持ち、200社超を支援してきたRPO会社。創業者Rodney AshbyはHTSの北米営業リーダーに就任し、Cornerstoneの従業員もHTSに移った。買収額は公表資料で確認できない。",
+          "read": "HTSはRPO能力だけでなく、既存の企業顧客、経験ある営業人材、北米の事業基盤を取り込んだ。大規模RPOやタレントアドバイザリーとのクロスセル余地がある。",
+          "action": "北米RPO市場の競合・提携先マップを更新し、顧客重複、業界別顧客基盤、営業人材の移籍後の統合状況を追う。",
+          "source": "Star Equity Holdings（2026-11-03） ([starequityholdings.gcs-web.com](https://starequityholdings.gcs-web.com/news-releases/news-release-details/stars-hudson-talent-solutions-business-acquires-cornerstone-rpo))",
+          "url": "https://starequityholdings.gcs-web.com/news-releases/news-release-details/stars-hudson-talent-solutions-business-acquires-cornerstone-rpo"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "MARKET",
+          "title": "doda調査：中途採用の人材不足、約7割が「人数確保」を大きな課題と回答",
+          "fact": "dodaが2026年9月に管理職・経営者等2,000人を対象に行った調査では、正社員の中途採用で71.8%が人材不足に課題感を示した。約7割が、要件を満たす人材の確保より人数の確保に課題を感じており、不足人材では「即戦力として活躍できる経験者」が40.0%で最多だった。",
+          "read": "採用難の課題が高度人材の質だけでなく採用人数にも及ぶという調査結果。採用要件の緩和だけでなく、母集団形成・選考速度・定着まで含む支援需要を示す。",
+          "action": "顧客の採用要件を「必須／入社後育成可能」に分け、応募数・選考歩留まり・早期離職を一続きで診断する。",
+          "source": "パーソルキャリア／doda（2026-11-02、PR TIMES掲載） ([prtimes.jp](https://prtimes.jp/main/html/rd/p/000001115.000022215.html?utm_source=openai))",
+          "url": "https://prtimes.jp/main/html/rd/p/000001115.000022215.html"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 73,
+          "cat": "MARKET",
+          "title": "doda分析：営業求人で「巻き込み型」要件が増加、該当求人の募集年収中央値は650万円",
+          "fact": "dodaは2022年と2025年に掲載された東京勤務想定の営業求人を比較。社内外の関係者調整・プロジェクト推進などに関連するキーワードを含む求人は、件数ベースで+5.8%。2025年の募集年収中央値は、該当求人650万円、非該当求人550万円だった。募集年収は求人票記載レンジから算出した中央値で、決定年収ではない。",
+          "read": "AI・DXの普及を背景に、定型的な提案情報の整理より、複数関係者を動かす営業力を評価する求人が増えている可能性を示す。調査はdoda掲載求人のキーワード分析であり、市場全体の変化とは同一視できない。",
+          "action": "営業職紹介・採用支援では、顧客折衝に加え、部門横断の案件推進や合意形成の実績を候補者評価・求人票に反映する。",
+          "source": "doda（2026-10-29公開） ([doda.jp](https://doda.jp/guide/saiyo/018.html/?sid=guide_new_2_261102))",
+          "url": "https://doda.jp/guide/saiyo/018.html/"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai",
+            "hr"
+          ],
+          "tier": "MUST READ",
+          "score": 85,
+          "cat": "MARKET",
+          "title": "労働経済白書、AI普及下で職種・専攻間の需給ミスマッチを指摘",
+          "fact": "厚生労働省の令和8年版労働経済白書は、経済産業省の2040年推計として、AI・ロボット等の利活用人材が約340万人不足する可能性、事務職が約440万人余剰となる可能性、理系の大卒・大学院卒が約120万人不足する可能性を紹介。白書は推計に幅があることにも留意を促している。",
+          "read": "全体の雇用量よりも職種・学歴・地域間のスキル需給ギャップが、人材紹介・再教育・社内人材配置の中長期テーマになる。数値は将来推計であり、確定的な雇用予測ではない。",
+          "action": "中長期の事業計画で、AI活用人材・理系・現場人材の供給経路を採用、リスキリング、社内異動に分けて設計する。",
+          "source": "厚生労働省「令和8年版 労働経済の分析」 ([mhlw.go.jp](https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf))",
+          "url": "https://www.mhlw.go.jp/wp/hakusyo/roudou/26/dl/26-1.pdf"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "MARKET",
+          "title": "Elwood Staffing、CoWorx買収で米国の拠点網を320超へ拡大",
+          "fact": "CoWorxが2026年10月19日に公表した買収情報によると、Elwood StaffingはCoWorxを買収。CoWorxの45拠点・21州の事業を取り込み、うち5州がElwoodにとって新規地域となった。CoWorxは派遣、直接採用、オンサイト運営、RPO、給与計算、人事コンサルティング等を提供し、既存ブランド・チーム・顧客関係を維持する。取引条件は非公表。",
+          "read": "地域拠点と複数サービスの束ね直しによる米国人材サービスの再編。顧客基盤・人材・拠点網を維持したまま全国インフラに接続する形。",
+          "action": "国内の地域人材会社・BPO事業者でも、拠点、顧客継続性、サービス横展開を軸に提携・買収候補を評価する。",
+          "source": "CoWorx Staffing Services（2026-10-19） ([coworxstaffing.com](https://www.coworxstaffing.com/resources/coworx-staffing-services-acquired-by-elwood-staffing-expanding-national-reach-and-resources/))",
+          "url": "https://www.coworxstaffing.com/resources/coworx-staffing-services-acquired-by-elwood-staffing-expanding-national-reach-and-resources/"
+        },
+        {
+          "tabs": [
+            "market",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "MARKET",
+          "title": "doda転職求人倍率、9月は2.89倍に上昇",
+          "fact": "dodaが10月22日に発表した2026年9月の転職求人倍率は2.89倍で、前月比0.03ポイント上昇した。同指標はdoda会員登録者1人あたりの中途求人件数を示す。",
+          "read": "doda内の求人と登録者の需給を示す指標で、ハローワークの有効求人倍率などとは対象・算出方法が異なる。顧客の採用難度を把握する際は職種別データも確認したい。",
+          "action": "採用商談では全体倍率だけで結論を出さず、職種別・地域別倍率と顧客の応募・採用実績を照合する。",
+          "source": "doda（2026-10-22発表） ([doda.jp](https://doda.jp/guide/kyujin_bairitsu/?sid=guide_new_1_251124&utm_source=openai))",
+          "url": "https://doda.jp/guide/kyujin_bairitsu/"
+        },
+        {
+          "tabs": [
+            "today",
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 72,
+          "cat": "WILD CARD",
+          "title": "WILD CARD：米Arena.ioが人材流動・定着予測基盤の拡大へ450万ドル調達",
+          "fact": "Arena.ioは11月5日、AIを用いた人材・労働市場分析プラットフォームの拡大に向け450万ドルの調達を発表。4百万人超のキャリアデータを活用し、採用後の実績データから職務適合や定着を予測すると説明。新資金は製品開発、雇用主・教育機関・政府機関との提携、エンジニアリング・データサイエンス人材の拡充に充てる。",
+          "read": "履歴書キーワード中心の候補者評価から、採用後の成果・定着データを活用するタレント分析への投資例。日本ではデータの利用権・説明可能性・雇用判断への適用が導入条件になる。",
+          "action": "採用・配置AIの評価時に、予測精度だけでなく学習データの出所、偏り検証、判断の人間関与、導入後の定着指標を確認する。",
+          "source": "Arena.io発表（Business Wire、2026-11-05） ([siouxfalls.newsnetmedia.com](https://siouxfalls.newsnetmedia.com/story/556573/arena-io-secures-4-5-million-in-closed-capital-to-accelerate-workforce-mobility-through-ai-powered-labor-market-intelligence/))",
+          "url": "https://siouxfalls.newsnetmedia.com/story/556573/arena-io-secures-4-5-million-in-closed-capital-to-accelerate-workforce-mobility-through-ai-powered-labor-market-intelligence/"
+        },
+        {
+          "tabs": [
+            "ai",
+            "hr",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 72,
+          "cat": "AI",
+          "title": "パーソル、AIで業務を再設計する「AXスキル」育成講座を開講",
+          "fact": "パーソルホールディングスは11月4日、社内アップスキリング施策「TECH UP CAMPUS」第5期を開始すると発表。生成AI×業務再設計、AIエージェント×業務再設計、AI×事業データ活用、AI×プロジェクトマネジメントを重点テーマとし、募集人数は1,000名。第1～4期の累計受講者は2,156名。",
+          "read": "人材サービス大手がAI利用の習熟だけでなく、業務プロセス再設計までを社内人材育成の対象にしている。研修・人事コンサル各社にとっては、研修後の実務適用を含む支援設計が競争軸になる。",
+          "action": "法人研修・AIコンサル提案では、講座受講者数に加え、対象業務、実装成果、定着率、業務時間削減などの指標を設定する。",
+          "source": "パーソルホールディングス（2026-11-04） ([persol-group.co.jp](https://www.persol-group.co.jp/news/20261104_1/))",
+          "url": "https://www.persol-group.co.jp/news/20261104_1/"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "generated_at": "2026-11-05T06:39:03.106367+09:00",
       "items": [
