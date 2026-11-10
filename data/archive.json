@@ -1,6 +1,191 @@
 {
   "days": [
     {
+      "date": "2026-11-10",
+      "generated_at": "2026-11-10T06:39:18.953917+09:00",
+      "items": [
+        {
+          "tabs": [
+            "market",
+            "today"
+          ],
+          "tier": "IMPORTANT",
+          "score": 76,
+          "cat": "事業ポートフォリオ・M&A",
+          "title": "パーソル、豪州・NZのProgrammed保有会社をService Streamへ譲渡へ",
+          "fact": "パーソルHDは11月9日、Programmed Maintenance Servicesを保有するPersol Australia Holdingsの全株式をService Stream Holdingsへ譲渡する契約を締結。対象事業は豪州・NZの施設管理・人材サービス。実行予定日は2027年3月1日。",
+          "read": "人材・施設管理を含む豪州事業の持分整理。アジア太平洋事業のポートフォリオ見直しとして注目されるが、譲渡額や売却益の詳細は本発表本文では確認できない。",
+          "action": "対象事業の売上・利益寄与と譲渡後の地域戦略を、次回の決算・IR資料で確認する。",
+          "source": "PERSOL HD（一次資料）",
+          "url": "https://www.persol-group.co.jp/news/20261109_1/"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "MUST READ",
+          "score": 84,
+          "cat": "AIコンサル・M&A",
+          "title": "EXL、AI・データコンサルのAimpoint Digitalを買収",
+          "fact": "EXLは11月5日、企業向けデータ／AI基盤の構築を手掛けるAimpoint Digitalの買収を発表。約250人のAIエンジニア、基盤アーキテクト、分析コンサルタント、データサイエンティスト、AIストラテジストと、Anthropic・Databricks・Snowflakeの専門性を取り込む。金額は非公表。",
+          "read": "AI戦略から設計・実装、本番運用までを一体提供するための人材・技術獲得。日本のAIコンサル／BPO企業にとっても、構想支援だけでなく実装人材と運用力を抱き合わせる競争の参考になる。",
+          "action": "国内AIコンサル・BPO各社の採用職種、顧客業界、実装後の運用契約まで含む提供体制を比較する。",
+          "source": "EXL（一次資料）",
+          "url": "https://ir.exlservice.com/news-releases/news-release-details/exl-acquires-data-and-ai-consulting-market-leader-aimpoint"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 78,
+          "cat": "RPO・M&A",
+          "title": "Hudson Talent Solutions、Cornerstone RPOを買収",
+          "fact": "Star Equity Holdings傘下のHudson Talent Solutionsは、米国拠点のRPO事業者Cornerstone RPOを買収。取引は11月2日に完了した。Cornerstoneは米・加・メキシコで30超の稼働顧客を持ち、200超の組織を支援してきた。採用支援、タレントアドバイザリー、エグゼクティブサーチ、採用広報、ソーシング、採用テクノロジーの能力と顧客基盤を加える。",
+          "read": "地域をまたぐ顧客関係と米国の営業人材を取り込み、RPOから周辺の採用支援までを束ねる案件。日本企業の北米採用や海外RPO提携において、顧客基盤・営業力を持つ事業者の価値を示す。",
+          "action": "統合後の顧客維持、営業人材の定着、既存サービスとのクロスセルを追う。",
+          "source": "Star Equity Holdings（一次資料）",
+          "url": "https://starequityholdings.gcs-web.com/news-releases/news-release-details/stars-hudson-talent-solutions-business-acquires-cornerstone-rpo"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "HR SaaS・M&A",
+          "title": "Dayforce、AI採用面接のRibbon AIを買収へ",
+          "fact": "Dayforceは10月23日、AI採用テクノロジー企業Ribbon AIの買収契約を発表。Ribbonの会話型音声・動画AIを取り込み、候補者への初期スクリーニングを大規模に行う機能を加える計画。発表時点では契約締結であり、買収完了前。",
+          "read": "候補者対応・初期面接をHCM内のエージェント型採用機能に統合する動き。国内HR SaaSにとっても、単機能AI面接からATS・人材データとの一体化へ競争軸が移る可能性がある。",
+          "action": "買収完了後の製品統合範囲、日本市場での提供時期、録画・音声データの扱いを確認する。",
+          "source": "Dayforce（一次資料）",
+          "url": "https://www.dayforce.com/uk/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 71,
+          "cat": "HR Tech・資金調達",
+          "title": "Arena.io、労働市場インテリジェンス拡大へ450万ドル調達",
+          "fact": "労働市場・人材データを使うArena.ioは11月5日、450万ドルの調達を発表。自社プラットフォーム上の約400万人のキャリアデータを活用し、採用後の定着・活躍予測や人材流動を支援すると説明。資金は公共部門、教育機関、雇用主との連携や製品・データ機能の拡大に充てる。",
+          "read": "履歴書情報だけでなく、キャリア結果データを人材配置・定着に結びつけるモデル。日本では自治体・教育機関・企業をつなぐ人材流動化や、採用後の定着データ活用が事業機会となり得る。",
+          "action": "予測の検証方法、データ同意・偏り対策、公共機関との導入実績を確認する。",
+          "source": "Arena.io発表（Business Wire配信）",
+          "url": "https://uk.finance.yahoo.com/news/arena-io-secures-4-5-130000579.html"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 74,
+          "cat": "HR Tech・資金調達",
+          "title": "採用AIのMetaview、シリーズCで6,000万ドル調達",
+          "fact": "採用AIプラットフォームのMetaviewは9月30日、Insight Partners主導のシリーズCで6,000万ドルを調達したと発表。累計調達額は1億1,000万ドル。採用担当者向けAIエージェントの拡充や、自律型採用アシスタントFillmoreの展開に資金を充てるとしている。",
+          "read": "採用会話の記録・分析から、候補者探索、連絡、スクリーニングへ製品範囲を広げる資本投入。日本市場では候補者への自動接触と人の意思決定の境界、既存ATSとの連携が導入評価の焦点になる。",
+          "action": "国内導入の有無、候補者データの保存・利用条件、採用担当者の工数削減を実測した事例を確認する。",
+          "source": "Metaview（一次資料）",
+          "url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "WATCH",
+          "score": 63,
+          "cat": "HR SaaS・採用AI",
+          "title": "Paylocity、採用工程をつなぐAI Recruiting Optimizerを発表",
+          "fact": "Paylocityは10月22日、採用ワークフローにAIエージェントを組み込むRecruiting Optimizerを発表。候補者の再発掘、候補者対応、スクリーニング、面接日程調整を自動化対象としている。生産性・採用期間等の改善率は同社発表値。",
+          "read": "HCM事業者が採用の複数工程を自社プラットフォーム内で自動化する競争の一例。日本企業への直接影響は限定的だが、国内HR SaaSの製品ロードマップを測る比較対象となる。",
+          "action": "同種製品を比較する際は、改善率の算定条件、監督者の介入点、候補者体験の指標を確認する。",
+          "source": "Paylocity（一次資料）",
+          "url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-recruiting-optimizer/"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 73,
+          "cat": "RPO・採用AI",
+          "title": "パーソル、AI・採用データを使う「AI RPO」を提供開始",
+          "fact": "パーソルは10月21日、AI／AIエージェントと採用データを活用して企業の採用力強化を支援する「AI RPO by 採用のゼロ化」の提供開始を公表。",
+          "read": "採用代行を人手の業務受託だけでなく、データとAIを用いた採用プロセス設計へ広げる国内動向。採用支援会社には、業務効率化だけでなく採用品質・充足率を示す責任が強まる可能性がある。",
+          "action": "対象業務、AIの適用範囲、導入企業の採用成果指標と料金設計を確認する。",
+          "source": "PERSOL（一次資料）",
+          "url": "https://www.persol-group.co.jp/news/"
+        },
+        {
+          "tabs": [
+            "today",
+            "hr"
+          ],
+          "tier": "WATCH",
+          "score": 55,
+          "cat": "人材育成・技能政策",
+          "title": "11月10日は「技能の日」—厚労省が人材開発促進月間の施策を案内",
+          "fact": "厚生労働省は11月を人材開発促進月間、11月10日を技能の日と位置付け、職業能力開発・技能振興に関する施策や行事を案内している。2026年度は11月9日に「現代の名工」の表彰を予定し、11月26日にはリスキリング関連フォーラムを開催予定。",
+          "read": "単日の記念日というより、企業内訓練・リスキリング支援の政策発信機会。教育・研修事業者は、公的施策や技能認定との接続を営業・企画に活用できる。",
+          "action": "自社の訓練施策を助成・公的支援の対象要件と照合し、11月の関連イベント日程を確認する。",
+          "source": "厚生労働省（一次資料）",
+          "url": "https://www.mhlw.go.jp/stf/web_magazine/closeup/66.html"
+        },
+        {
+          "tabs": [
+            "hr",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "採用・AI活用",
+          "title": "パーソルビジネスプロセスデザイン、新卒採用にAIを導入",
+          "fact": "パーソルビジネスプロセスデザインは11月5日、新卒採用活動へのAI導入を公表。内定者エンゲージメントを高めることを掲げ、年間約500人の採用を目指す。",
+          "read": "人材サービス企業自身が大規模採用にAIを用いる実例。候補者接点の効率化だけでなく、内定後のコミュニケーション設計が採用競争力の差になり得る。",
+          "action": "AIを使う工程、候補者への説明、内定承諾率・辞退率への影響を継続確認する。",
+          "source": "PERSOL（一次資料）",
+          "url": "https://www.persol-group.co.jp/news/archive/2026/"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 69,
+          "cat": "AI人材・労働市場",
+          "title": "ランスタッド、11か国・求人3,500万件のAI活用人材分析を公表",
+          "fact": "ランスタッドは11月5日、日本を含む11か国の求人データ3,500万件超を分析した調査を公表。発表では、AI活用人材の昇進速度や賃金に関する分析結果を示し、AI活用と人間の能力拡張を論じている。数値は同社の分析結果。",
+          "read": "AI導入に伴う職務・スキル要件の変化を、採用・配置・育成へ接続する論点。グローバル分析を日本へそのまま適用せず、職種・業界別の差を見極める必要がある。",
+          "action": "調査の対象国・職種定義と、日本市場での求人要件・賃金データの変化を分けて検証する。",
+          "source": "ランスタッド日本（一次資料）",
+          "url": "https://www.randstad.co.jp/about/newsrelease/20261105-augmentation.html"
+        },
+        {
+          "tabs": [
+            "policy",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 77,
+          "cat": "労働政策・派遣実務",
+          "title": "派遣労働者の同一労働同一賃金改正、厚労省が実務セミナー動画を掲載",
+          "fact": "厚生労働省は11月2日、派遣元向け実務セミナーのアーカイブを掲載。2026年10月1日施行の改正では、雇入れ時・派遣時の明示事項に待遇差の説明を求められる旨を追加し、ガイドラインの明確化や公正な評価による待遇改善を進める。",
+          "read": "施行後の派遣契約・説明文書・労使協定運用を点検する局面。派遣会社だけでなく、派遣先も比較対象者情報の提供や待遇説明の連携を確認する必要がある。",
+          "action": "雇入れ・派遣時の明示様式、待遇差の説明対応、派遣先との情報連携、労使協定を点検する。",
+          "source": "厚生労働省（一次資料）",
+          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00001.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "generated_at": "2026-11-09T06:24:56.559093+09:00",
       "items": [
