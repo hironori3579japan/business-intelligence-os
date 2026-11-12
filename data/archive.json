@@ -1,6 +1,203 @@
 {
   "days": [
     {
+      "date": "2026-11-12",
+      "generated_at": "2026-11-12T07:01:45.064949+09:00",
+      "items": [
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 91,
+          "cat": "決算・HRテック",
+          "title": "リクルートHD上期、HRテクノロジー売上がドルベース24.2%増",
+          "fact": "11月11日発表の2026年度上期決算で、連結売上収益は2兆1,399億円（前年同期比19.3%増）。HRテクノロジー事業の売上はドルベースで24.2%増、同事業の通期売上見通しは119億ドルへ引き上げた。連結通期見通しは据え置き。",
+          "read": "求人広告・採用プラットフォームの需要増が続く。米国HRテックの伸びが際立つ一方、日本のHRテクノロジー売上も上期9.8%増で、国内採用市場のデジタル需要を確認する材料。",
+          "action": "Indeed／求人メディアへの依存度が高い顧客は、採用単価・応募数の変化を競合媒体と照合する。",
+          "source": "Recruit Holdings・2026年度第2四半期決算サマリー",
+          "url": "https://recruit-holdings.com/en/ir/library/upload/Recruit_202703Q2_summary_en.html"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 88,
+          "cat": "決算・人材サービス",
+          "title": "パーソル上期、売上収益11.9%増　通期見通しはProgrammed売却影響を除き維持",
+          "fact": "パーソルHDの2026年度上期売上収益は8,424億円（前年同期比11.9%増）、調整後EBITDAは518億円（16.9%増）。Gojobの寄与などで増収、Staffing SBUなどの収益性改善で増益。Career SBUは前年並みへの回復が第4四半期にずれ込む見通し。",
+          "read": "グループ全体の成長と、国内キャリア事業の回復遅れが併存。派遣の収益性改善とハイクラス領域へのシフトが、今後の成長を左右する。",
+          "action": "国内人材紹介・派遣各社は、売上成長だけでなく粗利率や事業別の回復時期を比較する。",
+          "source": "パーソルHD・FY2026上期決算説明資料",
+          "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Presentation.pdf"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 88,
+          "cat": "M&A・事業ポートフォリオ",
+          "title": "パーソル、豪州Programmedなどを1,200億円で売却へ",
+          "fact": "パーソルHDは11月9日、豪州のProgrammedとマレーシアのPBSの全株式をService Stream Holdingsへ譲渡する契約を締結。Programmedは施設管理・人材サービスを展開し、豪州・NZの約140拠点、傘下60社を含む。譲渡額は約1,200億円の見込み、実行予定日は2027年3月1日。",
+          "read": "【推論】豪州・NZの施設管理／人材サービス基盤を手放し、資本効率を優先する動き。パーソルは売却資金を成長事業のM&Aに活用する方針で、投資先の領域が次の注目点。",
+          "action": "譲渡後の豪州・NZ事業の残存範囲と、売却資金による成長領域への再投資を追う。",
+          "source": "パーソルHD・FY2026上期決算説明資料／有価証券報告書",
+          "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Presentation.pdf"
+        },
+        {
+          "tabs": [
+            "today",
+            "ai",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 86,
+          "cat": "AI・人材サービス",
+          "title": "パーソル、3年間でAIに190億円投資　330～430億円のリターン目標",
+          "fact": "パーソルHDはFY2026～FY2028の3年間で累計190億円をAIに投資し、生産性・付加価値向上を通じて累計330～430億円のリターン創出を目指す。重点施策にAIマッチング、AIソリューション外販、AI・データ基盤、AIエージェントの業務展開を挙げた。",
+          "read": "【推論】人材会社のAI投資が、社内効率化からマッチング精度向上・外販へ広がる計画。目標値は会社の目標であり、実現済みの効果ではない。",
+          "action": "投資額だけでなく、採用決定率・稼働開始までの日数・顧客単価などのKPI開示を確認する。",
+          "source": "パーソルHD・FY2026上期決算説明資料",
+          "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Presentation.pdf"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 77,
+          "cat": "M&A・IT人材",
+          "title": "セキュアソフト、IT技術者派遣のATJCを完全子会社化",
+          "fact": "セキュアソフトは10月30日付で、ナレルグループからATJCの全株式を取得したと11月10日に公表。ATJCはIT技術者派遣（SES）を中心とする事業会社。最終譲渡価額は11億4,400万円。",
+          "read": "【推論】セキュリティ事業者がIT人材供給力を取り込み、顧客への人材・ITサービスの組み合わせを広げる可能性がある。取得した技術者数や個別顧客の詳細は公表資料で確認できない。",
+          "action": "取得後のATJCの顧客継続、技術者定着、セキュリティ案件とのクロスセルを追う。",
+          "source": "サービス＆セキュリティ・ATJC株式取得のお知らせ",
+          "url": "https://www.ssk-kan.co.jp/topics/?p=17015"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 76,
+          "cat": "M&A・RPO",
+          "title": "Hudson Talent Solutions、Cornerstone RPOを買収　北米RPOと顧客基盤を獲得",
+          "fact": "Hudson Talent Solutionsは11月2日にCornerstone RPOの買収を完了し、11月3日に発表。取得対象はRPO事業と関連資産・負債で、Cornerstoneの従業員もHudsonに移籍。米国・カナダ・メキシコの採用デリバリー、20年以上の実績、既存顧客関係を取り込む。",
+          "read": "【推論】Hudsonは北米の顧客・人材・採用運用能力を、既存のグローバルRPOや採用テクノロジーに接続する狙い。日本のRPO事業者にとっても、地域密着型企業の買収による海外拡張モデルとなる。",
+          "action": "買収後の顧客維持、既存RPOサービスとの統合、AI採用基盤との連携を確認する。",
+          "source": "Hudson Talent Solutions・買収発表／Star Equity Holdings提出資料",
+          "url": "https://hudsontalent.com/press-release/hudson-talent-solutions-acquires-cornerstone-rpo-expanding-north-american-delivery-capabilities/"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "M&A・HR SaaS",
+          "title": "saas.group、シフト・勤怠管理SaaSのAplanoを買収",
+          "fact": "saas.groupは11月10日、ベルリン拠点のAplano買収を発表。Aplanoは中小企業向けにシフト計画、勤怠記録、休暇管理を提供する。買収金額は公表されていない。",
+          "read": "【推論】シフト制・現場労働者向けの労務SaaSを、既存のソフトウェア運営ポートフォリオに加える案件。日本でも人手不足が深刻な小売・飲食・介護等で、採用後の配置・定着を支えるツール需要に関係する。",
+          "action": "買収後もAplanoの製品・ブランドが継続するか、機能追加や他のHR製品との統合方針を追う。",
+          "source": "saas.groupによるAplano買収発表の報道",
+          "url": "https://www.techlensmedia.com/news/saas-group-announces-the-acquisition-of-aplano"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "WATCH",
+          "score": 65,
+          "cat": "M&A・人材派遣",
+          "title": "Adcorp傘下BLU Australia、花卉業界の人材会社Allianceを取得へ",
+          "fact": "Adcorpは11月9日、傘下BLU Australiaが豪州のAlliance Workplace Solutions全株式を取得する契約を公表。Allianceは花卉業界向けの人材派遣・労働力供給を行い、取引により既存の人材サービス運営と顧客関係を引き継ぐ。実行予定日は11月30日。",
+          "read": "【推論】特定産業の顧客・人材供給網を内製化し、従来の利益分配構造を変える案件。日本の農業・食品分野でも、季節需要に対応した専門派遣の垂直統合が参考になる。",
+          "action": "取得後の運営統合と、季節労働者の採用・配置能力が拡大するかを確認する。",
+          "source": "Adcorp・Alliance Workplace Solutions買収に関する開示",
+          "url": "https://www.adcorpgroup.com/wp-content/uploads/2026/11/Adcorp-Alliance-Acquisition-Cat-2-Announcement-Final-9-Nov-2026-clean.pdf"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "M&A・HRコンサルティング",
+          "title": "米BPM、UKG導入会社EL-ITEのHRテック資産と専門人材を取得",
+          "fact": "米会計・アドバイザリー会社BPMは11月10日、UKG導入・研修会社EL-ITE Consultingの一部HRテクノロジー資産を取得したと発表。UKGの設定・導入・研修に経験を持つ専門家3人もBPMのHR・People Advisory部門に加わった。",
+          "read": "【推論】HRコンサルティング各社が、システム導入だけでなく研修・運用支援まで一括提供するため、専門人材と導入ノウハウを買う動き。日本のHRIS導入支援市場にも通じる。",
+          "action": "BPMの導入後サポート拡大と、UKG／iSolvedを軸とした顧客へのサービス一体化を追う。",
+          "source": "BPM・EL-ITE Consulting資産取得の発表（PR Newswire）",
+          "url": "https://www.prnewswire.com/news-releases/bpm-acquires-select-assets-of-el-ite-consulting-expanding-hr-technology-and-ukg-implementation-capabilities-302934589.html"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "WATCH",
+          "score": 62,
+          "cat": "決算・医療人材",
+          "title": "米AMN Healthcare、Q3の旅行看護師派遣売上19%増",
+          "fact": "AMN Healthcareが11月5日に発表した2026年第3四半期決算では、旅行看護師派遣の売上が前年同期比19%増、関連医療人材部門が11%増。会社は四半期売上・利益がガイダンスを上回ったと説明した。",
+          "read": "【推論】米国の医療人材派遣では、旅行看護師需要の回復が一部事業者の成長を支えている。日本の医療・介護人材市場とは制度・需給が異なるため、数値の単純比較ではなく専門職派遣の需要変動をみる参考材料。",
+          "action": "次回決算で成長が継続するか、スポット派遣と常勤採用支援の構成変化を確認する。",
+          "source": "AMN Healthcare・2026年第3四半期決算発表",
+          "url": "https://ir.amnhealthcare.com/2026-11-05-AMN-HEALTHCARE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS?asPDF=1"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "WATCH",
+          "score": 63,
+          "cat": "資金調達・AI採用",
+          "title": "人材データ分析のArena.io、450万ドルの資金を調達",
+          "fact": "Arena.ioは11月5日、4.5百万ドルの資金調達を公表。職務上の成果データを使い、候補者の職務適合や定着を予測する人材プラットフォームの拡張に充てるとしている。発表では調達ラウンドのシリーズ名や評価額は明らかにされていない。",
+          "read": "【推論】履歴書・スキルだけでなく、採用後の成果・定着データを使う採用支援への投資例。日本展開にはデータの利用許諾、予測の妥当性、公平性の説明が重要となる。",
+          "action": "予測モデルの根拠、利用データ、雇用判断における人の関与とバイアス検証を確認する。",
+          "source": "Arena.io資金調達発表（HR Tech Feed掲載）",
+          "url": "https://hrtechfeed.com/arena-lands-4-5-million-to-accelerate-workforce-mobility-through-ai-powered-labor-market-intelligence/"
+        },
+        {
+          "tabs": [
+            "ai",
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "AI・人材需給",
+          "title": "Randstad調査：86%の企業がAI時代に技術職の人員拡大を計画",
+          "fact": "Randstadが10月29日に公表した技術人材レポートでは、調査対象企業の86%が技術職人員を増やすと回答。レポートは、AIスキルを要する初級技術職の求人増や、AIリスク管理人材の需要拡大も報告している。分析は2026年8月時点の求人2,000万件超と候補者プロフィール約1億件に基づく。",
+          "read": "【推論】AI導入が一律の技術職削減ではなく、AI運用・統合・ガバナンス人材の需要を押し上げるとの見方。日本企業では採用競争に加え、社内人材の再配置・リスキリングが重要になる。",
+          "action": "技術者派遣・紹介各社は、AI関連職種の求人構成と、非技術系企業からの需要増を確認する。",
+          "source": "Randstad・Tech Talent in Transition 2026",
+          "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
+        },
+        {
+          "tabs": [
+            "hr",
+            "policy"
+          ],
+          "tier": "IMPORTANT",
+          "score": 68,
+          "cat": "人材開発・政策",
+          "title": "厚労省、11月を人材開発促進月間に設定　企業向け支援策を案内",
+          "fact": "厚生労働省は11月を人材開発促進月間、11月10日を技能の日とし、職業能力開発・技能振興の取組を実施。2026年10月版の人材開発支援策リーフレットを公表し、11月26日にリスキリングのキックオフフォーラムを予定している。",
+          "read": "人材育成・リスキリング支援を検討する企業にとって、現行の公的支援策を確認する機会。2028年の技能五輪国際大会までの集中取組期間とも連動する。",
+          "action": "自社の研修計画について、対象要件・申請時期を厚労省の最新リーフレットで確認する。",
+          "source": "厚生労働省・人材開発促進月間のお知らせ",
+          "url": "https://www.mhlw.go.jp/stf/newpage_77005.html"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "generated_at": "2026-11-11T06:29:19.473677+09:00",
       "items": [
