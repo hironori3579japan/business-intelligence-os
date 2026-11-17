@@ -1,191 +1,185 @@
 {
-  "generated_at": "2026-11-17T06:39:15.557853+09:00",
+  "generated_at": "2026-11-18T06:41:50.351234+09:00",
   "model": "gpt-6-luna",
   "items": [
     {
       "tabs": [
-        "today",
-        "policy"
+        "market"
       ],
       "tier": "MUST READ",
-      "score": 82,
-      "cat": "POLICY",
-      "title": "厚労省、労働条件明示と労基法制を本日審議",
-      "fact": "厚生労働省の労働政策審議会・労働条件分科会が本日11月17日に開催。議題は「労働条件の明示方法」と「労働基準関係法制」。",
-      "read": "明示ルールや労基法制の議論は、採用条件の提示、雇用契約・労務管理の実務に波及し得る。人材会社・HR SaaSは、顧客向け情報提供や書類・業務フローへの影響を確認したい。",
-      "action": "会議資料・議事要旨の公表後、労働条件通知書、求人票、顧客向け運用ガイドへの影響を確認する。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html"
-    },
-    {
-      "tabs": [
-        "today",
-        "hr",
-        "policy"
-      ],
-      "tier": "IMPORTANT",
-      "score": 77,
-      "cat": "HR",
-      "title": "京都府の最低賃金、11月16日から時給1,180円に",
-      "fact": "京都府の地域別最低賃金は11月16日に1,122円から1,180円へ改定された。",
-      "read": "京都府でパート・アルバイトを雇用する企業は、対象賃金の適合確認が必要。採用・派遣事業者は、顧客求人の賃金条件や募集時給の見直しを促す機会となる。",
-      "action": "京都府内の雇用契約・求人票・派遣料金を点検し、顧客と必要な賃金改定を確認する。",
-      "source": "厚生労働省・京都府",
-      "url": "https://saiteichingin.mhlw.go.jp/table/page_list_nationallist.php/chingin/chusyo/faq/chingin/chusyo/table/page_list_nationallist.html"
-    },
-    {
-      "tabs": [
-        "hr",
-        "ai",
-        "policy"
-      ],
-      "tier": "IMPORTANT",
-      "score": 74,
-      "cat": "AI",
-      "title": "厚労省の労働政策基本部会、AI面接の事業者・導入企業からヒアリング",
-      "fact": "11月13日の第42回労働政策審議会労働政策基本部会で、デンソーとAI面接事業を手掛けるPeopleXなどがヒアリング対象として予定された。厚労省は議事録を後日公開するとしている。",
-      "read": "採用AIの活用事例が政策議論の対象になった。日本でAI面接を提供・導入する企業は、候補者への説明、個人情報の扱い、評価の人による確認を含む運用を整備しておきたい。",
-      "action": "議事録公開後、審議で示された利用事例と論点を確認し、顧客向けのAI面接運用・説明資料を更新する。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_77007.html"
-    },
-    {
-      "tabs": [
-        "market",
-        "today"
-      ],
-      "tier": "MUST READ",
-      "score": 89,
-      "cat": "MARKET",
-      "title": "リクルートHD、HRテクノロジー事業の通期見通しを上方修正",
-      "fact": "11月11日公表の2026年度上期決算で、HRテクノロジー事業の通期売上見通しを1兆8,799億円（前年比28.9%増）に引き上げた。上期売上は前年同期比24.2%増。",
-      "read": "Indeedを含むグローバル求人・採用プラットフォーム事業の伸長が続く。日本の人材サービス企業にとっては、求人流通のデジタル化や海外プラットフォームとの競争を見直す材料となる。",
-      "action": "国内事業の求人獲得・送客・広告依存度を点検し、デジタル経由の応募と採用の成果を分けて追う。",
-      "source": "リクルートホールディングス",
+      "score": 88,
+      "cat": "市場",
+      "title": "Recruit上期、HRテクノロジー売上35.6%増　通期見通しも上方",
+      "fact": "2026年11月11日発表。2026年度上期の連結売上高は2兆1,399億円（前年同期比+19.3%）。HRテクノロジー売上高は9,455億円（+35.6%）、米国Indeedの求人掲載当たり平均売上は前年同期比+37%。HRテクノロジーの通期売上見通しは119億ドルへ引き上げた。",
+      "read": "米国の採用需要は停滞としつつ、掲載単価・高価格帯への顧客移行で伸長。日本の求人広告・採用支援事業者は、応募数だけでなく掲載単価と顧客の費用対効果を注視したい。",
+      "action": "日本国内の求人広告単価、顧客継続率、採用充足率を分けて確認し、米国の単価主導成長と比較する。",
+      "source": "Recruit Holdings IR ([recruit-holdings.com](https://recruit-holdings.com/en/ir/library/upload/Recruit_202703Q2_earnings_en.html?utm_source=openai))",
       "url": "https://recruit-holdings.com/en/ir/library/upload/Recruit_202703Q2_earnings_en.html"
     },
     {
       "tabs": [
         "market",
-        "today"
+        "ai"
       ],
       "tier": "MUST READ",
       "score": 86,
-      "cat": "MARKET",
-      "title": "Adecco、Q3売上4%増・正社員紹介も成長に回復",
-      "fact": "Adecco Groupの2026年第3四半期売上高は59億9,800万ユーロ、前年同期比4%増。オーガニック売上は営業日調整後3.7%増で、同社は柔軟な人材配置の成長継続と正社員紹介の回復を報告した。",
-      "read": "世界大手の人材需要が一様ではない中、派遣・柔軟配置と正社員紹介の双方で改善を報告。日本の事業者は、景況感の変化を採用形態別に把握し、サービス構成や稼働投資を検討する材料にできる。",
-      "action": "国内の派遣・紹介・専門職領域の受注と粗利を分けて確認し、需要の回復が自社顧客にも表れているかを検証する。",
-      "source": "Adecco Group",
+      "cat": "市場",
+      "title": "PERSOL、AIに3年累計190億円投資　成長領域へのM&Aも掲げる",
+      "fact": "2026年11月公表のFY2026上期資料で、FY2026～FY2028のAI投資を累計190億円とし、技術・データ基盤・人材への投資により累計330億～430億円のリターンを目指すと説明。Programmed売却資金は主に成長投資に充て、成長事業でM&Aを進める方針も示した。",
+      "read": "人材マッチング、グループ共通AI・データ基盤、業務エージェント、AI人材獲得を並行する投資計画。国内HR各社にとって、AI活用の投資効果と買収後の統合力が競争軸になる。",
+      "action": "AI投資額だけでなく、成約・生産性・外販売上へのKPIと、M&A対象領域の具体化を次回決算で確認する。",
+      "source": "PERSOL Holdings FY2026 1H資料 ([persol-group.co.jp](https://www.persol-group.co.jp/en/ir/upload_file/m009-/FY2026Q2presentationE.pdf))",
+      "url": "https://www.persol-group.co.jp/en/ir/upload_file/m009-/FY2026Q2presentationE.pdf"
+    },
+    {
+      "tabs": [
+        "market"
+      ],
+      "tier": "IMPORTANT",
+      "score": 79,
+      "cat": "市場",
+      "title": "Adecco Q3、柔軟な人材配置が続伸し、正社員紹介も増収に転じる",
+      "fact": "2026年11月12日発表。Q3オーガニック売上成長率は為替・営業日調整後で前年同期比3.7%。柔軟な人材配置の成長が続き、正社員紹介は増収に転換。Adecco部門は4.7%増、EBITAは一過性項目を除き2億1,300万ユーロ（+10%）。",
+      "read": "大手グローバル人材会社の開示では、派遣等の柔軟な配置と正社員紹介の双方に改善が見られる。国内事業者は、景況感に応じて需要が動く領域の構成比と利益率を比較したい。",
+      "action": "自社の派遣・紹介別の受注、粗利、稼働率を前年同期比で点検し、回復が先行する職種・地域を特定する。",
+      "source": "Adecco Group公式Q3発表 ([adeccogroup.com](https://www.adeccogroup.com/our-group/media/press-releases/q3-2026-results))",
       "url": "https://www.adeccogroup.com/our-group/media/press-releases/q3-2026-results"
     },
     {
       "tabs": [
         "market",
-        "today"
-      ],
-      "tier": "IMPORTANT",
-      "score": 78,
-      "cat": "MARKET",
-      "title": "Randstad、Q3オーガニック売上3.9%増、AIエージェントを優先投資に",
-      "fact": "Randstadは10月21日、2026年第3四半期の売上高61億1,500万ユーロ、オーガニック売上成長率3.9%、基礎EBITA 2億1,100万ユーロを発表。経営陣はデジタルマーケットプレイスとエージェント型AIを優先事項として挙げた。",
-      "read": "グローバル大手が、AIを単独ツールではなく、マーケットプレイスや人材サービスの提供コスト・運用と結び付けている。日本の人材会社も、AI導入を採用決定や顧客接点の品質と併せて評価する必要がある。",
-      "action": "自社のAI施策について、工数削減だけでなく求人充足率、顧客継続、候補者体験への効果を測る指標を設定する。",
-      "source": "Randstad",
-      "url": "https://www.randstad.com/press/2026/q3-2026-continued-top-line-momentum-drives-double-digit-profit-growth/"
-    },
-    {
-      "tabs": [
-        "market",
-        "today"
+        "ai"
       ],
       "tier": "IMPORTANT",
       "score": 77,
-      "cat": "MARKET",
-      "title": "ManpowerGroup、Q3売上48億ドル・前年同期比4%増",
-      "fact": "ManpowerGroupは10月15日、2026年第3四半期売上高が48億ドル（報告ベースで前年同期比4%増）だったと発表。米国Manpower事業が成長を牽引し、Experisの米国売上も同四半期に成長へ転じたと説明した。CEO交代は2027年1月1日付で予定されている。",
-      "read": "米国の人材派遣・専門人材事業の改善が示された一方、地域・ブランドごとの差は大きい。日本企業は海外人材需要の先行指標として参照し、国内需要と混同しないことが重要。",
-      "action": "グローバル顧客を持つ場合、米国のIT・専門職需要の変化を案件獲得や配置計画に反映できるかを確認する。",
-      "source": "ManpowerGroup",
-      "url": "https://investor.manpowergroup.com/news-releases/news-release-details/manpowergroup-reports-3rd-quarter-2026-results"
+      "cat": "市場",
+      "title": "ManpowerGroup、AIを成長倍率とする11月投資家向け戦略を提示",
+      "fact": "2026年11月の投資家向け資料で、業務の自動化・AIによる生産性向上、AIを成長の増幅要因とする新サービス、スクリーニングの効率化に向けた提携を掲げた。RPO、TAPFIN-MSP、Right ManagementとHRテック基盤を組み合わせる方針も記載している。",
+      "read": "採用・MSP・再就職支援を横断する大手が、AIを個別機能ではなく人材ソリューションの拡張に位置付けている。日本のRPO/MSP事業者にも、AI導入を顧客成果やサービス範囲へ結びつける設計が問われる。",
+      "action": "AI導入を採用工数、候補者体験、契約単価・粗利の指標に結び、提携先を含むサービス展開計画を整理する。",
+      "source": "ManpowerGroup投資家向け資料 ([investor.manpowergroup.com](https://investor.manpowergroup.com/static-files/2843f717-7c0a-4d3b-a765-f59a79a19eae?utm_source=openai))",
+      "url": "https://investor.manpowergroup.com/static-files/2843f717-7c0a-4d3b-a765-f59a79a19eae"
+    },
+    {
+      "tabs": [
+        "market"
+      ],
+      "tier": "IMPORTANT",
+      "score": 75,
+      "cat": "市場",
+      "title": "Hudson Talent SolutionsがCornerstone RPOを買収、北米の採用実行力を補強",
+      "fact": "取引は2026年11月2日に完了。Hudson Talent SolutionsはCornerstone RPOの資産・負債を引き受け、従業員を受け入れた。Cornerstoneは米国を拠点に20年以上のRPO実績を持ち、米国・カナダ・メキシコでスタートアップからFortune 100企業までを支援してきた。",
+      "read": "取得したのは北米のRPO実行能力、採用顧客との関係、従業員・営業人材。Hudson側の人材テクノロジーや広域サービスとの組み合わせが狙いで、買収後の顧客契約移管と人材定着が実効性を左右する。",
+      "action": "北米RPOの案件獲得を検討する場合、統合後の顧客継続、売上達成条件、サービス拠点・人員の維持状況を追う。",
+      "source": "Star Equity Holdings SEC提出資料 ([starequityholdings.gcs-web.com](https://starequityholdings.gcs-web.com/static-files/d73d5764-21cd-4ba6-a55c-6b91bd2e2a83))",
+      "url": "https://starequityholdings.gcs-web.com/static-files/d73d5764-21cd-4ba6-a55c-6b91bd2e2a83"
     },
     {
       "tabs": [
         "market",
-        "today"
+        "ai"
+      ],
+      "tier": "IMPORTANT",
+      "score": 73,
+      "cat": "市場",
+      "title": "スペインHR・給与AIのValeriaが550万ユーロ調達",
+      "fact": "2026年11月16日、バルセロナのValeriaがシードラウンドで550万ユーロを調達。BlackFin Capital Partnersが主導し、GoHub Venturesなどが参加。高離職率業種向けに、AIを用いた人事・給与業務の自動化を展開し、スペインでの拡大、フロントライン向け給与機能、他の欧州市場への展開に資金を充てる。",
+      "read": "日本でも人員入替の多い業界では、給与・労務の定型業務と採用・定着支援を一体化できるかが論点。グローバル展開を掲げる初期企業として、顧客獲得と法令対応の再現性を見極めたい。",
+      "action": "飲食・物流・小売などの高回転領域で、給与計算・労務相談・シフト管理を束ねる競合と導入事例を確認する。",
+      "source": "Tech.eu ([tech.eu](https://tech.eu/2026/11/16/valeria-raises-eur55m-to-accelerate-ai-powered-payroll-and-hr-automation//?utm_source=openai))",
+      "url": "https://tech.eu/2026/11/16/valeria-raises-eur55m-to-accelerate-ai-powered-payroll-and-hr-automation//"
+    },
+    {
+      "tabs": [
+        "market",
+        "ai"
+      ],
+      "tier": "IMPORTANT｜WILD CARD",
+      "score": 71,
+      "cat": "市場",
+      "title": "Roleoが290万ユーロ調達、候補者側のAIキャリアエージェントを欧州展開",
+      "fact": "2026年11月2日、RoleoはPractica Capital主導で290万ユーロを調達し、Inventureも参加。テック人材の希望条件に沿って求人を探し、候補者の匿名性を保ちながら企業との面談機会をつなぐAIキャリアエージェントを欧州で展開する。",
+      "read": "企業の採用管理を効率化するだけでなく、候補者が自ら機会を選ぶ側のAI仲介モデル。日本では転職潜在層への接点や、紹介会社・求人媒体の収益モデルに与える影響を観察する価値がある。",
+      "action": "候補者側エージェントの利用者獲得、企業課金の条件、紹介会社との併存・競合の設計を追跡する。",
+      "source": "Roleo公式発表 ([roleo.com](https://roleo.com/blog/roleo-raises-funding-europe))",
+      "url": "https://roleo.com/blog/roleo-raises-funding-europe"
+    },
+    {
+      "tabs": [
+        "market",
+        "ai"
       ],
       "tier": "IMPORTANT",
       "score": 76,
-      "cat": "MARKET",
-      "title": "Kelly Services、Q3に派遣売上約7%増、AI採用支援と人の判断を併用",
-      "fact": "Kelly Servicesは11月5日の決算説明で、第三四半期の基礎派遣売上が約7%増加し、充足率の改善が寄与したと説明。AIエージェントによる候補者マッチングと、採用判断は同社担当者が行う運用方針も述べた。",
-      "read": "派遣の回復とAI活用を同時に掲げる事例。日本の人材会社にとって、AIによる候補者処理を人間の専門性・最終判断と組み合わせるサービス設計が、差別化と説明責任の両面で参考になる。",
-      "action": "AIを使う採用・派遣プロセスについて、判断主体、候補者への説明、充足・定着への効果を明文化する。",
-      "source": "Kelly Services",
-      "url": "https://kellyservices.gcs-web.com/static-files/90684e60-8d94-4205-9012-ceee1e98159c"
+      "cat": "市場",
+      "title": "Randstad調査：AI人材需要と柔軟な雇用モデルの拡大を報告",
+      "fact": "2026年10月29日公表のグローバル調査では、回答企業の86%がテック人員を増やす計画と回答。AIスキルを求める初級職求人は2025年比で5倍超、63%がAI人材不足への対応策として柔軟な人材モデルを第一選択に挙げた。調査には日本を含む11市場の経営・技術責任者1,100人が参加。",
+      "read": "AI導入は採用需要の消失だけでなく、AI運用・ガバナンス人材と柔軟な専門人材の需要にもつながるという調査結果。日本企業の実需は、国内の求人・採用実績で別途検証が必要。",
+      "action": "日本市場のAI関連求人で、技術職だけでなく導入・統制・業務設計職と業務委託・契約採用の動向を追う。",
+      "source": "Randstad公式レポート ([randstad.com](https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/?trk=article-ssr-frontend-pulse_little-text-block&utm_source=openai))",
+      "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
     },
     {
       "tabs": [
         "market",
-        "today"
+        "ai"
       ],
       "tier": "IMPORTANT",
-      "score": 79,
-      "cat": "MARKET",
-      "title": "Hudson Talent Solutions、Cornerstone RPOを買収し北米顧客・RPO人材を獲得",
-      "fact": "Hudson Talent Solutionsは11月2日にCornerstone RPOの資産を取得し、11月3日に公表。Cornerstoneは米国・カナダ・メキシコでRPOを提供し、30社超の稼働顧客と200社超の顧客実績を持つ。全従業員がHudsonに移り、創業者Rodney Ashbyは北米営業責任者に就任した。SEC提出書類では対価は現金50万ドルと3年間の固定繰延対価25万ドルとされる。",
-      "read": "獲得対象は北米のRPO運用能力、顧客基盤、営業人材。Hudsonはこれを既存の人材アドバイザリーやエグゼクティブサーチ等と組み合わせる構えで、日本企業には北米でのRPO拡張・顧客開拓の事例となる。",
-      "action": "海外展開や提携を検討する際、買収先の顧客維持、営業人材の定着、既存サービスとのクロスセルを追う。",
-      "source": "Star Equity Holdings／SEC提出書類",
-      "url": "https://www.starequity.com/static-files/d73d5764-21cd-4ba6-a55c-6b91bd2e2a83"
-    },
-    {
-      "tabs": [
-        "market",
-        "ai",
-        "today"
-      ],
-      "tier": "MUST READ",
-      "score": 84,
-      "cat": "MARKET",
-      "title": "Dayforce、Ribbon AIを買収へ—音声・動画面接と候補者発掘をHCMに統合",
-      "fact": "Dayforceは10月23日、AI採用テクノロジー企業Ribbon AIの買収契約を発表。Ribbonの会話型音声・動画面接、AIソーシング、候補者再発掘、連絡機能をDayforceの採用体験に統合する計画。",
-      "read": "取得対象は、候補者スクリーニング技術と既存ATS内の候補者プールを活用する機能。グローバルHCM製品への組み込みが進めば、日本の採用SaaSや面接サービスにも、単体機能でなく統合・導入容易性が競争軸となる可能性がある。",
-      "action": "顧客が利用するHCM・ATSの製品ロードマップを確認し、自社の採用支援が補完する領域と重複する領域を整理する。",
-      "source": "Dayforce",
-      "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
-    },
-    {
-      "tabs": [
-        "market",
-        "ai",
-        "today"
-      ],
-      "tier": "IMPORTANT",
-      "score": 80,
-      "cat": "MARKET",
-      "title": "Workday、C1.ai買収で従業員・AIエージェントのID／アクセス管理を拡張へ",
-      "fact": "Workdayは10月13日、AIエージェント向けID管理企業C1.aiを買収する契約を発表。従業員・エージェントの業務システムへのアクセス管理をWorkdayのAgent System of Recordに加える計画で、取引完了は2027年度第4四半期（2027年1月31日終了）を見込む。",
-      "read": "買収対象は、企業内の人・AIエージェントのIDとアクセス権管理技術。日本でもAIエージェントが人事・業務システムに接続するほど、権限付与・異動・停止の管理がHRとIT双方の課題になる。",
-      "action": "HRシステムで利用するAIエージェントの一覧、権限、責任者、利用終了時のアクセス停止手順を棚卸しする。",
-      "source": "Workday",
+      "score": 74,
+      "cat": "市場",
+      "title": "Workday、AIエージェント向けID基盤C1.aiを買収する契約",
+      "fact": "Workdayは2026年10月13日、C1.aiの買収に関する確定契約を発表。C1.aiは人とAIエージェントのID・権限管理を担うプラットフォームを提供する。発表時点では買収完了前で、金銭条件は公表されていない。",
+      "read": "取得対象は、従業員IDに加えAIエージェントの認証・アクセス統制を扱う技術・製品能力。HRシステムがエージェントへ人事データや業務権限を付与する際の統制を、製品競争力に取り込む動きとして日本のHR SaaSにも関連する。",
+      "action": "買収完了時期、Workday製品への統合範囲、顧客データ・権限管理の機能提供を確認する。",
+      "source": "Workday公式発表・SEC提出資料 ([investor.workday.com](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx?utm_source=openai))",
       "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx"
     },
     {
       "tabs": [
-        "market",
+        "today",
         "ai",
-        "today"
+        "hr"
       ],
       "tier": "IMPORTANT",
-      "score": 78,
-      "cat": "MARKET",
-      "title": "採用AIのMetaview、Agentic Recruiting拡張へ6,000万ドルのシリーズC",
-      "fact": "Metaviewは9月30日、Insight Partners主導の6,000万ドルのシリーズCを発表。調達資金を採用エージェントの拡張、製品展開、チーム拡大などに充てるとしている。同社は7,000社超が利用すると発表した。",
-      "read": "資金使途は採用の記録・分析から、候補者ソーシングや選考などの実行エージェントへ製品範囲を広げること。日本の採用AI市場でも、単機能ツールと採用業務全体を担うプラットフォームの競争が強まる可能性がある。",
-      "action": "導入検討時は自動化範囲、候補者データの扱い、人間の確認点、採用成果の検証方法を比較する。",
-      "source": "Metaview",
-      "url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting"
+      "score": 74,
+      "cat": "今日",
+      "title": "PERSOL総研、AIエージェント人材の資格学習から企業実装まで支援",
+      "fact": "2026年11月12日、PERSOL総研はAICX協会の公認研修パートナーとして、AIエージェント・ストラテジスト資格対応の5研修を提供開始。資格学習、業務設計ワークショップ、企画・試作・検証、社内承認や導入効果測定までを支援する構成。",
+      "read": "研修を知識提供で終わらせず、業務変革の企画・実装支援まで広げるサービス設計。AIコンサルティングや企業研修の提案では、現場実装と効果測定を含む商品化が競争ポイントになる。",
+      "action": "自社研修の提供範囲を、基礎教育・業務設計・PoC・本番定着に分け、各段階の価格と成果指標を整備する。",
+      "source": "PERSOL総研公式発表 ([rc.persol-group.co.jp](https://rc.persol-group.co.jp/news/info-20261112-1300-1/?utm_source=openai))",
+      "url": "https://rc.persol-group.co.jp/news/info-20261112-1300-1/"
+    },
+    {
+      "tabs": [
+        "today",
+        "policy",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 77,
+      "cat": "今日",
+      "title": "厚労省の労働条件分科会、労働条件の明示方法などを議題に開催",
+      "fact": "2026年11月17日の労働政策審議会・労働条件分科会で、「労働条件の明示方法」と「労働基準関係法制」が議題となった。厚労省の公開ページでは開催記録が掲載されているが、この時点で議事録・議事要旨は未掲載。",
+      "read": "労働条件の明示に関する議論の進展は、採用時の求人情報、雇用契約手続き、人事労務SaaS・BPOの運用に影響し得る。現時点では議題段階であり、制度変更が決定したという意味ではない。",
+      "action": "配布資料・議事録の公開後、明示方法の対象・手段・施行時期に具体案があるかを確認する。",
+      "source": "厚生労働省・労働政策審議会 ([mhlw.go.jp](https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html))",
+      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126969_00004.html"
+    },
+    {
+      "tabs": [
+        "policy",
+        "market"
+      ],
+      "tier": "IMPORTANT",
+      "score": 72,
+      "cat": "政策",
+      "title": "米労働省、永住雇用認証PERMの審査・採用市場テスト強化を提案",
+      "fact": "米労働省は2026年11月17日、PERM（永住雇用認証）規則の改正案を連邦官報に掲載。雇用主による求人機会の認証・審査基準を強化する提案で、意見募集期限は2027年1月19日。提案には、申請前2年間に同一・類似職種で米国人労働者を解雇していないことの証明などが含まれる。",
+      "read": "米国でPERM申請を扱う雇用主や採用・アウトソーシング事業者には、採用市場テストや解雇履歴の確認負荷が増える可能性がある。これは提案段階であり、成立・施行済みの規則ではない。",
+      "action": "米国案件を持つ顧客に、PERM求人記録・解雇履歴・募集手順の保存状況を確認し、最終規則の変更を追う。",
+      "source": "米連邦官報・米政府出版局 ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf))",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf"
     }
   ]
 }
