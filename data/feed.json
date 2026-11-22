@@ -1,37 +1,20 @@
 {
-  "generated_at": "2026-11-22T06:27:55.150983+09:00",
+  "generated_at": "2026-11-23T06:31:21.704879+09:00",
   "model": "gpt-6-luna",
   "items": [
     {
       "tabs": [
-        "today",
-        "market",
-        "ai"
+        "market"
       ],
       "tier": "MUST READ",
-      "score": 84,
-      "cat": "資金調達・AI採用",
-      "title": "Archer（旧hackajob）、両面型AI採用エージェント拡大へ1,000万ドル調達",
-      "fact": "Archerは11月20日、Volition Capital主導で1,000万ドルを調達したと発表。候補者と採用企業の双方を支援するAIエージェントを展開し、同社発表では過去12か月に候補者70万人超が登録、週1万件の紹介を実施。",
-      "read": "採用側のスクリーニング自動化だけでなく、求職者側の希望も反映して候補者をつなぐモデルに資金が付いた。採用の意思決定は採用担当者が行うと同社は説明。日本でもAIエージェントの評価軸を応募数ではなく紹介後の面接化・採用成果で見る必要がある。",
-      "action": "候補者・企業双方にAIが介在する採用サービスについて、候補者同意、推薦理由、面接化率を競合比較に加える。",
-      "source": "Archer（企業発表）",
-      "url": "https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring"
-    },
-    {
-      "tabs": [
-        "market",
-        "ai"
-      ],
-      "tier": "IMPORTANT",
-      "score": 78,
-      "cat": "市場・資金フロー",
-      "title": "採用・HR関連スタートアップへの2026年投資、約40億ドルに",
-      "fact": "Crunchbaseは11月19日、採用、求職、HR・給与関連の世界企業に2026年これまでに約40億ドルが投資されたと報告。前年並みかやや上回る水準となる見通しだが、案件数は減少傾向とした。",
-      "read": "資金総額が維持される一方で案件数が少ないなら、資金が大型案件や有力企業に集中している可能性がある。日本のHRTech企業には、汎用AI機能より独自データ、流通網、採用成果を示せる事業モデルが重要になる。",
-      "action": "国内HRTechの競争分析では、資金総額とともに投資先の集中度、資金使途、顧客獲得効率を追う。",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/"
+      "score": 91,
+      "cat": "市場・決算",
+      "title": "リクルートHD上期、HRテクノロジー売上が円ベース35.6%増",
+      "fact": "11月11日発表のFY2026上期決算で、連結売上収益は前年比19.3%増の2兆1,399億円。HRテクノロジー事業は35.6%増の9,455億円で、同事業の通期見通しは8月時点を上回る見込みとした。",
+      "read": "Indeed・Glassdoorを含むHRテックの成長がグループ業績を牽引。採用需要が底堅い米国を中心に、求人広告・マッチングの価格設定やAI機能への投資余力が競争力の差になり得る。",
+      "action": "Indeed系サービスの顧客単価・求人獲得動向と、AI機能が顧客の採用成果に与える影響を次回決算でも追う。",
+      "source": "Recruit Holdings（決算発表）",
+      "url": "https://recruit-holdings.com/en/ir/library/upload/Recruit_202703Q2_earnings_en.html"
     },
     {
       "tabs": [
@@ -39,154 +22,146 @@
         "ai"
       ],
       "tier": "MUST READ",
-      "score": 83,
-      "cat": "M&A・AI採用",
-      "title": "Dayforce、AI面接のRibbonを買収へ—音声・動画面接と人材再発掘を統合",
-      "fact": "Dayforceは10月23日、AI採用企業Ribbonの買収契約を発表。取得対象の能力は、音声・動画による初期面接、候補者ソーシング、人材プール再発掘、候補者連絡など。取引完了後、Dayforceの採用体験に統合する計画で、価格は発表資料に記載なし。",
-      "read": "HCM基盤が採用の初期接点と候補者データ活用まで取り込む動き。日本でもATS・人事基幹を持つ事業者が、面接AIや候補者対応を内製・買収・提携のどれで補うかが競争力を左右する。",
-      "action": "統合後の製品提供時期、面接評価の説明可能性、候補者データの利用範囲を確認する。",
-      "source": "Dayforce（企業発表）",
-      "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
+      "score": 89,
+      "cat": "市場・人材派遣AI",
+      "title": "パーソルテンプスタッフ、派遣スタッフ向け「仕事紹介AI」を展開",
+      "fact": "パーソルHDのFY2026上期決算説明資料によると、仕事紹介AIを2026年10月にリリース。夜間・休日も仕事紹介と問い合わせ対応を行い、年度内に全国全オフィスへ展開予定。工数30%以上削減、仕事紹介数最大10%増は同社の社内試算。",
+      "read": "派遣の競争力を登録者数だけでなく、稼働までの速度とマッチング処理能力で高める動き。社内試算の効果が実績化すれば、コーディネーターの配置や営業時間外の候補者対応を見直す材料になる。",
+      "action": "全国展開後の実績として、就業決定までの日数、紹介数、稼働率、スタッフ満足度を確認する。",
+      "source": "パーソルホールディングス（決算説明会トランスクリプト）",
+      "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Transcript.pdf"
     },
     {
       "tabs": [
-        "market",
-        "ai"
+        "market"
       ],
       "tier": "IMPORTANT",
-      "score": 75,
-      "cat": "HR SaaS・AIエージェント",
-      "title": "Workday、HRリサーチAI「Galileo」をSanaに統合へ",
-      "fact": "WorkdayとThe Josh Bersin Companyは11月12日、HRリサーチ・アドバイザリーAI「Galileo」をWorkdayのSanaで提供すると発表。採用、人材開発、要員計画、組織設計などを扱う5万ページ超のリサーチを基に助言する。Sana Enterpriseでの統合提供は2027年2月予定。",
-      "read": "HRシステムに蓄積した組織情報と外部のHR知見を、業務画面内の助言へつなぐ展開。日本企業にとっては、HRコンサルの知見をAIで提供する際のデータ権限管理と、助言と人事判断の切り分けが参考になる。",
-      "action": "HRコンサル・人事企画の業務で、調査・ベンチマーク回答のAI化とデータアクセス制御を検討する。",
-      "source": "Workday（企業発表）",
-      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-and-The-Josh-Bersin-Company-Bring-Galileo-Agent-to-Workday-Customers-in-Sana-Giving-HR-Leaders-Instant-Access-to-Trusted-Expertise/default.aspx"
+      "score": 79,
+      "cat": "市場・人材サービス",
+      "title": "Randstad Q3、オーガニック売上3.9%増・RPO売上4%増",
+      "fact": "10月21日発表のQ3 2026決算で、オーガニック売上は前年比3.9%増、基礎EBITAは11%増。RPO売上は8,400万ユーロで、オーガニック前年比4%増。アジア太平洋の売上／稼働日も6%増だった。",
+      "read": "グローバル人材サービス市場では、派遣に加えてRPOやデジタルマーケットプレイス、エージェント型AIを組み合わせた運営モデルが前進。日本企業も、単純な採用代行から採用プロセス全体の生産性改善へ調達要件を移す可能性がある。",
+      "action": "国内RPO案件で、採用充足だけでなく採用単価・リードタイム・候補者体験を含む成果報酬設計を検討する。",
+      "source": "Randstad（Q3 2026決算）",
+      "url": "https://www.randstad.com/press/2026/q3-2026-continued-top-line-momentum-drives-double-digit-profit-growth/"
     },
     {
       "tabs": [
-        "market",
-        "ai"
-      ],
-      "tier": "IMPORTANT",
-      "score": 73,
-      "cat": "HR SaaS・採用AI",
-      "title": "Dayforce、採用・学習・人材開発のエージェント機能を発表",
-      "fact": "Dayforceは11月に、採用、学習、パフォーマンス領域のAIエージェント型人材体験を発表。Ribbon買収完了後には、候補者発掘・再発掘、音声・動画による一次面接、候補者インサイトを統合する予定。追加機能は2026～2027年に展開予定とした。",
-      "read": "単一機能の採用AIから、採用後のスキル・学習・配置を含む人材ライフサイクル全体への拡張を示す。日本の人事SaaS・RPO事業者は、採用データを入社後の育成・配置につなぐ設計が差別化になり得る。",
-      "action": "採用AIの導入評価に、入社後データとの連携、機能提供時期、判断者の責任範囲を含める。",
-      "source": "Dayforce（企業発表）",
-      "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-introduces-agentic-talent-experiences-to-transform-how-organizations-hire-and-develop-talen"
-    },
-    {
-      "tabs": [
-        "market",
-        "hr",
-        "ai"
+        "market"
       ],
       "tier": "IMPORTANT",
       "score": 77,
-      "cat": "RPO・採用BPO",
-      "title": "パーソル、AI・RPA・採用データを組み合わせた「AI RPO」開始",
-      "fact": "パーソルビジネスプロセスデザインは10月21日、RPO運用にAIエージェント、RPA、採用分析基盤「レポラビ」、コンサルティングを組み合わせる「AI RPO by 採用のゼロ化」を開始。200件超のRPO運用ノウハウと400名超の専門人材を活用すると発表した。",
-      "read": "採用代行を人員提供中心から、業務標準化・自動化・採用データ分析を組み合わせた運用改善へ広げる国内大手の動き。採用業務の自動化だけでなく、運用データを継続改善に回す点が競争要素となる。",
-      "action": "RPO提案を業務量削減だけでなく、採用KPIの可視化、選考歩留まり改善、運用モデル再設計まで含めて比較する。",
-      "source": "パーソルビジネスプロセスデザイン（企業発表）",
-      "url": "https://www.persol-bd.co.jp/news/20261021/"
-    },
-    {
-      "tabs": [
-        "market",
-        "hr",
-        "ai"
-      ],
-      "tier": "IMPORTANT",
-      "score": 76,
-      "cat": "人材派遣・AI",
-      "title": "パーソル、派遣スタッフ向け「仕事紹介AI」を全国展開へ",
-      "fact": "パーソルの2026年度上期資料によると、派遣スタッフへの仕事紹介AIを2026年10月にリリース。夜間・休日の自動対応を可能にし、2026年度中に全国全オフィスへ展開する計画。社内試算として、コーディネーター工数30％以上削減、仕事紹介数最大10％増を示した。",
-      "read": "人材派遣のマッチング工程を、営業時間外にも稼働するAIで補完する取り組み。国内の人手不足環境では、登録スタッフへの接触速度と紹介件数の改善が稼働率・売上に直結するため、派遣各社の業務AI実装の比較対象になる。",
-      "action": "全社展開後、対応時間、紹介から応募への転換率、就業決定率、スタッフ満足度を分けて効果検証する。",
-      "source": "パーソルホールディングス（IR資料）",
-      "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Presentation.pdf"
+      "cat": "市場・組織再編",
+      "title": "Adecco、2027年から人材紹介・RPOを派遣・MSP部門へ統合",
+      "fact": "Adecco Groupは2027年1月1日付で3事業ラインへ再編し、LHHに属する人材紹介とRPOを、派遣・技術系派遣・MSP・アウトソーシングとともにWorkforce Solutionsへ移すと発表した。",
+      "read": "人材紹介・RPOを人材変革や研修事業から切り分け、採用・人材供給サービスとして束ねる再設計。顧客窓口やクロスセルを統合し、複数の採用手段を一括提供する競争が強まる可能性がある。日本での提供体制・ブランド変更は発表資料では明示されていない。",
+      "action": "2027年以降の日本向け組織・サービス変更を確認し、グローバル顧客のRPO/MSP調達方針への影響を追う。",
+      "source": "Adecco Group（Q3 2026決算資料）",
+      "url": "https://www.adeccogroup.com/-/media/Project/Adecco-Group/AdeccoGroup/PDF-Files/2026-Nov/Q3-2026-Result.pdf"
     },
     {
       "tabs": [
         "market",
         "hr"
-      ],
-      "tier": "WATCH",
-      "score": 66,
-      "cat": "M&A・RPO",
-      "title": "Hudson Talent Solutions、米国RPO企業Cornerstone RPOを取得",
-      "fact": "Hudson Talent Solutionsは11月2日、米バージニア州のCornerstone RPOの資産・負債を取得し、従業員を引き継いだ。Cornerstoneの能力・顧客基盤はRPO、採用支援、北米の既存顧客関係。発表では30社超の稼働顧客と、米国・カナダ・メキシコでのサービス実績を説明した。",
-      "read": "M&Aで獲得したのは、RPO運用能力に加え、北米の顧客接点と営業人材。日本のRPO事業者が海外進出や顧客基盤拡大を検討する際、現地運用チーム・契約・営業人材をまとめて取得する小型買収の参考になる。",
-      "action": "海外RPO提携・買収の検討時は、顧客契約の移管条件、稼働顧客維持率、現地営業責任者の役割を確認する。",
-      "source": "Star Equity Holdings（SEC提出資料）",
-      "url": "https://www.starequity.com/static-files/d73d5764-21cd-4ba6-a55c-6b91bd2e2a83"
-    },
-    {
-      "tabs": [
-        "market",
-        "hr",
-        "ai"
       ],
       "tier": "IMPORTANT",
       "score": 74,
-      "cat": "グローバル人材市場",
-      "title": "Randstad調査：AIスキル求人が5倍超、企業の86％が技術人材を増員方針",
-      "fact": "Randstadは10月29日、11市場の意思決定者1,100人への調査と求人・候補者データを基に、AIスキルを求める初級技術職求人が前年比5倍超、企業の86％が技術チーム拡大を計画と発表。63％は柔軟な人材モデルをAI人材不足への優先策と回答した。日本も調査対象市場に含まれる。",
-      "read": "AI導入は技術職採用を一律に減らすというより、AI実装・統制・関係者調整の人材需要と、契約・フリーランス活用を押し上げるという調査結果。日本企業では、採用だけでなく社内育成・外部人材活用を組み合わせた人材計画が論点になる。",
-      "action": "AI人材計画に、技術スキルだけでなくガバナンス、業務設計、コミュニケーションの需要と外部人材比率を加える。",
-      "source": "Randstad（企業調査）",
-      "url": "https://www.randstad.com/press/2026/randstad-tech-talent-report-2026/"
+      "cat": "市場・M&A",
+      "title": "Hudson Talent SolutionsがCornerstone RPOを買収",
+      "fact": "Star Equity Holdingsの開示によると、同社傘下のHudson Talent Solutionsは11月2日にCornerstone RPOの資産・負債を取得し、Cornerstoneの従業員もHudson側へ移った。Cornerstoneは米国・カナダ・メキシコでRPO等を提供する企業。",
+      "read": "取得対象はRPOの提供能力、顧客基盤、既存従業員を含む事業資産。Hudsonの採用支援・タレントアドバイザリーの拡張につながる。顧客データの移管範囲や個別契約の扱いは開示資料からは確認できない。",
+      "action": "買収後のサービス統合、既存顧客の継続率、従業員定着、北米でのクロスセルを確認する。",
+      "source": "Star Equity Holdings（SEC提出書類）",
+      "url": "https://starequityholdings.gcs-web.com/static-files/d73d5764-21cd-4ba6-a55c-6b91bd2e2a83"
+    },
+    {
+      "tabs": [
+        "market",
+        "hr"
+      ],
+      "tier": "IMPORTANT",
+      "score": 73,
+      "cat": "市場・資金調達",
+      "title": "フォースバレー、外国人材の採用・定着支援で6億円調達",
+      "fact": "フォースバレーは三光ソフラングループとの第三者割当増資により6億円を調達。両社は外国人材の採用・定着・ライフサポート領域で資本業務提携し、同グループの住居・暮らし関連事業と同社の海外人材採用・育成支援を連携させる方針。",
+      "read": "採用紹介にとどまらず、住居など来日後の生活支援を組み合わせる外国人材サービスの垂直統合型モデル。人手不足業種の採用・定着支援を広げる一方、生活支援の運用品質と地域展開が差別化要因になる。",
+      "action": "提携後の対象職種・受入企業、住居支援の提供地域、来日後の定着実績を確認する。",
+      "source": "フォースバレー・コンシェルジュ（資金調達発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000040269.html"
     },
     {
       "tabs": [
         "market",
         "ai"
       ],
-      "tier": "WATCH",
-      "score": 62,
-      "cat": "HRコンサル・AI",
-      "title": "Workday、HRアドバイザリーAIを業務ワークフローに組み込む方針",
-      "fact": "WorkdayとThe Josh Bersin Companyは、GalileoをSana内で提供し、採用・スキル開発・要員計画などに関する助言を提供すると発表。Galileoは組織の人事判断を代行せず、助言を目的とする設計として説明されている。",
-      "read": "HRコンサルティングの知識を対話型AIで提供し、日常業務に組み込む動き。日本のコンサル会社・人事BPO事業者には、独自の知見を検索可能な資産として整備し、顧客の業務文脈に沿って提供するモデルが示唆的。",
-      "action": "自社の人事ナレッジをAI化する場合、情報の出典、更新責任、助言と決定の境界を定義する。",
-      "source": "Workday（企業発表）",
-      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-and-The-Josh-Bersin-Company-Bring-Galileo-Agent-to-Workday-Customers-in-Sana-Giving-HR-Leaders-Instant-Access-to-Trusted-Expertise/default.aspx"
+      "tier": "IMPORTANT",
+      "score": 72,
+      "cat": "市場・資金調達",
+      "title": "英Archer、採用AIエージェント拡大に1,000万ドル調達",
+      "fact": "11月20日の報道によると、旧hackajobの採用プラットフォームArcherがVolition Capital主導で1,000万ドルを調達し、既存投資家AVPも参加。候補者と採用担当者の双方を支援するAI採用エージェント事業を拡大する。",
+      "read": "求人企業向けの候補者探索・選考支援と、求職者向けの求人発見を一体化するモデルへの資金供給。日本の紹介・求人媒体事業者にとって、既存ATS連携、候補者データの質、採用判断における人の関与が競争軸となる。",
+      "action": "採用担当者向け・候補者向けの機能、ATS連携範囲、料金体系、米国展開の有無を確認する。",
+      "source": "Startup.eu（資金調達報道）",
+      "url": "https://www.startup.eu/investments/archer-10-m-11-2026"
     },
     {
       "tabs": [
-        "policy",
-        "ai",
+        "market"
+      ],
+      "tier": "WATCH",
+      "score": 62,
+      "cat": "市場・資金調達",
+      "title": "スペインのValeria、給与・HR運用自動化で550万ユーロ調達",
+      "fact": "11月16日の報道によると、スペインのValeriaはBlackFin Capital Partners主導で550万ユーロのシード資金を調達。高離職率の業種を対象に、給与・人事業務の自動化と、従業員向けの給与・労務問い合わせ対応を提供する。",
+      "read": "高頻度の雇用・離職が発生する職場の給与・人事業務を、業務ソフトとAIで一体化する動き。日本でも小売・宿泊・外食などの多拠点雇用で、給与処理だけでなく従業員問い合わせまで含むHR運用SaaSの需要を測る参考になる。",
+      "action": "日本語・日本の労務制度への対応計画、顧客数、導入社の業種と運用効果を確認する。",
+      "source": "Startup.eu（資金調達報道）",
+      "url": "https://www.startup.eu/investments/valeria-hr-5-5-m-seed-11-2026"
+    },
+    {
+      "tabs": [
+        "market",
         "hr"
       ],
       "tier": "IMPORTANT",
-      "score": 80,
-      "cat": "政策・AI採用規制",
-      "title": "政府計画、AI採用代行の職業紹介該当性と許可要件の明確化を掲げる",
-      "fact": "7月21日閣議決定の規制改革実施計画は、AIによるスカウト作成・送配信、面接、問い合わせ対応について、職業紹介への該当性や有料職業紹介許可の要否を検討し、具体例・基準を明確化する方針を記載。判断の地域差を避ける対応も盛り込んだ。",
-      "read": "AI採用代行の機能設計によって、募集情報等提供と職業紹介の区分が事業運営上の論点となる。現時点で計画に書かれた検討方針と確定した法解釈を混同せず、サービス機能ごとに確認する必要がある。",
-      "action": "候補者推薦、選考連絡、面接、求人情報加工などの機能を棚卸しし、許可要否は最新の厚労省公表情報と個別相談で確認する。",
-      "source": "厚生労働省（規制改革実施計画）",
-      "url": "https://www.mhlw.go.jp/content/12602000/001753782.pdf"
+      "score": 71,
+      "cat": "市場・人材マッチング",
+      "title": "パーソルテンプスタッフ、北海道の大学発スタートアップにCxO候補をマッチング",
+      "fact": "11月20日、パーソルテンプスタッフは北海道大学などのHSFCと連携し、研究開発型スタートアップの事業化を支援する2026年度CxO人材マッチング事業の募集を開始。副業・フリーランス人材を全国から募り、研究者とマッチングする。前年度は応募約500人、マッチングを希望した研究者の約8割で成立したと発表。",
+      "read": "経営幹部人材の紹介に加え、副業・フリーランス人材を地域の研究開発型スタートアップへ接続する専門人材市場の展開。地域・大学・人材サービス会社の連携は、地方の経営人材不足を補う新たな顧客開拓ルートとなり得る。",
+      "action": "今年度の応募・成約数、マッチング後の稼働状況、事業化支援の継続案件への転換を追う。",
+      "source": "パーソルテンプスタッフ（ニュースリリース）",
+      "url": "https://www.tempstaff.co.jp/corporate/release/2026/20261120-12931.html"
+    },
+    {
+      "tabs": [
+        "market",
+        "ai"
+      ],
+      "tier": "IMPORTANT",
+      "score": 70,
+      "cat": "市場・採用AI",
+      "title": "Greenhouse調査、雇用主の52%がAI面接を利用",
+      "fact": "Greenhouseが米英独豪アイルランドの採用担当者・採用責任者1,347人を調査し、11月19日に公表。米国回答者では52%がAI面接を利用、73%が利用中または1年以内に利用予定。86%は偽・AI生成応募への対応で採用プロセスを変更し、90%は本物の候補者を誤って落とした経験があると回答。",
+      "read": "応募書類のAI生成が広がるなか、選考自動化の拡大と候補者誤判定への懸念が同時進行。日本への直接的な普及率を示す調査ではないが、AI面接を導入する際の人による判断責任、候補者への説明、誤判定検証の設計に参考となる。",
+      "action": "AI面接導入時に、候補者への事前説明、評価基準の検証、人間による再確認・異議申立ての手順を整備する。",
+      "source": "Greenhouse（2026 Future of Hiring Employer Report）",
+      "url": "https://www.greenhouse.com/newsroom/nine-in-ten-employers-believe-theyve-turned-away-real-candidates-as-ai-floods-job-applications"
     },
     {
       "tabs": [
         "hr",
-        "ai",
-        "policy"
+        "ai"
       ],
-      "tier": "WATCH",
+      "tier": "IMPORTANT",
       "score": 68,
-      "cat": "労働政策・人材育成",
-      "title": "厚労省の2026年労働経済白書、AIの労働市場影響と人材育成を分析",
-      "fact": "厚生労働省は9月29日、「令和8年版 労働経済の分析」を公表。2025年の雇用・賃金動向に加え、AI利用による経済成長・労働市場への影響と、AI時代の人材育成課題を分析した。",
-      "read": "政策側の論点がAI導入の是非だけでなく、職種別影響、労働移動、リスキリングへ広がっている。人材会社・研修事業者には、職種転換支援とAI活用スキル育成を結ぶサービス設計が関係する。",
-      "action": "白書の職種別分析を人材需給予測と研修商品企画に反映し、労働移動支援の対象領域を見直す。",
-      "source": "厚生労働省",
-      "url": "https://www.mhlw.go.jp/stf/newpage_75700.html"
+      "cat": "HR・AI人材育成",
+      "title": "パーソル総研、AIエージェントの資格取得から業務実装まで研修提供",
+      "fact": "パーソル総合研究所は11月12日、AICX協会公認研修パートナーとして「AIエージェント・ストラテジスト」資格対応の研修を開始。資格講座、業務活用ワークショップ、自社業務での企画・社内承認・実装を支援するプログラムを提供する。",
+      "read": "AI研修を知識習得で終わらせず、業務設計・社内承認・実装支援までつなぐ法人サービス。HRコンサル・研修事業者にとって、資格対策や汎用講座との差別化には、現場の業務変革を測る成果設計が重要になる。",
+      "action": "実装支援案件の受注状況、対象業務、導入後の工数・品質指標を確認し、研修からコンサルへの転換モデルを検討する。",
+      "source": "パーソル総合研究所（ニュースリリース）",
+      "url": "https://rc.persol-group.co.jp/news/info-20261112-1300-1/"
     }
   ]
 }
