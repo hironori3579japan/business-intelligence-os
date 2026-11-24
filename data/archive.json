@@ -1,6 +1,220 @@
 {
   "days": [
     {
+      "date": "2026-11-24",
+      "generated_at": "2026-11-24T06:40:15.453510+09:00",
+      "items": [
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 86,
+          "cat": "MARKET",
+          "title": "Recruit、スタディサプリ等の教育事業をオリックス系ファンドへ譲渡へ",
+          "fact": "Recruit Holdingsは11月18日、Study Sapuriを含む学習・高等教育進路支援事業をOQCI Fund傘下のOQI02へ譲渡する契約を締結。新設会社への会社分割後、2027年4月1日をめどに全株式を譲渡する予定。譲渡額・業績は非開示。サービスは譲渡後も継続予定。([recruit-holdings.com](https://recruit-holdings.com/en/newsroom/20261118_0001/?utm_source=openai))",
+          "read": "人材紹介・求人広告と隣接する教育・進路支援資産の切り分け。買い手は学習コンテンツと高校・学生ユーザー基盤を引き継ぐが、RecruitのHR領域における直接的な能力獲得案件ではない。",
+          "action": "譲渡後のサービス継続、学校・学生との顧客接点の維持、Recruitの人材・マッチング事業への資源集中の有無を追う。",
+          "source": "Recruit Holdings（一次情報）",
+          "url": "https://recruit-holdings.com/en/newsroom/20261118_0001/"
+        },
+        {
+          "tabs": [
+            "today",
+            "market",
+            "ai"
+          ],
+          "tier": "MUST READ",
+          "score": 84,
+          "cat": "MARKET",
+          "title": "Workday、AIエージェント向けデータ定義基盤Honeydewの買収意向",
+          "fact": "Workdayは11月18日、AI・BI向けセマンティックレイヤーを提供するHoneydewの買収意向を発表。Honeydewは企業内の指標定義を統一し、AIエージェント等が権限に沿って一貫した問い合わせ・クエリを実行するための基盤を提供する。買収完了は2027年1月31日までの同社FY2027第4四半期を想定。金額は発表資料に記載なし。([newsroom.workday.com](https://newsroom.workday.com/2026-11-18-Workday-Announces-Intent-to-Acquire-Honeydew%2C-a-Semantic-Layer-for-AI-and-Business-Intelligence?asPDF=1))",
+          "read": "HR・給与データを扱うHCMベンダーが、モデル自体より「業務定義・権限・実データへの接続」を取り込む動き。日本企業にも、AI人事分析や人員計画でデータ定義の整合性をどう担保するかが導入要件として波及し得る。",
+          "action": "買収完了時期、Workday Data Cloudとの統合、従業員数・給与等の指標に対するガバナンス機能の実装範囲を確認する。",
+          "source": "Workday Newsroom（一次情報）",
+          "url": "https://newsroom.workday.com/2026-11-18-Workday-Announces-Intent-to-Acquire-Honeydew%2C-a-Semantic-Layer-for-AI-and-Business-Intelligence"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 79,
+          "cat": "MARKET",
+          "title": "Revelio Labs、求人データ収集会社SourceStackを買収",
+          "fact": "Revelio Labsは11月17日、企業のATSから求人情報を直接収集するSourceStackの買収を発表。SourceStackのAI活用型データ収集技術と創業者の人材を取り込み、求人情報の網羅性を高める。買収金額は非開示。SourceStackの創業者はRevelio LabsのSourcing担当GMに就任。([reveliolabs.com](https://www.reveliolabs.com/blog/revelio-labs-acquires-sourcestack?utm_source=openai))",
+          "read": "獲得対象は求人データの収集技術、グローバル求人データ、顧客/API利用基盤、創業者の専門人材。人材市場データを扱う分析会社が、一次に近い求人情報の捕捉力を強化する案件。",
+          "action": "既存のATSデータ顧客への提供継続、データの地域・職種カバレッジ、採用需要分析商品の更新頻度を確認する。",
+          "source": "Revelio Labs（買収当事者の発表）",
+          "url": "https://www.reveliolabs.com/blog/revelio-labs-acquires-sourcestack"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 70,
+          "cat": "MARKET",
+          "title": "Hudson Talent Solutions、北米RPOのCornerstoneを買収",
+          "fact": "Star Equity Holdingsは11月3日、傘下Hudson Talent Solutions（HTS）が米国のRPO会社Cornerstoneを11月2日に買収したと発表。Cornerstoneは米国・カナダ・メキシコで30社超のアクティブ顧客を持ち、創業者Rodney AshbyはHTSの北米営業責任者に就任。HTSはRPO、タレントアドバイザリー、エグゼクティブサーチ、採用ブランディング、ソーシング等を展開。取引額は非開示。([starequityholdings.gcs-web.com](https://starequityholdings.gcs-web.com/node/28666/pdf))",
+          "read": "獲得対象は北米の企業顧客、RPOの実行能力、営業人材・リーダーシップ。既存バックオフィスへ統合し、HTSの企業向け採用案件を拡大する狙いが示されている。",
+          "action": "統合後の顧客維持、既存案件の大型化、北米RPOの売上・人員規模への寄与を確認する。",
+          "source": "Star Equity Holdings（買収当事者の発表）",
+          "url": "https://starequityholdings.gcs-web.com/node/28666/pdf"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "MUST READ",
+          "score": 85,
+          "cat": "MARKET",
+          "title": "Dayforce、会話型AI面接のRibbon AI買収を発表",
+          "fact": "Dayforceは10月23日、AI採用テック企業Ribbon AIの買収契約を発表。Ribbonの音声・動画による会話型AI面接技術をDayforceのAgentic Recruitingへ統合し、候補者のソーシング、スクリーニング、エンゲージメントを支援する計画。([dayforce.com](https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting?utm_source=openai))",
+          "read": "獲得対象は候補者との対話型音声・動画面接技術とAI採用チーム。Dayforceは人事・給与・勤怠の統合基盤に採用自動化を加え、高ボリューム採用市場での競争力を狙う。日本では大量採用企業の選考時間短縮と、AI面接の説明責任・候補者体験が導入論点となる。",
+          "action": "契約完了・製品統合時期、対象言語、候補者データ利用とAI面接の人による監督設計を追う。",
+          "source": "Dayforce（一次情報）",
+          "url": "https://www.dayforce.com/who-we-are/newsroom/dayforce-to-acquire-ribbon-ai-inc-to-advance-agentic-recruiting"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 77,
+          "cat": "MARKET",
+          "title": "Archer、両面型AI採用エージェント拡大へ1,000万ドル調達",
+          "fact": "Archer（旧hackajob）は11月20日、Volition Capital主導、既存投資家AVP参加の1,000万ドル調達を発表。候補者向けの求人推薦と、企業の採用担当者向け候補者発掘・紹介の双方を担うAIエージェントを拡大する。会社発表では、直近12カ月で候補者70万人超が登録し、週1万件の紹介を実施。([hackajob.com](https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring?utm_source=openai))",
+          "read": "資金は採用側だけでなく求職者側のエージェント開発にも投入される。応募・スカウトの大量化に対し、候補者と企業の双方を仲介するAI採用モデルへの投資事例。登録者数や紹介実績は会社公表値。",
+          "action": "調達後の企業顧客拡大、AIによる候補者適合判定の品質、人による選考判断との役割分担を確認する。",
+          "source": "Archer / hackajob（一次情報）",
+          "url": "https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 75,
+          "cat": "MARKET",
+          "title": "Randstad Q3、オーガニック売上3.9%増・75%の事業が成長と発表",
+          "fact": "Randstadは10月21日、2026年Q3の売上高61.15億ユーロ、オーガニック売上成長率3.9%、基礎EBITA 2.11億ユーロを発表。CEOは全事業の75%が成長していると説明し、専門化、デジタルマーケットプレイス、エージェント型AIを収益性向上の手段として挙げた。([randstad.com](https://www.randstad.com/press/2026/q3-2026-continued-top-line-momentum-drives-double-digit-profit-growth/))",
+          "read": "グローバル大手の回復局面で、AI活用を採用仲介の省力化・コスト対売上の改善と結びつける姿勢が示された。日本の人材会社にとっても、AI導入のKPIを業務効率だけでなく粗利・サービス成長に結びつける比較材料。",
+          "action": "日本を含む地域別の成長、専門領域別の業績、AI・デジタル投資の定量効果を決算説明資料で確認する。",
+          "source": "Randstad（一次情報）",
+          "url": "https://www.randstad.com/press/2026/q3-2026-continued-top-line-momentum-drives-double-digit-profit-growth/"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "IMPORTANT",
+          "score": 73,
+          "cat": "MARKET",
+          "title": "ManpowerGroup Q3、売上48億ドル・米国Experisが増収に転換",
+          "fact": "ManpowerGroupは10月15日、2026年Q3売上高48億ドル（前年同期比4%増、為替一定ベース5%増）を発表。米国Experisが四半期中に増収へ転じ、同社は2026年を事業の転換点と位置づけた。Becky Frankiewicz氏が2027年1月1日付でCEOに就任予定。([investor.manpowergroup.com](https://investor.manpowergroup.com/news-releases/news-release-details/manpowergroup-reports-3rd-quarter-2026-results?utm_source=openai))",
+          "read": "総合人材サービスの回復と、IT人材ブランドの改善が同時に示された。CEO交代を控え、事業変革・コスト削減と専門人材領域の成長をどう両立するかが次の経営課題。",
+          "action": "2027年のCEO交代後の戦略継続、Experisの地域別業績、Talent Solutionsの回復状況を追う。",
+          "source": "ManpowerGroup（一次情報）",
+          "url": "https://investor.manpowergroup.com/news-releases/news-release-details/manpowergroup-reports-3rd-quarter-2026-results"
+        },
+        {
+          "tabs": [
+            "market"
+          ],
+          "tier": "MUST READ",
+          "score": 80,
+          "cat": "MARKET",
+          "title": "Adecco、RPO・専門人材紹介をStaffing/MSP等と同じ事業線へ再編",
+          "fact": "Adecco GroupはQ3 2026決算資料で、2027年1月からLHHにある専門人材紹介とRPOをWorkforce Solutionsへ移し、派遣、技術系派遣、MSP、アウトソーシングと統合すると説明。Talent Transformation Solutionsはキャリア移行、コーチング、スキリングを担う。新体制による追加ランレート削減額は2027年Q3までに7,500万ユーロを見込む。([adeccogroup.com](https://www.adeccogroup.com/-/media/Project/Adecco-Group/AdeccoGroup/PDF-Files/2026-Nov/Q3-2026-Result.pdf))",
+          "read": "採用実行サービスを一つの商業・運営単位にまとめ、キャリア転換・育成と区分する構造改革。RPO/MSP/派遣の統合提案とコスト効率を重視する競争環境につながる可能性がある。",
+          "action": "2027年の組織移管後、RPO・専門人材紹介の顧客窓口、ブランド運用、実際のコスト削減と利益率を確認する。",
+          "source": "Adecco Group Q3 2026決算資料（一次情報）",
+          "url": "https://www.adeccogroup.com/-/media/Project/Adecco-Group/AdeccoGroup/PDF-Files/2026-Nov/Q3-2026-Result.pdf"
+        },
+        {
+          "tabs": [
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 82,
+          "cat": "MARKET",
+          "title": "PERSOL、派遣スタッフ向け「仕事紹介AI」を10月にリリース",
+          "fact": "PERSOLのFY2026上期説明資料によると、仕事紹介AIは2026年10月にリリース。夜間・休日も仕事紹介や問い合わせ対応を可能にし、FY2026中にパーソルテンプスタッフ全オフィスへ展開予定。同社の社内試算では、コーディネーター工数30%以上削減、仕事紹介数最大10%増を想定。([persol-group.co.jp](https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Transcript.pdf))",
+          "read": "派遣コーディネーターの業務を、案件獲得・人選に続いて候補者への提案・応募受付までAI化する動き。試算値であり実績ではないが、稼働決定までのリードタイムや紹介件数を測る運用設計が競争上の焦点となる。",
+          "action": "全国展開の進捗、実績ベースの工数・紹介数・就業決定率、スタッフからの問い合わせ品質を追う。",
+          "source": "PERSOL Holdings FY2026上期説明資料（一次情報）",
+          "url": "https://www.persol-group.co.jp/ir/upload_file/m009-/FY2026Q2_Presentation.pdf"
+        },
+        {
+          "tabs": [
+            "today",
+            "market"
+          ],
+          "tier": "WATCH",
+          "score": 61,
+          "cat": "MARKET",
+          "title": "PERSOL、北海道の研究開発型スタートアップ向けCxO人材マッチング募集",
+          "fact": "PERSOLグループは11月20日、北海道の研究開発型スタートアップの事業化を経営人材で支援する「HSFC CxO人材マッチング事業」の2026年度募集開始を告知。([persol-group.co.jp](https://www.persol-group.co.jp/news/))",
+          "read": "地域の研究開発スタートアップに経営人材を接続する、専門人材紹介・経営人材支援の隣接市場。単発の募集告知のため、事業規模や収益寄与は発表情報から確認できない。",
+          "action": "募集人数・対象職種、成約後の支援範囲、翌年度以降の継続・他地域展開を確認する。",
+          "source": "PERSOLグループ（一次情報のニュース一覧）",
+          "url": "https://www.persol-group.co.jp/news/"
+        },
+        {
+          "tabs": [
+            "today",
+            "market",
+            "ai"
+          ],
+          "tier": "IMPORTANT",
+          "score": 76,
+          "cat": "MARKET",
+          "title": "Workday、EUデータ統制強化のため現地運営会社を設置へ",
+          "fact": "Workdayは11月18日、EU Sovereign Cloudを運営するアイルランド拠点の会社を設立し、EU市民で構成する取締役会を置く計画を発表。サービスは提供中で、新会社と追加の構造的保護措置は2027年初頭の稼働を見込む。対象はHR・財務データとサービス運営。([investor.workday.com](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx?utm_source=openai))",
+          "read": "人事・給与データを扱うクラウドで、データ所在地だけでなく運営・ガバナンスの所在を差別化要素にする展開。日本企業の欧州拠点や規制業種では、AI導入時のデータ主権・運営継続性の検討材料となる。",
+          "action": "欧州拠点を持つ顧客は、契約上のデータ管理、政府要請時のサービス継続措置、AI機能の適用条件を確認する。",
+          "source": "Workday（一次情報）",
+          "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx"
+        },
+        {
+          "tabs": [
+            "policy",
+            "hr"
+          ],
+          "tier": "IMPORTANT",
+          "score": 78,
+          "cat": "POLICY",
+          "title": "厚労省、労働経済白書でAI時代の人材投資・労働移動を提起",
+          "fact": "厚生労働省が9月29日に公表した令和8年版労働経済白書は、経営戦略と人材戦略を連携させ、AI投資と人的資本投資を併せて進める重要性を指摘。AIの雇用・労働需要への影響は職種等で異なる可能性があり、労働移動やリスキリング支援、論理的思考・批判的思考・コミュニケーション等の「メタスキル」の重要性にも言及した。([mhlw.go.jp](https://www.mhlw.go.jp/stf/newpage_75700.html?trk=article-ssr-frontend-pulse_little-text-block))",
+          "read": "政策当局の分析はAI投資を単独の技術導入ではなく、人材戦略・再配置・能力開発と一体で扱う方向。人事・人材開発事業者には、職務変化の把握とリスキリング支援を組み合わせる余地がある。",
+          "action": "白書の職種別分析を人員計画・研修設計に反映し、AI導入前後の業務変化と必要スキルを可視化する。",
+          "source": "厚生労働省（一次情報）",
+          "url": "https://www.mhlw.go.jp/stf/newpage_75700.html"
+        },
+        {
+          "tabs": [
+            "policy",
+            "today"
+          ],
+          "tier": "IMPORTANT",
+          "score": 72,
+          "cat": "POLICY",
+          "title": "米労働省、PERM採用要件の電子化・変更を含む規則案を公表",
+          "fact": "米連邦官報は11月17日、PERM労働認証の採用要件を見直す提案規則を掲載。規則案は、従来の印刷物中心の採用手段を、雇用主ウェブサイト、求人サイト、SNS、就職説明会等を活用する電子的な採用要件へ置き換える案を含む。これは提案段階の規則であり、確定規則ではない。([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf?utm_source=openai))",
+          "read": "米国で外国人雇用に関わる採用証跡・チャネル要件の変更が提案された。採用代行、移民雇用支援、米国人材を扱う企業は、成立した場合の手続き・記録要件変更に備える必要がある。",
+          "action": "意見募集期限、最終規則化の時期、対象となる採用記録・電子媒体の要件を法務・移民支援担当と確認する。",
+          "source": "Federal Register（米連邦官報・提案規則）",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "generated_at": "2026-11-23T06:31:21.704879+09:00",
       "items": [
